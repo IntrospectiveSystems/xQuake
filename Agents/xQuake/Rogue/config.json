@@ -1,0 +1,20 @@
+{
+	"Sources": {
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Rogue": {
+			"Module": "xQuake.Core.Rogue",
+			"Source":"xQuake",
+			"Par":{
+				"Agent": "$Agent",
+				"Services": [
+					"$Agent",
+					"$Services"
+				]
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

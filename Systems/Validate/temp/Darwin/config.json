@@ -1,0 +1,123 @@
+{
+  "Sources": {
+    "xVR": "{xVR}",
+    "xQuake": "{xQuake}"
+  },
+  "Modules": {
+    "Deferred": [],
+    "Agent": {
+      "Module": "xVR.Orca.Agent",
+      "Source": "xVR",
+      "Par": {
+        "Name": "{Name}",
+        "Daemon": [
+          "{Host}",
+          "{Port}"
+        ],
+        "Services": [
+          "$Mesh"
+        ]
+      }
+    },
+    "Mesh": {
+      "Module": "xVR.Orca.Mesh",
+      "Source": "xVR",
+      "Par": {}
+    },
+    "General": {
+      "Module": "xQuake.Services.General",
+      "Source": "xQuake",
+      "Par": {
+        "mPicks": 2000,
+        "Services": [
+          "$General"
+        ]
+      }
+    },
+    "HypoList": {
+      "Module": "xQuake.Services.HypoList",
+      "Source": "xQuake",
+      "Par": {
+        "mHypos": 100,
+        "Services": [
+          "$General"
+        ]
+      }
+    },
+    "PickList": {
+      "Module": "xQuake.Services.PickList",
+      "Source": "xQuake",
+      "Par": {
+        "mPicks": 30000,
+        "Services": [
+          "$General"
+        ]
+      }
+    },
+    "Associate": {
+      "Module": "xQuake.Services.Associate",
+      "Source": "xQuake",
+      "Par": {
+        "Services": [
+          "$HypoList",
+          "$PickList",
+          "$Trav",
+          "$General"
+        ]
+      }
+    },
+    "Locate": {
+      "Module": "xQuake.Services.Locate",
+      "Source": "xQuake",
+      "Par": {
+        "Services": [
+          "$HypoList",
+          "$PickList",
+          "$Trav",
+          "$General"
+        ]
+      }
+    },
+    "Nucleate": {
+      "Module": "xQuake.Services.Nucleate",
+      "Source": "xQuake",
+      "Par": {
+        "Services": [
+          "$HypoList",
+          "$PickList",
+          "$Trav",
+          "$General",
+          "$Locate"
+        ]
+      }
+    },
+    "Trav": {
+      "Module": "xQuake.Services.Trav",
+      "Source": "xQuake",
+      "Par": {
+        "Data": "{Data}",
+        "Branch": [
+          "P"
+        ]
+      }
+    },
+    "Darwin": {
+      "Module": "xQuake.Core.Darwin",
+      "Source": "xQuake",
+      "Par": {
+        "Agent": "$Agent",
+        "Data": "{Data}",
+        "Services": [
+          "$Agent",
+          "$HypoList",
+          "$PickList",
+          "$Associate",
+          "$Nucleate",
+          "$Locate",
+          "$Trav",
+          "$General"
+        ]
+      }
+    }
+  }
+}

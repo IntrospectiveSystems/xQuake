@@ -1,0 +1,115 @@
+[
+	{
+		"Name": "Board",
+		"Type": "Terrain",
+		"Model": "IS.Terrain.Layout",
+		"Children":[
+			{
+				"Name": "Gridxxx",
+				"Type": "Fixed",
+				"Position": [0, 0, 0.1],
+				"Model": "IS.Terrain.Grid_200_10"
+			},
+			{
+				"Name": "Rogue",
+				"Type": "Artifact",
+				"Title": "Rogue",
+				"Deploy": {
+					"Agent": "xQuake.Rogue",
+					"Before": 1.0,
+					"After": 30,
+					"Rogues": {
+						"OK1": "20190105231744.20,35.9050,-97.2790,5.80,3.1",
+						"OK2": "20190120014523.12,35.2772,-97.8622,5.51,2.9",
+						"OK3": "20190118151729.36,35.3165,-97.9811,5.00,2.8",
+						"NADA": "NADA"
+					}
+				},
+				"Model": "Squid.Chess.Knight",
+				"Position": [-10, 0, 0],
+				"Scale": 5.0,
+				"Links": [
+					"Sites"
+				]
+			},
+			{
+				"Name": "Sites",
+				"Type": "Artifact",
+				"Title": "Sites",
+				"Model": "Squid.Chess.Pawn",
+				"Deploy": {
+					"Agent": "xQuake.Sites",
+					"StationLists":[
+						{
+							"Use": false,
+							"Format":"ISC",
+							"Path":"ISC_stations.htm",
+							"Web": "http://www.isc.ac.uk/registries/"
+						},
+						{
+							"Use": true,
+							"Format":"NEIC",
+							"Path":"latest_stationlist.txt"
+						},
+						{
+							"Use": true,
+							"Format":"NCAL",
+							"Path":"NCAL_stations.dat"
+						},
+						{
+							"Use": true,
+							"Format":"NN",
+							"Path":"NN_StationList.csv"
+						},
+						{
+							"Use": true,
+							"Format":"PB",
+							"Path":"PB_PlateBoundary.csv"
+						},
+						{
+							"Use": true,
+							"Format":"SCSN",
+							"Path":"SCSN_Weblist.txt"
+						},
+						{
+							"Use": true,
+							"Format":"SCEDC",
+							"Path":"SCEDC_SCSN_StationList.txt"
+						}
+					]
+				},
+				"Position": [0, 0, 0],
+				"Scale": 5.0,
+				"Links": [
+					"Oklahoma",
+					"Earth2D"
+				]
+			},
+			{
+				"Name": "Oklahoma",
+				"Type": "Artifact",
+				"Title": "Oklahoma",
+				"Deploy": {
+					"Agent": "xQuake.Associator.Single"
+				},
+				"Model": "Squid.Pawn",
+				"Position": [10, 0, 0],
+				"Scale": 5.0
+			},
+			{
+				"Name": "Earth2D",
+				"Type": "Artifact",
+				"Title": "Earth2D",
+				"Deploy": {
+					"Agent": "xQuake.Web.Flat.Earth2D",
+					"Args": {
+						"WebPort": 8081
+					}
+				},
+				"Model": "Squid.LCD",
+				"Position": [20, 0, 0],
+				"Scale": 5.0
+			}
+		]
+	}
+]

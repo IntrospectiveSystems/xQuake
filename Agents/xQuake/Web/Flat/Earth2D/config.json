@@ -1,0 +1,34 @@
+{
+	"Sources": {
+		"xGraph": "{xGraph}",
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Server": {
+			"Module": "xGraph.WebViewer",
+			"Source":"xGraph",
+			"Par": {
+				"ApexList": {
+					"Controller":"$Controller"
+				},
+				"Port": "{WebPort}",
+				"Url": "Paint",
+				"Paint": "@system: browser.json"
+			}
+		},
+		"Earth2D": {
+			"Module": "xQuake.Earth2D.Server",
+			"Source":"xQuake",
+			"Par":{
+				"Agent": "$Agent",
+				"Server": "$EVE3DProxy",
+				"Services": [
+					"$Agent",
+					"$Services"
+				]
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

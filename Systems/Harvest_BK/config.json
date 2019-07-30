@@ -1,0 +1,26 @@
+{
+	"Sources": {
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Harvest": {
+			"Module":"xQuake.Archive.Harvest",
+			"Source":"xQuake",
+			"Par":{
+				"Topic": "pickBK-edge",
+				"BrickSize": 100000000,
+				"Kafka":"$Kafka",
+				"Chron":"{Picks}"
+			}
+		},
+		"Kafka": {
+			"Module":"xQuake.Kafka.Client",
+			"Source":"xQuake",
+			"Par":{
+				"Topic":"pickBK-edge"
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

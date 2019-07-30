@@ -1,0 +1,117 @@
+[
+	{
+		"Name": "Board",
+		"Type": "Terrain",
+		"Model": "IS.Terrain.Layout",
+		"Children":[
+			{
+				"Name": "Grid",
+				"Type": "Fixed",
+				"Position": [0, 0, 0.1],
+				"Model": "IS.Terrain.Grid_200_10"
+			},
+			{
+				"Name": "NEIC",
+				"Type": "Artifact",
+				"Title": "NEIC",
+				"Model": "Squid.Chess.Queen",
+				"Deploy": {
+					"Agent": "xQuake.Snarf",
+					"Topics": [
+						{
+							"Topic": "pickceus-edge",
+							"Source": "NEIC/US/LocalFilter"
+						},
+						{
+							"Topic": "Test-RayPicker-1",
+							"Source": "NEIC/US/GlobalFilter"
+						},
+						{
+							"Topic": "pickNC-edge",
+							"Source": "NorthernCalifornia"
+						},
+						{
+							"Topic": "pick-edge",
+							"Source": "NEIC/world"
+						},
+						{
+							"Topic": "pickBK-edge",
+							"Source": "NEIC/Local"
+						}
+					]
+				},
+				"Position": [-10, 0, 0],
+				"Scale": 5.0,
+				"Links": [
+					"Sites"
+				]
+			},
+			{
+				"Name": "Sites",
+				"Type": "Artifact",
+				"Title": "Sites",
+				"Model": "Squid.Chess.Pawn",
+				"Deploy": {
+					"Agent": "xQuake.Sites",
+					"StationLists":[
+						{
+							"Use": true,
+							"Format":"ISC",
+							"Path":"ISC_stations.htm",
+							"Web": "http://www.isc.ac.uk/registries/"
+						},
+						{
+							"Use": true,
+							"Format":"NEIC",
+							"Path":"latest_stationlist.txt"
+						},
+						{
+							"Use": true,
+							"Format":"NCAL",
+							"Path":"NCAL_stations.dat"
+						},
+						{
+							"Use": true,
+							"Format":"NN",
+							"Path":"NN_StationList.csv"
+						},
+						{
+							"Use": true,
+							"Format":"PB",
+							"Path":"PB_PlateBoundary.csv"
+						},
+						{
+							"Use": true,
+							"Format":"SCSN",
+							"Path":"SCSN_Weblist.txt"
+						},
+						{
+							"Use": true,
+							"Format":"SCEDC",
+							"Path":"SCEDC_SCSN_StationList.txt"
+						}
+					]
+				},
+				"Position": [0, 0, 0],
+				"Scale": 5.0,
+				"Links": [
+					"Earth3D"
+				]
+			},
+			{
+				"Name": "Earth3D",
+				"Type": "Artifact",
+				"Title": "Earth3D",
+				"Deploy": {
+					"Agent": "xQuake.Web.Sphere.Earth3D",
+					"Args": {
+						"WebPort": 8081
+					}
+				},
+				"Model": "Squid.LCD",
+				"Position": [10, 0, 0],
+				"Scale": 5.0
+			}
+		]
+	}
+]

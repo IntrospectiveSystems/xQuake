@@ -1,0 +1,31 @@
+[
+	{
+		"Name": "Board",
+		"Type": "Terrain",
+		"Model": "IS.Terrain.Layout",
+		"Children":[
+			{
+				"Name": "Gridxxx",
+				"Type": "Fixed",
+				"Position": [0, 0, 0.1],
+				"Model": "IS.Terrain.Grid_200_10"
+			},
+			{
+				"Name": "Tally",
+				"Type": "Artifact",
+				"Title": "Tally",
+				"Deploy": {
+					"Agent": "xQuake.Tally",
+					"T1": "20190501000000.000",
+					"T2": "20190601000000.000",
+					"Epoch": "201905"
+				},
+				"Model": "Squid.Chess.Knight",
+				"Position": [0, 0, 0],
+				"Scale": 5.0,
+				"Links": [
+				]
+			}
+		]
+	}
+]

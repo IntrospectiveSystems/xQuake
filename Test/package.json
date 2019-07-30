@@ -1,0 +1,8 @@
+{
+	"name" : "Test",
+	"version" : "0.0.3",
+	"dependencies" : {
+		"ecef-projector":"~1.0.1",
+		"async" : "~2.5.0"
+	}
+}

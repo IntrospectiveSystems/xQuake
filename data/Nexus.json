@@ -1,0 +1,439 @@
+{
+	"xIntrospective": "c:/xIntrospective",
+	"xGraph": "c:/xMorph",
+	"S3": "C:/S3",
+	"Cache": "Cache",
+	"Schema": "Schema",
+	"TrackIO":  false,
+	"StationList": "/S3/xIntrospective/NEIC/latest_stationlist.txt",
+	"Current": "Current",
+	"StationList": "/S3/xIntrospective/NEIC/latest_stationlist.txt",
+	"DataSource": {
+		"Path":  "/S3/xIntrospective/NEIC/20151109.gpicks",
+		"Null": "Null"
+	},
+  	"Authenticate": "{xGraph}/Lib/Authenticate.js",
+  	"Users": "{xIntrospective}/Work/Users/",
+	"Plexus": {
+		"Host": "127.0.0.1",
+		"Port": 27000,
+		"Pid": "F4DACF7B725A60F3CED494C4D4C8D2C6"
+	},
+	"Live": {
+		"Channels": {
+			"Dev-RayPicker-1": {
+				"Topic": "Dev-RayPicker-1",
+				"Type": "Pick"
+			},
+			"pick-edge": {
+				"Topic": "pick-edge",
+				"Type": "Pick"
+			},
+			"beam-edge": {
+				"Topic": "beam-edge",
+				"Type": "Beam"
+			},
+			"Dev-SubspaceDetector": {
+				"Topic": "Dev-SubspaceDetector",
+				"Type": "Corr"
+			}
+		}
+	},
+	"Rogues": {
+		"All": {
+			"T1": "201501010000",
+			"T2": "201801010000"
+		},
+		"Test": {
+			"T1": "201511080000",
+			"T2": "201511080500"
+		}
+	},
+	"Work": "/xIntrospective/Work/Live",
+	"Root": "/xMorph/Work/Root",
+	"Data": "/xIntrospective/Work/Data",
+	"Radius": 6371.0,
+	"Degree": 4,
+	"LonCor": 180,
+	"Portal": 27008,
+	"X_Axis": [ 0, 180 ],
+	"Y_Axis": [ 0, 1800 ],
+	"Quake": {
+		"MaxPicks": 100,
+		"MaxQuakes": 50,
+		"Init": [
+			{
+				"Cmd": "Initialize",
+				"Model": "ak135_mod.d",
+				"HypoMax": 250,
+				"Track": false,
+				"Params": {
+					"Thresh": 0.5,
+					"Nucleate": 10,
+					"sdAssociate": 3.0,
+					"sdPrune": 3.0,
+					"expAffinity": 2.5,
+					"avgDelta": 10.0,
+					"avgDelta": 0.0,
+					"avgSigma": 0.75
+				},
+				"Phases": [
+					{
+						"Phase": "P",
+						"Range": [ 0, 0, 120, 180 ]
+					},
+					{
+						"Phase": "S",
+						"Assoc": [ 10, 90 ]
+					},
+					{
+						"Phase": "PcP",
+						"Range": [ 0, 0, 45 , 50]
+					},
+					{
+						"Phase": "PP",
+						"Range": [ 90, 95, 175, 180 ]
+					},
+					{
+						"Phase": "PKPab",
+						"Range": [ 130, 132, 178, 180 ]
+					},
+					{
+						"Phase": "PKPdf",
+						"Range": [ 100, 114, 176, 180 ]
+					}
+				]
+			}
+		],
+		"Web": [
+			{
+				"Cmd": "Global",
+				"Name": "Global",
+				"Phase": "P",
+				"Nets": [ "IU", "US", "II", "CU", "G", "GE", "IM", "IC", "GT", "C", "AU", "MX", "AT", "JP", "NZ" ],
+				"Resolution": 100.0,
+				"Detect": 24,
+				"Nucleate": 6,
+				"Z": [
+					10.0,
+					30.0,
+					50.0,
+					100.0,
+					200.0,
+					300.0,
+					400.0,
+					500.0,
+					600.0,
+					750.0
+				]
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "NorthAtlantic",
+				"Phase": "P",
+				"_Nets": [ "IU", "US", "II", "CU", "G", "GE", "IM", "IC", "GT", "C", "AU", "MX", "AT", "JP", "NZ" ],
+				"Resolution": 50.0,
+				"Rows": 100,
+				"Cols": 80,
+				"Lat": 23.0,
+				"Lon": -41.0,
+				"Z": 10.0,
+				"Detect": 30,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "SouthAtlantic",
+				"Phase": "P",
+				"_Nets": [ "IU", "US", "II", "CU", "G", "GE", "IM", "IC", "GT", "C", "AU", "MX", "AT", "JP", "NZ" ],
+				"Resolution": 50.0,
+				"Rows": 150,
+				"Cols": 70,
+				"Lat": -32.0,
+				"Lon": -10.0,
+				"Z": 10.0,
+				"Detect": 30,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "EastPacificRise",
+				"Phase": "P",
+				"Resolution": 50.0,
+				"Rows": 31,
+				"Cols": 31,
+				"Lat": 5.0,
+				"Lon": -100.0,
+				"Z": 10.0,
+				"Detect": 30,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "ContinentalUS",
+				"Phase": "P",
+				"Nets": [ "IU", "US", "II", "CU", "G", "GE", "IM", "IC", "GT", "C", "AU", "MX", "AT", "JP", "NZ" ],
+				"Resolution": 50.0,
+				"Rows": 70,
+				"Cols": 132,
+				"Lat": 37.5,
+				"Lon": -97.0,
+				"Z": 10,
+				"Detect": 12,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+	{
+		"Cmd": "Grid",
+		"Name": "WesternUS",
+		"Phase": "P",
+		"Resolution": 25,
+		"Rows": 80,
+		"Cols": 80,
+		"Lat": 39.0,
+		"Lon": -114.0,
+		"Z": 10,
+		"Detect": 14,
+		"Nucleate": 6,
+		"Thresh": 0.5
+	},
+			{
+				"Cmd": "Grid",
+				"Name": "Oklahoma",
+				"Phase": "P",
+				"Resolution": 25,
+				"Rows": 51,
+				"Cols": 51,
+				"Lat": 36.0,
+				"Lon": -97.5,
+				"Z": 10,
+				"Detect": 10,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Hawaii",
+				"Phase": "P",
+				"Resolution": 25,
+				"Rows": 11,
+				"Cols": 11,
+				"Lat": 19.62,
+				"Lon": -155.51,
+				"Z": 10,
+				"Detect": 10,
+				"Nucleate": 5,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Carribean",
+				"Phase": "P",
+				"_Nets": [ "IU", "US", "II", "CU", "G", "GE", "IM", "IC", "GT", "C", "AU", "MX", "AT", "JP", "NZ" ],
+				"Resolution": 50,
+				"Rows": 52,
+				"Cols": 80,
+				"Lat": 13.0,
+				"Lon": -74.0,
+				"Z": 10,
+				"Detect": 12,
+				"Nucleate": 5,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "JuanDeFuca",
+				"Phase": "P",
+				"Resolution": 40,
+				"Rows": 25,
+				"Cols": 39,
+				"Lat": 44.0,
+				"Lon": -130.0,
+				"Z": 10,
+				"Detect": 12,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Alaska",
+				"Phase": "P",
+				"Resolution": 50,
+				"Rows": 31,
+				"Cols": 41,
+				"Lat": 65.0,
+				"Lon": -147.0,
+				"Z": 10,
+				"Detect": 12,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Aleutians",
+				"Phase": "P",
+				"Resolution": 50,
+				"Rows": 17,
+				"Cols": 48,
+				"Lat": 52.0,
+				"Lon": -176.0,
+				"Z": 10,
+				"Detect": 18,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "KurileIslands",
+				"Phase": "P",
+				"Resolution": 50,
+				"Rows": 50,
+				"Cols": 60,
+				"Lat": 50.0,
+				"Lon": 155.0,
+				"Z": 50,
+				"Detect": 18,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Japan_1",
+				"Phase": "P",
+				"Resolution": 50,
+				"Nets": [ "IU", "US", "II", "CU", "G", "GE", "IM", "IC", "GT", "C", "AU", "MX", "AT", "JP", "NZ" ],
+				"Rows": 80,
+				"Cols": 80,
+				"Lat": 37.0,
+				"Lon": 136.0,
+				"Z": 20,
+				"Detect": 30,
+				"Nucleate": 5,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Japan_2",
+				"Phase": "P",
+				"Resolution": 50,
+				"Rows": 80,
+				"Cols": 80,
+				"Lat": 37.0,
+				"Lon": 136.0,
+				"Z": 10,
+				"Detect": 20,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Tonga_1",
+				"Phase": "P",
+				"Nets": [ "IU", "US", "II", "CU", "G", "GE", "IM", "IC", "GT", "C", "AU", "MX", "AT", "JP", "NZ" ],
+				"Resolution": 50,
+				"Rows": 100,
+				"Cols": 80,
+				"Lat": -25.0,
+				"Lon": 175.0,
+				"Z": 10,
+				"Detect": 30,
+				"Nucleate": 5,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Tonga_2",
+				"Phase": "P",
+				"Resolution": 50,
+				"Rows": 100,
+				"Cols": 80,
+				"Lat": -25.0,
+				"Lon": 175.0,
+				"Z": 10,
+				"Detect": 30,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Eurasia",
+				"Phase": "P",
+				"Resolution": 50,
+				"Rows": 60,
+				"Cols": 200,
+				"Lat": 35,
+				"Lon": 60.0,
+				"Z": 10,
+				"Detect": 20,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Indonesia_1",
+				"Phase": "P",
+				"Nets": [ "IU", "US", "II", "CU", "G", "GE", "IM", "IC", "GT", "C", "AU", "MX", "AT", "JP", "NZ" ],
+				"Resolution": 50,
+				"Rows": 100,
+				"Cols": 180,
+				"Lat": 9.0,
+				"Lon": 122.0,
+				"Z": 10,
+				"Detect": 30,
+				"Nucleate": 5,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Indonesia_2",
+				"Phase": "P",
+				"Resolution": 50,
+				"Rows": 100,
+				"Cols": 180,
+				"Lat": 9.0,
+				"Lon": 122.0,
+				"Z": 10,
+				"Detect": 30,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			},
+			{
+				"Cmd": "Grid",
+				"Name": "Chile",
+				"Phase": "P",
+				"Resolution": 50,
+				"Rows": 80,
+				"Cols": 80,
+				"Lat": -33.0,
+				"Lon": -75.0,
+				"Z": 10,
+				"Detect": 24,
+				"Nucleate": 6,
+				"Thresh": 0.5
+			}
+		]
+	},
+	"Redirect": {
+	  	"Login.html": "{Root}Html/Login.html",
+		"Theme.css": "{Root}Styles/Theme.css",
+		"jMenu.css": "{Root}Styles/jMenu.css",
+		"jQueryUI.css": "{Root}Styles/jquery-ui.min.css",
+		"Nxs.js": "{xGraph}Nexus/Nxs.js",
+		"Grok.js": "{xGraph}Nexus/Grok.js",
+		"jQuery.js": "{Root}Scripts/jquery-2.1.1.min.js",
+		"jQueryUI.js": "{Root}Scripts/jquery-ui.min.js",
+		"jMenu.jQuery.js": "{Root}Scripts/jMenu.jquery.min.js",
+		"async.js": "{Root}Scripts/async.js",
+		"Pixi.js": "{Root}Scripts/pixi.min_4.3.0.js",
+		"Three.js": "{Root}Scripts/three.min-r79.js",
+		"Font.json": "{Root}Fonts/helvetiker_bold.typeface.json",
+		"bootstrap.js": "{Root}Scripts/bootstrap.min.js",
+		"bootstrap.css": "{Root}Styles/bootstrap.css",
+		"bootstrap.css.map": "{Root}Styles/bootstrap.css.map",
+		"Null": "Null"
+	},
+	"Null": "Null"
+}

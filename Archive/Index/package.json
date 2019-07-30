@@ -1,0 +1,8 @@
+{
+	"name" : "HarvestIndex",
+	"version" : "0.0.3",
+	"dependencies" : {
+		"n-readlines":"1.0.0",
+		"async" : "~2.5.0"
+	}
+}

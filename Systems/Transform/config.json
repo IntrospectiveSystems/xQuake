@@ -1,0 +1,18 @@
+{
+	"Sources": {
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Harvest": {
+			"Module":"xQuake.Archive.Transform",
+			"Source":"xQuake",
+			"Par":{
+				"BrickSize": 100000000,
+				"From":"{From}",
+				"To":"{To}"
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

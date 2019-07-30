@@ -1,0 +1,20 @@
+{
+	"Sources": {
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Snarf": {
+			"Module": "xQuake.Core.Sites",
+			"Source":"xQuake",
+			"Par":{
+				"Agent": "$Agent",
+				"Services": [
+					"$Agent",
+					"$Services"
+				]
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

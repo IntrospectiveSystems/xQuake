@@ -1,0 +1,7 @@
+{
+	"Apex": {
+		"Entity": "PopHTML.js",
+		"$Setup": "Setup",
+		"$Start": "Start"
+	}
+}

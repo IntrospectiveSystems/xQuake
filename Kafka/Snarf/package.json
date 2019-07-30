@@ -1,0 +1,9 @@
+{
+	"name" : "Kafka",
+	"version" : "0.0.3",
+	"dependencies" : {
+		"async" : "~2.5.0",
+		"kafka-node": "~2.2.2",
+		"printf":"^0.2.5"
+	}
+}

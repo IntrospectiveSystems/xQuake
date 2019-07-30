@@ -1,0 +1,20 @@
+{
+	"Sources": {
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Snarf": {
+			"Module": "xQuake.Kafka.Snarf",
+			"Source":"xQuake",
+			"Par":{
+				"Agent": "$Agent",
+				"Services": [
+					"$Agent",
+					"$Services"
+				]
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

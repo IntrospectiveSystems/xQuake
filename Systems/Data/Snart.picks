@@ -1,0 +1,602 @@
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "JCNB",
+    "Network": "BP",
+    "Channel": "DP1",
+    "Location": "40"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Time": "2018-11-11T00:42:01.780Z",
+  "ID": "2_49550243",
+  "Source": {
+    "AgencyID": "NC",
+    "Author": "3bf08"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "JCNB",
+    "Network": "BP",
+    "Channel": "DP1",
+    "Location": "40"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Time": "2018-11-11T00:42:01.780Z",
+  "ID": "2_49550244",
+  "Source": {
+    "AgencyID": "BK",
+    "Author": "80208"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "NOKA",
+    "Network": "OK",
+    "Channel": "HHE"
+  },
+  "Amplitude": {
+    "SNR": 8.231,
+    "Period": 0.7496
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Filter": [
+    {
+      "LowPass": 1.763,
+      "HighPass": 1.009
+    }
+  ],
+  "Picker": "filterpicker",
+  "Polarity": "up",
+  "Time": "2018-11-11T00:41:50.800Z",
+  "ID": "11_57401133",
+  "Source": {
+    "AgencyID": "US",
+    "Author": "FP6-RP"
+  }
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "PB01",
+    "Network": "CX",
+    "Channel": "BHZ"
+  },
+  "Amplitude": {
+    "SNR": 13.08,
+    "Period": 0.4796
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Filter": [
+    {
+      "LowPass": 3.445,
+      "HighPass": 1.577
+    }
+  ],
+  "Picker": "filterpicker",
+  "Polarity": "down",
+  "Time": "2018-11-11T00:41:49.495Z",
+  "ID": "11_57401135",
+  "Source": {
+    "AgencyID": "US",
+    "Author": "FP6-RP"
+  }
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "I28M",
+    "Network": "TA",
+    "Channel": "BHZ"
+  },
+  "Amplitude": {
+    "SNR": 10.46,
+    "Period": 0.4796
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Filter": [
+    {
+      "LowPass": 2.756,
+      "HighPass": 1.577
+    }
+  ],
+  "Picker": "filterpicker",
+  "Polarity": "up",
+  "Time": "2018-11-11T00:40:52.112Z",
+  "ID": "11_57401136",
+  "Source": {
+    "AgencyID": "US",
+    "Author": "FP6-RP"
+  }
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "JCNB",
+    "Network": "BP",
+    "Channel": "DP1",
+    "Location": "40"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Time": "2018-11-11T00:42:05.420Z",
+  "ID": "2_49550246",
+  "Source": {
+    "AgencyID": "NC",
+    "Author": "3bf08"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "JCNB",
+    "Network": "BP",
+    "Channel": "DP1",
+    "Location": "40"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Time": "2018-11-11T00:42:05.420Z",
+  "ID": "2_49550247",
+  "Source": {
+    "AgencyID": "BK",
+    "Author": "80208"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "JBR",
+    "Network": "NC",
+    "Channel": "EHZ"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Polarity": "up",
+  "Time": "2018-11-11T00:42:02.950Z",
+  "ID": "2_49550248",
+  "Source": {
+    "AgencyID": "NC",
+    "Author": "3bf08"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "J29N",
+    "Network": "TA",
+    "Channel": "BHZ"
+  },
+  "Amplitude": {
+    "SNR": 9.308,
+    "Period": 0.7496
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Filter": [
+    {
+      "LowPass": 1.763,
+      "HighPass": 1.009
+    }
+  ],
+  "Picker": "filterpicker",
+  "Polarity": "up",
+  "Time": "2018-11-11T00:40:51.037Z",
+  "ID": "11_57401138",
+  "Source": {
+    "AgencyID": "US",
+    "Author": "FP6-RP"
+  }
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "CPI",
+    "Network": "NC",
+    "Channel": "EHZ"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Polarity": "down",
+  "Time": "2018-11-11T00:42:04.440Z",
+  "ID": "2_49550250",
+  "Source": {
+    "AgencyID": "NC",
+    "Author": "3bf08"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "CPM",
+    "Network": "NC",
+    "Channel": "EHZ"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Polarity": "down",
+  "Time": "2018-11-11T00:42:04.400Z",
+  "ID": "2_49550251",
+  "Source": {
+    "AgencyID": "NC",
+    "Author": "3bf08"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "PVC",
+    "Network": "NC",
+    "Channel": "EHZ"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Polarity": "up",
+  "Time": "2018-11-11T00:42:05.970Z",
+  "ID": "2_49550252",
+  "Source": {
+    "AgencyID": "NC",
+    "Author": "3bf08"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "VAK",
+    "Network": "BK",
+    "Channel": "HHZ",
+    "Location": "00"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Polarity": "down",
+  "Time": "2018-11-11T00:42:02.650Z",
+  "ID": "2_49550253",
+  "Source": {
+    "AgencyID": "BK",
+    "Author": "80208"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "ESPN",
+    "Network": "NU",
+    "Channel": "HHZ"
+  },
+  "Amplitude": {
+    "SNR": 9.909,
+    "Period": 0.4796
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Filter": [
+    {
+      "LowPass": 2.756,
+      "HighPass": 1.577
+    }
+  ],
+  "Picker": "filterpicker",
+  "Polarity": "up",
+  "Time": "2018-11-11T00:41:59.765Z",
+  "ID": "11_57401140",
+  "Source": {
+    "AgencyID": "US",
+    "Author": "FP6-RP"
+  }
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "PB01",
+    "Network": "CX",
+    "Channel": "BHE"
+  },
+  "Amplitude": {
+    "SNR": 13.71,
+    "Period": 0.5995
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Filter": [
+    {
+      "LowPass": 2.205,
+      "HighPass": 1.009
+    }
+  ],
+  "Picker": "filterpicker",
+  "Time": "2018-11-11T00:41:49.620Z",
+  "ID": "11_57401141",
+  "Source": {
+    "AgencyID": "US",
+    "Author": "FP6-RP"
+  }
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "F31M",
+    "Network": "TA",
+    "Channel": "BHZ"
+  },
+  "Amplitude": {
+    "SNR": 11.74,
+    "Period": 0.5995
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Filter": [
+    {
+      "LowPass": 2.205,
+      "HighPass": 1.262
+    }
+  ],
+  "Picker": "filterpicker",
+  "Polarity": "up",
+  "Time": "2018-11-11T00:40:36.988Z",
+  "ID": "11_57401142",
+  "Source": {
+    "AgencyID": "US",
+    "Author": "FP6-RP"
+  }
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "CSPB",
+    "Network": "NC",
+    "Channel": "EHZ"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Polarity": "down",
+  "Time": "2018-11-11T00:42:03.970Z",
+  "ID": "2_49550255",
+  "Source": {
+    "AgencyID": "NC",
+    "Author": "3bf08"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "JCNB",
+    "Network": "BP",
+    "Channel": "DP1",
+    "Location": "40"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Time": "2018-11-11T00:42:09.070Z",
+  "ID": "2_49550257",
+  "Source": {
+    "AgencyID": "NC",
+    "Author": "3bf08"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "JCNB",
+    "Network": "BP",
+    "Channel": "DP1",
+    "Location": "40"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Time": "2018-11-11T00:42:09.070Z",
+  "ID": "2_49550258",
+  "Source": {
+    "AgencyID": "BK",
+    "Author": "80208"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "TUWZ",
+    "Network": "NZ",
+    "Channel": "EHZ",
+    "Location": "10"
+  },
+  "Amplitude": {
+    "SNR": 8.497,
+    "Period": 0.5995
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Filter": [
+    {
+      "LowPass": 2.205,
+      "HighPass": 1.262
+    }
+  ],
+  "Picker": "filterpicker",
+  "Polarity": "down",
+  "Time": "2018-11-11T00:41:57.630Z",
+  "ID": "11_57401144",
+  "Source": {
+    "AgencyID": "US",
+    "Author": "FP6-RP"
+  }
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "PB11",
+    "Network": "CX",
+    "Channel": "BHN"
+  },
+  "Amplitude": {
+    "SNR": 9.501,
+    "Period": 0.4796
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Filter": [
+    {
+      "LowPass": 3.445,
+      "HighPass": 1.577
+    }
+  ],
+  "Picker": "filterpicker",
+  "Polarity": "down",
+  "Time": "2018-11-11T00:41:57.987Z",
+  "ID": "11_57401145",
+  "Source": {
+    "AgencyID": "US",
+    "Author": "FP6-RP"
+  }
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "B933",
+    "Network": "PB",
+    "Channel": "EHZ"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Polarity": "up",
+  "Time": "2018-11-11T00:41:53.270Z",
+  "ID": "2_49550260",
+  "Source": {
+    "AgencyID": "BK",
+    "Author": "80208"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "MQ1P",
+    "Network": "NC",
+    "Channel": "EHZ"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Time": "2018-11-11T00:42:11.990Z",
+  "ID": "2_49550262",
+  "Source": {
+    "AgencyID": "NC",
+    "Author": "3bf08"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "ESPN",
+    "Network": "NU",
+    "Channel": "BHZ"
+  },
+  "Amplitude": {
+    "SNR": 8.129,
+    "Period": 0.4796
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Filter": [
+    {
+      "LowPass": 2.756,
+      "HighPass": 1.577
+    }
+  ],
+  "Picker": "filterpicker",
+  "Polarity": "up",
+  "Time": "2018-11-11T00:41:59.720Z",
+  "ID": "11_57401149",
+  "Source": {
+    "AgencyID": "US",
+    "Author": "FP6-RP"
+  }
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "JCNB",
+    "Network": "BP",
+    "Channel": "DP1",
+    "Location": "40"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Time": "2018-11-11T00:42:15.150Z",
+  "ID": "2_49550264",
+  "Source": {
+    "AgencyID": "BK",
+    "Author": "80208"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "JCNB",
+    "Network": "BP",
+    "Channel": "DP1",
+    "Location": "40"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Time": "2018-11-11T00:42:15.150Z",
+  "ID": "2_49550265",
+  "Source": {
+    "AgencyID": "NC",
+    "Author": "3bf08"
+  },
+  "Onset": "questionable"
+}
+
+xQuake.Snarf:  MSG:{
+  "Site": {
+    "Station": "LCP",
+    "Network": "CI",
+    "Channel": "HHZ"
+  },
+  "Type": "Pick",
+  "Phase": "P",
+  "Picker": "earthworm",
+  "Polarity": "down",
+  "Time": "2018-11-11T00:42:12.360Z",
+  "ID": "2_49550266",
+  "Source": {
+    "AgencyID": "BK",
+    "Author": "80208"
+  },
+  "Onset": "questionable"
+}

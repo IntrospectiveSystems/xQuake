@@ -1,0 +1,28 @@
+{
+	"Sources": {
+		"xVR": "{xVR}"
+	},
+	"Modules": {
+		"EVE3D": {
+			"Module": "xVR.Web.Sphere3D",
+			"Source": "xVR",
+			"Par": {
+				"Navigation": "$Mouse",
+				"Controller": "$ControllerProxy",
+				"Model3D": "$Model3D",
+				"Ambient": [255, 255, 255],
+				"Clear": [0, 0, 0]
+			}
+		},
+		"Navigate": {
+			"Module": "xVR.Remote.NavSphere",
+			"Source": "xVR",
+			"Par": {
+				"LonCor": 180,
+				"View": "$EVE3D"
+			}
+		},
+		"Deferred": [
+		]
+	}
+}

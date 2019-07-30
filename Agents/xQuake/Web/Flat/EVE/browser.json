@@ -1,0 +1,22 @@
+{
+	"Sources": {
+		"xGraph": "{xGraph}",
+		"xVR": "{xVR}"
+	},
+	"Modules": {
+		"SceneEditor": {
+			"Module": "xVR.EVE.Remote",
+			"Source": "xVR",
+			"Par": {
+				"View": "$EVE3D",
+				"Controller": "$ControllerProxy"
+			}
+		},
+		"Deferred": [
+			{
+				"Module": "xGraph.Popup",
+				"Source": "xGraph"
+			}
+		]
+	}
+}

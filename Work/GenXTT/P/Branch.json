@@ -1,0 +1,8 @@
+{
+	"Model" : "ak135_mod.d",
+	"Branch" : "P",
+	"Ray" : ["Pup", "P", "Pdiff"],
+	"Delta":[0, 0.1, 180],
+	"Depth":[0, 10, 800]
+}
+

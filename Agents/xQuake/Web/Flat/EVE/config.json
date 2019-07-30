@@ -1,0 +1,22 @@
+{
+	"Sources": {
+		"xGraph": "{xGraph}",
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Server": {
+			"Module": "xGraph.WebViewer",
+			"Source":"xGraph",
+			"Par": {
+				"ApexList": {
+					"Controller":"$Controller"
+				},
+				"Port": "{WebPort}",
+				"Url": "Paint",
+				"Paint": "@system: browser.json"
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

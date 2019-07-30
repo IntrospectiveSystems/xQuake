@@ -1,0 +1,26 @@
+{
+	"Sources": {
+		"xGraph": "{xGraph}",
+		"xQuake": "{xQuake}",
+		"xVR": "{xVR}"
+	},
+	"Modules": {
+		"Quake": {
+			"Module": "xQuake.Earth2D.Quake",
+			"Source": "xQuake",
+			"Par": {
+				"EVE3D": "$EVE3D"
+			}
+		},
+		"Deferred": [
+			{
+				"Module": "xQuake.Earth2D.PickList",
+				"Source": "xQuake"
+			},
+			{
+				"Module": "xGraph.Popup",
+				"Source": "xGraph"
+			}
+		]
+	}
+}

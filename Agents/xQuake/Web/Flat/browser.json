@@ -1,0 +1,37 @@
+{
+	"Sources": {
+		"xVR": "{xVR}",
+		"xGraph": "{xGraph}"
+	},
+	"Modules": {
+		"EVE3D": {
+			"Module": "xVR.Web.EVE3D",
+			"Source": "xVR",
+			"Par": {
+				"Root": true,
+				"Navigation":"$Mouse",
+				"Controller":"$ControllerProxy",
+				"Server":"$ServerProxy",
+				"Model3D": "$Model3D",
+				"Clear":"/#00FF00"
+			}
+		},
+		"NavControls": {
+			"Module": "xVR.Remote.NavTerrain",
+			"Source": "xVR",
+			"Par": {
+				"View": "$EVE3D"
+			}
+		},
+		"Deferred": [
+			{
+                "Source": "xGraph",
+                "Module": "xGraph.Mouse"
+            },
+            {
+                "Source": "xGraph",
+                "Module": "xGraph.Popup"
+            }
+		]
+	}
+}

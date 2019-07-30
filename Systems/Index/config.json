@@ -1,0 +1,17 @@
+{
+	"Sources":{
+		"xGraph": "{xGraph}",
+		"xQuake": "{xQuake}"
+	},
+	"Cache": "cache",
+	"Name": "Kafka",
+	"Modules": {
+		"Rogue": {
+			"Module": "xQuake:Archive/Index",
+			"Source": "xQuake",
+			"Par": {
+				"Archive":"{Picks}"
+			}
+		}
+	}
+}

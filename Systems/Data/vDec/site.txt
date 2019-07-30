@@ -1,0 +1,1728 @@
+
+STA            LAT          LON     ELEV STAT     ONDATE    OFFDATE STANAME
+------ ----------- ------------ -------- ---- ---------- ---------- --------------------------------------------------
+AAK       42.63910     74.49420    1.645 ss      2007065         -1 Ala-Archa, Kyrgyzstan
+ABKT      37.93040     58.11890     .678 ss      1993115         -1 Alibek, Turkmenistan
+AFI      -13.90930   -171.77730     .706 ss      2004334         -1 AFIAMALU, SAMOA
+AK01      50.69110     29.21310     .160 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK01      50.69110     29.21310     .160 ss      2006257         -1 Malin Array element AK01
+AK02      50.65730     29.20570     .170 ss      2006257         -1 Malin Array element AK02
+AK02      50.65730     29.20570     .170 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK03      50.72630     29.22170     .160 ss      2006257         -1 Malin Array element AK03
+AK03      50.72630     29.22170     .160 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK04      50.72260     29.16600     .160 ss      2006257         -1 Malin Array element AK04
+AK04      50.72260     29.16600     .160 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK05      50.61970     29.20360     .180 ss      2006257         -1 Malin Array element AK05
+AK05      50.61970     29.20360     .180 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK06      50.58580     29.19850     .190 ss      2006257         -1 Malin Array element AK06
+AK06      50.58580     29.19850     .190 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK07      50.55070     29.20440     .170 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK07      50.55070     29.20440     .170 ss      2006257         -1 Malin Array element AK07
+AK08      50.63380     29.25480     .122 ss      2006257         -1 Malin Array element AK08
+AK08      50.63380     29.25480     .122 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK09      50.61510     29.28460     .180 ss      2006257         -1 Malin Array element AK09
+AK09      50.61510     29.28460     .180 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK10      50.59900     29.25130     .180 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK10      50.59900     29.25130     .180 ss      2006257         -1 Malin Array element AK10
+AK11      50.67840     29.16770     .160 ss      2006257         -1 Malin Array element AK11
+AK11      50.67840     29.16770     .160 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK12      50.64370     29.15490     .180 ss      2006257         -1 Malin Array element AK12
+AK12      50.64370     29.15490     .180 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK13      50.61290     29.06060     .180 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK13      50.61290     29.06060     .180 ss      2006257         -1 Malin Array element AK13
+AK14      50.63060     29.10760     .180 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK14      50.63060     29.10760     .180 ss      2006257         -1 Malin Array element AK14
+AK15      50.69510     29.12400     .170 ss      2006257         -1 Malin Array element AK15
+AK15      50.69510     29.12400     .170 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK16      50.67000     29.10580     .170 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK16      50.67000     29.10580     .170 ss      2006257         -1 Malin Array element AK16
+AK17      50.68510     29.05740     .170 ss      2006257         -1 Malin Array element AK17
+AK17      50.68510     29.05740     .170 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK18      50.72210     29.06760     .170 ss      2006257         -1 Malin Array element AK18
+AK18      50.72210     29.06760     .170 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK19      50.72220     29.01160     .180 ss      2006257         -1 Malin Array element AK19
+AK19      50.72220     29.01160     .180 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK20      50.74300     29.01000     .170 ss      2006257         -1 Malin Array element AK20
+AK20      50.74300     29.01000     .170 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK21      50.77640     29.04190     .160 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK21      50.77640     29.04190     .160 ss      2006257         -1 Malin Array element AK21
+AK22      50.76080     29.07120     .160 ss      2006257         -1 Malin Array element AK22
+AK22      50.76080     29.07120     .160 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AK23      50.76250     29.12540     .160 ss      2006257         -1 Malin Array element AK23
+AK23      50.76250     29.12540     .160 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AKASG     50.70120     29.22420     .160 ar      2002067    2006256 MALIN ARRAY, Ukraine
+AKASG     50.70120     29.22420     .160 ar      2006257         -1 Malin Array
+AKBB      50.70120     29.22420     .160 ss      2006257         -1 Malin Array element AKBB
+AKBB      50.70120     29.22420     .160 ss      2002067    2006256 MALIN ARRAY, Ukraine
+AKTO      50.43480     58.01640     .379 ss      2005256         -1 AKTYUBINSK, KAZAKHSTAN
+AL31      65.06494   -147.56685     .298 ss      1977149         -1 EIELSON, AK ARRAY, United States of America
+AL32      65.19206   -147.32121     .603 ss      1977149         -1 EIELSON, AK ARRAY, United States of America
+AL33      65.02849   -147.19989     .575 ss      1977149         -1 EIELSON, AK ARRAY, United States of America
+AL34      64.91018   -147.44776     .340 ss      1977149         -1 EIELSON, AK ARRAY, United States of America
+AL35      64.94421   -147.86425     .470 ss      1977149         -1 EIELSON, AK ARRAY, United States of America
+AL36      65.09905   -148.00676     .436 ss      1977149         -1 EIELSON, AK ARRAY, United States of America
+AL37      65.23479   -147.74515     .631 ss      1977149         -1 EIELSON, AK ARRAY, United States of America
+ALAR      65.06494   -147.56685     .298 ar      1977149         -1 EIELSON, AK ARRAY, United States of America
+ALQ       34.94250   -106.45750    1.849 ss      1992015    2004071 Albuquerque, New Mexico
+ANMO      34.94620   -106.45670    1.840 ss      1989241         -1 ALBUQUERQUE
+APG       15.00420    -90.46400    1.868 ss      2008069         -1 El Apazote, Baja Verapaz, Guatemala
+ARA0      69.53490     25.50580     .403 ss      1987273    2002046 ARCESS Array, Norway
+ARA0      69.53480     25.50570     .403 ss      2002046         -1 ARCESS Array, Norway
+ARA1      69.53630     25.50710     .411 ss      1987273         -1 ARCESS Array, Norway
+ARA2      69.53380     25.50780     .392 ss      1987273         -1 ARCESS Array, Norway
+ARA3      69.53460     25.50190     .402 ss      1987273         -1 ARCESS Array, Norway
+ARB1      69.53790     25.50790     .414 ss      1987273         -1 ARCESS Array, Norway
+ARB2      69.53570     25.51340     .397 ss      1987273    2002046 ARCESS Array, Norway
+ARB2      69.53570     25.51330     .397 ss      2002046         -1 ARCESS Array, Norway
+ARB3      69.53240     25.51060     .376 ss      1987273    2002046 ARCESS Array, Norway
+ARB3      69.53240     25.51060     .397 ss      2002046         -1 ARCESS Array, Norway
+ARB4      69.53280     25.49980     .378 ss      1987273         -1 ARCESS Array, Norway
+ARB5      69.53630     25.49850     .405 ss      1987273         -1 ARCESS Array, Norway
+ARC1      69.54110     25.50790     .381 ss      1987273         -1 ARCESS Array, Norway
+ARC2      69.53830     25.52290     .395 ss      1987273         -1 ARCESS Array, Norway
+ARC3      69.53290     25.52310     .376 ss      1987273         -1 ARCESS Array, Norway
+ARC4      69.52930     25.51170     .377 ss      1987273         -1 ARCESS Array, Norway
+ARC5      69.53000     25.49810     .374 ss      2002046         -1 ARCESS Array, Norway
+ARC5      69.53000     25.49820     .374 ss      1987273    2002046 ARCESS Array, Norway
+ARC6      69.53410     25.48820     .395 ss      1987273         -1 ARCESS Array, Norway
+ARC7      69.53960     25.49360     .362 ss      1987273         -1 ARCESS Array, Norway
+ARCES     69.53490     25.50580     .403 ar      1987273    2002046 ARCESS Array, Norway
+ARCES     69.53480     25.50570     .403 ar      2002046         -1 ARCESS Array, Norway
+ARD1      69.54830     25.50920     .395 ss      2002046         -1 ARCESS Array, Norway
+ARD1      69.54830     25.50930     .395 ss      1987273    2002046 ARCESS Array, Norway
+ARD2      69.54510     25.53080     .366 ss      2002046         -1 ARCESS Array, Norway
+ARD2      69.54520     25.53080     .366 ss      1987273    2002046 ARCESS Array, Norway
+ARD3      69.53660     25.54830     .331 ss      1987273    2002046 ARCESS Array, Norway
+ARD3      69.53650     25.54830     .331 ss      2002046         -1 ARCESS Array, Norway
+ARD4      69.52710     25.53620     .371 ss      1987273         -1 ARCESS Array, Norway
+ARD5      69.52140     25.51180     .351 ss      1987273         -1 ARCESS Array, Norway
+ARD6      69.52270     25.49000     .413 ss      1987273         -1 ARCESS Array, Norway
+ARD7      69.52940     25.47070     .413 ss      1987273         -1 ARCESS Array, Norway
+ARD8      69.53840     25.46860     .368 ss      1987273         -1 ARCESS Array, Norway
+ARD9      69.54540     25.48570     .359 ss      1987273         -1 ARCESS Array, Norway
+ARE0      69.53480     25.50570     .356 ss      1987273    2002046 ARCESS Array, Norway
+ARE0      69.53490     25.50570     .403 ss      2002046         -1 ARCESS Array, Norway
+ARU       56.43020     58.56250     .250 ss      1989060    2010158 Arti, Russia
+ARU       56.42930     58.56150     .260 ss      2010159         -1 Arti
+AS01     -23.66322    133.95199     .622 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS01
+AS01     -23.66470    133.95080     .605 ss      1987001    2005344 Alice Springs Array, Australia
+AS02     -23.67920    133.93690     .619 ss      1987001    2005344 Alice Springs Array, Australia
+AS02     -23.67763    133.93822     .637 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS02
+AS03     -23.67440    133.91970     .643 ss      1987001    2005344 Alice Springs Array, Australia
+AS03     -23.67287    133.92126     .660 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS03
+AS04     -23.65970    133.92920     .666 ss      1987001    2005344 Alice Springs Array, Australia
+AS04     -23.65818    133.93048     .684 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS04
+AS05     -23.64920    133.94750     .683 ss      1987001    2005344 Alice Springs Array, Australia
+AS05     -23.64776    133.94893     .700 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS05
+AS06     -23.64750    133.97140     .663 ss      1987001    2005344 Alice Springs Array, Australia
+AS06     -23.64621    133.97251     .681 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS06
+AS07     -23.66404    133.97114     .630 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS07
+AS07     -23.66560    133.96970     .614 ss      1987001    2005344 Alice Springs Array, Australia
+AS08     -23.68140    133.96000     .594 ss      1987001    2005344 Alice Springs Array, Australia
+AS08     -23.67994    133.96115     .611 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS08
+AS09     -23.69940    133.94140     .591 ss      1987001    2005344 Alice Springs Array, Australia
+AS09     -23.69801    133.94256     .608 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS09
+AS10     -23.69553    133.91519     .624 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS10
+AS10     -23.69690    133.91390     .607 ss      1987001    2005344 Alice Springs Array, Australia
+AS11     -23.67687    133.89897     .617 ss      2006060         -1 ALICE SPRINGS ARRAY ELEMENT AS11
+AS11     -23.67687    133.89897     .608 ss      2005345    2006060 ALICE SPRINGS ARRAY ELEMENT AS11
+AS11     -23.67830    133.89780     .608 ss      1987001    2005344 Alice Springs Array, Australia
+AS12     -23.66640    133.90440     .607 ss      1987001    2005344 Alice Springs Array, Australia
+AS12     -23.66490    133.90573     .624 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS12
+AS13     -23.65054    133.89569     .621 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS13
+AS13     -23.65190    133.89440     .604 ss      1987001    2005344 Alice Springs Array, Australia
+AS14     -23.65033    133.91164     .637 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS14
+AS14     -23.65170    133.91030     .620 ss      1987001    2005344 Alice Springs Array, Australia
+AS15     -23.63560    133.91220     .669 ss      1987001    2005344 Alice Springs Array, Australia
+AS15     -23.63405    133.91341     .686 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS15
+AS16     -23.63547    133.93128     .693 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS16
+AS16     -23.63690    133.93000     .676 ss      1987001    2005344 Alice Springs Array, Australia
+AS17     -23.66440    133.99170     .615 ss      1987001    2005344 Alice Springs Array, Australia
+AS17     -23.66313    133.99283     .633 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS17
+AS18     -23.68858    133.98202     .608 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS18
+AS18     -23.69000    133.98080     .592 ss      1987001    2005344 Alice Springs Array, Australia
+AS19     -23.70284    133.96378     .594 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS19
+AS19     -23.70440    133.96250     .577 ss      1987001    2005344 Alice Springs Array, Australia
+AS31     -23.66513    133.90526     .627 ss      2005345         -1 ALICE SPRINGS ARRAY ELEMENT AS31
+ASAR     -23.66640    133.90440     .607 ar      1987001    2005344 Alice Springs Array, Australia
+ASAR     -23.66513    133.90526     .627 ar      2005345         -1 ALICE SPRINGS ARRAY
+ASC23     -8.06970    -14.41750     .000 ss      1996198         -1 Ascension Island
+ASC24     -8.05570    -14.44900     .000 ss      1996198         -1 Ascension Island
+ASC25     -8.94650    -14.65000     .000 ss      1996198         -1 Ascension Island
+ASC26     -8.94500    -14.61680     .000 ss      1996198         -1 Ascension Island
+ASF       32.17230     36.89720     .937 ss      2002099         -1 TEL AL ASFAR
+ASPA     -23.66600    133.90400     .607 ss      1987001    2005344 Alice Springs, Australia
+ATAH      -7.13506    -78.39445    3.165 ss      2004337         -1 ATAHUALPA, PERU
+ATD       11.53000     42.84700     .610 ss      2005076         -1 ARTA TUNNEL, DJIBOUTI
+ATTU      52.88190    173.17038     .161 ss      2007319         -1 ATTU ISLAND, ALASKA, USA
+ATTU      52.88210    173.16420     .250 ss      1970001    2007318 Attu, Alaska
+BATI     -10.20600    123.66270     .340 ss      2005011         -1 BAUMATA, NUSATENGGARA TIMUR, INDONESIA
+BBB       52.18470   -128.11330     .014 ss      2006341         -1 Bella Bella, Canada
+BBTS      14.66040    -16.53340     .060 ss      2007031         -1 Babate, Senegal
+BDFB     -15.64400    -48.01410    1.095 ss      1993189    2003137 Brasilia, Brazil
+BDFB     -15.64178    -48.01485    1.193 ss      2003241         -1 BRASILIA , Brazil
+BGCA       5.17610     18.42420     .576 ss      1994256         -1 Bogoin, Central African Republic
+BJT       40.01830    116.16790     .197 ss      1994145         -1 Baijiatuan, China
+BORG      64.74740    -21.32680     .110 ss      1994212    2004052 Borgarfjordur, Iceland
+BORG      64.74740    -21.32680     .110 ss      2004053         -1 BORGARNES
+BOSA     -28.61405     25.25542    1.307 ss      2002200         -1 BOSHOF , South Africa
+BOSA     -28.61370     25.25590    1.280 ss      1993056    2002192 Boshof, South Africa
+BR01      39.84170     32.76010    1.286 ss      1993300    2000292 Belbasi Array, Turkey
+BR02      39.84880     32.76540    1.270 ss      1993300    2000292 Belbasi Array, Turkey
+BR03      39.83340     32.76560    1.259 ss      1993300    2000292 Belbasi Array, Turkey
+BR04      39.84090     32.74130    1.265 ss      1993300    2000292 Belbasi Array, Turkey
+BR05      39.84810     32.74690    1.265 ss      1993300    2000292 Belbasi Array, Turkey
+BR06      39.85330     32.74830    1.210 ss      1993300    2000292 Belbasi Array, Turkey
+BR101     39.72540     33.63910    1.438 ss      2000007    2004082 Keskin, Turkey short-period Array
+BR101     39.72540     33.63910    1.438 ss      2003041         -1 KESKIN SHORT-PERIOD ARRAY, Turkey
+BR102     39.73550     33.64860    1.511 ss      2003041         -1 KESKIN SHORT-PERIOD ARRAY, Turkey
+BR102     39.73550     33.64860    1.511 ss      2000007    2004082 Keskin, Turkey short-period Array
+BR103     39.71960     33.65700    1.471 ss      2000007    2004082 Keskin, Turkey short-period Array
+BR103     39.71960     33.65700    1.471 ss      2003041         -1 KESKIN SHORT-PERIOD ARRAY, Turkey
+BR104     39.70740     33.64140    1.377 ss      2000007    2004082 Keskin, Turkey short-period Array
+BR104     39.70740     33.64140    1.377 ss      2003041         -1 KESKIN SHORT-PERIOD ARRAY, Turkey
+BR105     39.71800     33.61730    1.445 ss      2003041         -1 KESKIN SHORT-PERIOD ARRAY, Turkey
+BR105     39.71800     33.61730    1.445 ss      2000007    2004082 Keskin, Turkey short-period Array
+BR106     39.73380     33.61800    1.365 ss      2003041         -1 KESKIN SHORT-PERIOD ARRAY, Turkey
+BR106     39.73380     33.61800    1.365 ss      2000007    2004082 Keskin, Turkey short-period Array
+BR131     39.72500     33.63900    1.440 ss      2000007    2004082 Keskin, Turkey broad-band site
+BR131     39.72500     33.63900    1.440 ar      2003041         -1 KESKIN SHORT-PERIOD ARRAY, Turkey
+BR231     39.84170     32.77600    1.258 ar      2003041         -1 ANKARA MEDUIM-PERIOD ARRAY, Turkey
+BR232     39.92850     32.98200    1.133 ss      2003041         -1 ANKARA MEDUIM-PERIOD ARRAY, Turkey
+BR233     39.79350     32.98130    1.865 ss      2003041         -1 ANKARA MEDUIM-PERIOD ARRAY, Turkey
+BR234     39.65190     32.80010    1.064 ss      2003041         -1 ANKARA MEDUIM-PERIOD ARRAY, Turkey
+BR235     39.74120     32.59160    1.280 ss      2003041         -1 ANKARA MEDUIM-PERIOD ARRAY, Turkey
+BR236     39.87950     32.55110    1.098 ss      2003041         -1 ANKARA MEDUIM-PERIOD ARRAY, Turkey
+BR237     40.01870     32.73040    1.109 ss      2003041         -1 ANKARA MEDUIM-PERIOD ARRAY, Turkey
+BR31      39.85350     32.76080    1.243 ss      1993300    2000292 Belbasi Array, Turkey
+BRAR      39.72500     33.63900    1.440 ar      2000007    2004082 Keskin Array, Turkey
+BRAR      39.85350     32.76080    1.243 ar      1993300    2000292 Belbasi Array, Turkey
+BRMAR     39.84170     32.77600    1.258 ar      2003041         -1 ANKARA MEDUIM-PERIOD ARRAY, Turkey
+BRTR      39.72500     33.63900    1.440 ar      2003041         -1 KESKIN SHORT-PERIOD ARRAY, Turkey
+BVA0      53.02490     70.38850     .420 ss      2002187         -1 BOROVOYE ARRAY, Kazakhstan
+BVA1      53.02490     70.38860     .420 ss      2002187         -1 BOROVOYE ARRAY, Kazakhstan
+BVA2      53.01890     70.39120     .434 ss      2002187         -1 BOROVOYE ARRAY, Kazakhstan
+BVA3      53.02680     70.37850     .437 ss      2002187         -1 BOROVOYE ARRAY, Kazakhstan
+BVA4      53.02900     70.39630     .405 ss      2002187         -1 BOROVOYE ARRAY, Kazakhstan
+BVAR      53.02490     70.38850     .420 ar      2002187         -1 BOROVOYE ARRAY, Kazakhstan
+BVB5      53.02470     70.36620     .387 ss      2002187         -1 BOROVOYE ARRAY, Kazakhstan
+BVB6      53.03610     70.37620     .401 ss      2002187         -1 BOROVOYE ARRAY, Kazakhstan
+BVB7      53.03790     70.39500     .435 ss      2002187         -1 BOROVOYE ARRAY, Kazakhstan
+BVB8      53.02160     70.41080     .419 ss      2002187         -1 BOROVOYE ARRAY, Kazakhstan
+BVB9      53.01241     70.38356     .418 ss      2010012         -1 BOROVOYE ARRAY, Kazakhstan
+BVB9      53.01230     70.38570     .512 ss      2002187    2010011 BOROVOYE ARRAY, Kazakhstan
+CD01        .00000       .00000     .000 ar      2000001         -1 CD synthetic data
+CFAA     -31.60475    -68.23756     .619 ss      2002344         -1 CORONEL FONTANA, ARGENTINA
+CM01      18.42066     98.95905     .295 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM01, Thailand
+CM02      18.43437     98.94682     .310 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM02, Thailand
+CM03      18.42630     98.97649     .308 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM03, Thailand
+CM04      18.39966     98.97914     .349 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM04, Thailand
+CM05      18.40137     98.94534     .341 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM05, Thailand
+CM06      18.41567     98.94089     .336 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM06, Thailand
+CM07      18.43376     98.93067     .307 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM07, Thailand
+CM08      18.44533     98.95791     .303 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM08, Thailand
+CM09      18.44386     98.99103     .350 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM09, Thailand
+CM10      18.42978     99.00212     .345 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM10, Thailand
+CM11      18.37565     98.96061     .324 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM11, Thailand
+CM12      18.40604     98.92569     .334 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM12, Thailand
+CM13      18.42123     98.90712     .324 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM13, Thailand
+CM14      18.43608     98.91391     .361 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM14, Thailand
+CM15      18.45245     98.92463     .327 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM15, Thailand
+CM16      18.45745     98.94299     .311 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM16, Thailand
+CM17      18.45772     98.96266     .329 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM17, Thailand
+CM18      18.46103     98.98325     .316 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM18, Thailand
+CM31      18.45760     98.94315     .308 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM31, Thailand
+CM32      18.65338     98.83879     .292 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM32, Thailand
+CM33      18.81775     98.94681     .361 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM33, Thailand
+CM34      18.85118     99.15009     .319 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM34, Thailand
+CM35      18.67814     99.15421     .276 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM35, Thailand
+CM36      18.51830     99.09560     .351 ss      1986181         -1 CHIANG MAI ARRAY ELEMENT CM36, Thailand
+CMAR      18.45760     98.94315     .308 ar      1986181         -1 CHIANG MAI ARRAY, Thailand
+CMIG      17.09100    -94.88380     .075 ss      2005326    2009349 COLONIA CUAUHTEMOC, OAXACA, MEXICO
+CMIG      17.09100    -94.88380     .080 ss      2009350         -1 Colonia Cuauhtemoc
+CPUP     -26.33070    -57.33100     .135 ss      2002140         -1 VILLA FLORIDA , Paraguay
+CPUP     -26.33060    -57.32920     .005 ss      1994001    2002113 Villa Florida, Paraguay
+CTA      -20.08760    146.25000     .427 ss      2003305         -1 CHARTERS TOWERS
+CTA      -20.08850    146.25400     .358 ss      1987342    2003051 Charters Towers, Australia
+DAV        7.07000    125.57900     .146 ss      1994352         -1 DAVAO, Philippines
+DAVOS     46.83940      9.79430    2.800 ss      1974253         -1 Davos, Switzerland
+DAVOX     46.78060      9.87970    1.830 ss      2002206         -1 DAVOS
+DBIC       6.67010     -4.85630     .025 ss      1994151    2002245 Dimbokro, Ivory Coast
+DBIC       6.67010     -4.85630     .160 ss      2004106         -1 DIMBROKO, Cote d'Ivoire
+DGN01     -6.34210     71.01430     .000 ss      1999364    2001265 Diego Garcia
+DGN02     -6.32430     70.99950     .000 ss      1999364    2001265 Diego Garcia
+DGN03     -6.34660     70.99070     .000 ss      1999364    2001265 Diego Garcia
+DGNAR     -6.34210     71.01430     .000 ar      1999364    2001265 Diego Garcia
+DGS04     -7.64530     72.47440     .000 ss      1999364    2001265 Diego Garcia
+DGS05     -7.64490     72.49550     .000 ss      1999364    2001265 Diego Garcia
+DGS06     -7.62740     72.48370     .000 ss      1999364    2001265 Diego Garcia
+DGSAR     -7.64530     72.47440     .000 ar      1999364    2001265 Diego Garcia
+DLBC      58.43696   -130.03051     .980 ss      2006340         -1 DEASE LAKE, BRITISH COLUMBIA, CANADA
+DLBC      58.43720   -130.02720     .978 ss      1994269    2006339 Dease Lake, Canada
+DLI01     35.87415   -106.33249    2.316 ss      1998274         -1 DOE Prototype Infrasound Array, Los Alamos, USA
+DLI02     35.86363   -106.32543    2.316 ss      1998274         -1 DOE Prototype Infrasound Array, Los Alamos, USA
+DLI03     35.86554   -106.34008    2.316 ss      1998274         -1 DOE Prototype Infrasound Array, Los Alamos, USA
+DLI04     35.86758   -106.33417    2.316 ss      1998274         -1 DOE Prototype Infrasound Array, Los Alamos, USA
+DLIAR     35.86758   -106.33417    2.316 ar      1998274         -1 DOE Prototype Infrasound Array, Los Alamos, USA
+DLIWH     35.86758   -106.33417    2.316 ss      1998274         -1 DOE Prototype Infrasound Array, Los Alamos, USA
+DZM      -22.06800    166.44690     .880 ss      1985001         -1 MONT DZUMAC
+EIL       29.66986     34.95117     .210 ss      1996206    2005311 Eilat, Israel
+EIL       29.67250     34.95190     .217 ss      2005312         -1 EILATH, ISRAEL
+EKA       55.33390     -3.19229     .308 ar      2008329    2009174 ESKDALEMUIR ARRAY EKA
+EKA       55.33320     -3.15880     .353 ar      2009175         -1 ESKDALEMUIR ARRAY EKA
+EKA       55.33320     -3.15880     .353 ar      1962160    2008328 Eskdalemuir Array, Scotland
+EKB       55.33390     -3.19229     .308 ss      2009175         -1 ESKDALEMUIR BROADBAND ELEMENT EKB
+EKB       55.33390     -3.19229     .308 ss      2008329    2009174 ESKDALEMUIR BROADBAND ELEMENT EKB
+EKB1      55.30930     -3.17702     .275 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKB1
+EKB1      55.30930     -3.17702     .275 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKB1
+EKB1      55.30931     -3.17527     .275 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKB10     55.37690     -3.12917     .328 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKB10
+EKB10     55.37643     -3.12834     .327 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKB10     55.37690     -3.12917     .328 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKB10
+EKB2      55.31680     -3.17175     .314 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKB2
+EKB2      55.31680     -3.17175     .314 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKB2
+EKB2      55.31676     -3.17006     .313 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKB3      55.32490     -3.16822     .307 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKB3
+EKB3      55.32490     -3.16822     .307 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKB3
+EKB3      55.32464     -3.16696     .312 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKB4      55.33170     -3.16120     .301 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKB4
+EKB4      55.33168     -3.15963     .299 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKB4      55.33170     -3.16120     .301 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKB4
+EKB5      55.33914     -3.15441     .310 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKB5      55.33930     -3.15631     .313 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKB5
+EKB5      55.33930     -3.15631     .313 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKB5
+EKB6      55.34660     -3.14920     .338 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKB6      55.34660     -3.15065     .337 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKB6
+EKB6      55.34660     -3.15065     .337 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKB6
+EKB7      55.35406     -3.14399     .436 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKB7      55.35410     -3.14536     .435 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKB7
+EKB7      55.35410     -3.14536     .435 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKB7
+EKB8      55.36180     -3.13975     .401 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKB8
+EKB8      55.36266     -3.13806     .405 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKB8      55.36180     -3.13975     .401 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKB8
+EKB9      55.36900     -3.13479     .396 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKB9
+EKB9      55.36900     -3.13479     .396 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKB9
+EKB9      55.36898     -3.13356     .398 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR1      55.33750     -3.17864     .355 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKR1
+EKR1      55.33742     -3.17725     .356 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR1      55.33750     -3.17864     .355 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKR1
+EKR10     55.31040     -3.06094     .382 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKR10
+EKR10     55.31040     -3.06094     .382 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKR10
+EKR10     55.31033     -3.05939     .383 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR2      55.33441     -3.16415     .350 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR2      55.33440     -3.16555     .349 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKR2
+EKR2      55.33440     -3.16555     .349 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKR2
+EKR3      55.33060     -3.15300     .320 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKR3
+EKR3      55.33060     -3.15300     .320 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKR3
+EKR3      55.33140     -3.15106     .322 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR4      55.32840     -3.13936     .337 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKR4
+EKR4      55.32840     -3.13936     .337 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKR4
+EKR4      55.32839     -3.13796     .338 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR5      55.32540     -3.12631     .307 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKR5
+EKR5      55.32538     -3.12486     .307 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR5      55.32540     -3.12631     .307 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKR5
+EKR6      55.32237     -3.11177     .396 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR6      55.32240     -3.11319     .395 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKR6
+EKR6      55.32240     -3.11319     .395 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKR6
+EKR7      55.31940     -3.10011     .348 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKR7
+EKR7      55.31940     -3.10011     .348 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKR7
+EKR7      55.31936     -3.09867     .349 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR8      55.31630     -3.08780     .419 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKR8
+EKR8      55.31630     -3.08678     .419 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKR8
+EKR8      55.31635     -3.08558     .420 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR9      55.31370     -3.07320     .432 ss      2009175         -1 ESKDALEMUIR ARRAY ELEMENT EKR9
+EKR9      55.31334     -3.07248     .429 ss      1962160    2008328 Eskdalemuir Array, Scotland
+EKR9      55.31370     -3.07320     .432 ss      2008329    2009174 ESKDALEMUIR ARRAY ELEMENT EKR9
+ELK       40.74484   -115.23878    2.210 ss      1994006    2003267 Elko, Nevada
+ELK       40.74480   -115.23880    2.210 ss      2003268         -1 ELKO, NEVADA
+ES01      39.67020     -3.94750     .744 ss      2001306         -1 SONSECA ARRAY, Spain
+ES01      39.67147     -3.94603     .745 ss      1989212    2001306 Sonseca Array, Spain
+ES02      39.67833     -3.93400     .736 ss      1989212    2001306 Sonseca Array, Spain
+ES02      39.67710     -3.93550     .735 ss      2001306         -1 SONSECA ARRAY, Spain
+ES03      39.66756     -3.93197     .733 ss      1989212    2001306 Sonseca Array, Spain
+ES03      39.66630     -3.93340     .733 ss      2001306         -1 SONSECA ARRAY, Spain
+ES04      39.65700     -3.94083     .742 ss      1989212    2001306 Sonseca Array, Spain
+ES04      39.65580     -3.94230     .741 ss      2001306         -1 SONSECA ARRAY, Spain
+ES05      39.66361     -3.95753     .764 ss      1989212    2001306 Sonseca Array, Spain
+ES05      39.66240     -3.95900     .763 ss      2001306         -1 SONSECA ARRAY, Spain
+ES06      39.67697     -3.95067     .746 ss      1989212    2001306 Sonseca Array, Spain
+ES06      39.67570     -3.95210     .746 ss      2001306         -1 SONSECA ARRAY, Spain
+ES07      39.68856     -3.95042     .735 ss      1989212    2001306 Sonseca Array, Spain
+ES07      39.68730     -3.95190     .735 ss      2001306         -1 SONSECA ARRAY, Spain
+ES08      39.69358     -3.92361     .722 ss      1989212    2001306 Sonseca Array, Spain
+ES08      39.69230     -3.92510     .722 ss      2001306         -1 SONSECA ARRAY, Spain
+ES09      39.67931     -3.89811     .754 ss      1989212    2001306 Sonseca Array, Spain
+ES09      39.67810     -3.89960     .753 ss      2001306         -1 SONSECA ARRAY, Spain
+ES10      39.65919     -3.90108     .758 ss      1989212    2001306 Sonseca Array, Spain
+ES10      39.65800     -3.90250     .758 ss      2001306         -1 SONSECA ARRAY, Spain
+ES11      39.64989     -3.91853     .759 ss      1989212    2001306 Sonseca Array, Spain
+ES11      39.64870     -3.92000     .758 ss      2001306         -1 SONSECA ARRAY, Spain
+ES12      39.63994     -3.94142     .762 ss      1989212    2001306 Sonseca Array, Spain
+ES12      39.63870     -3.94290     .761 ss      2001306         -1 SONSECA ARRAY, Spain
+ES13      39.65010     -3.96600     .763 ss      2001306         -1 SONSECA ARRAY, Spain
+ES13      39.65131     -3.96458     .763 ss      1989212    2001306 Sonseca Array, Spain
+ES14      39.65308     -3.98708     .781 ss      1989212    2001306 Sonseca Array, Spain
+ES14      39.65180     -3.98850     .780 ss      2001306         -1 SONSECA ARRAY, Spain
+ES15      39.66420     -4.00040     .776 ss      2001306         -1 SONSECA ARRAY, Spain
+ES15      39.66542     -3.99894     .777 ss      1989212    2001306 Sonseca Array, Spain
+ES16      39.68680     -3.99430     .775 ss      2001306         -1 SONSECA ARRAY, Spain
+ES16      39.68803     -3.99289     .776 ss      1989212    2001306 Sonseca Array, Spain
+ES17      39.70040     -3.97280     .767 ss      2001306         -1 SONSECA ARRAY, Spain
+ES17      39.70161     -3.97131     .767 ss      1989212    2001306 Sonseca Array, Spain
+ES18      39.71020     -3.94930     .750 ss      2001306         -1 SONSECA ARRAY, Spain
+ES18      39.71139     -3.94786     .751 ss      1989212    2001306 Sonseca Array, Spain
+ES19      39.70186     -3.89767     .721 ss      1989212    2001306 Sonseca Array, Spain
+ES19      39.70060     -3.89910     .721 ss      2001306         -1 SONSECA ARRAY, Spain
+ESBB      39.67440     -3.96300     .755 ss      2001306         -1 SONSECA ARRAY, Spain
+ESDC      39.67547     -3.96167     .753 ar      1989212    2001306 Sonseca Array, Spain
+ESDC      39.67440     -3.96300     .755 ar      2001306         -1 SONSECA ARRAY, Spain
+ESLA      39.67547     -3.96167     .753 ss      1989212    2001306 Sonseca Array, Spain
+ESLB      39.84275     -4.01578     .612 ss      1989212    2001306 Sonseca Array, Spain
+ESLC      39.79620     -3.81179     .687 ss      1989212    2001306 Sonseca Array, Spain
+ESLD      39.61112     -3.78280     .807 ss      1989212    2001306 Sonseca Array, Spain
+ESLE      39.50841     -3.97199     .801 ss      1989212    2001306 Sonseca Array, Spain
+ESLF      39.59722     -4.16865     .911 ss      1989212    2001306 Sonseca Array, Spain
+ESLG      39.74583     -4.19356     .830 ss      1989212    2001306 Sonseca Array, Spain
+FIA0      61.44363     26.07713     .150 ss      1993322         -1 FINES ARRAY ELEMENT FIA0, Finland
+FIA1      61.44445     26.07934     .138 ss      1993322         -1 FINES ARRAY ELEMENT FIA1, Finland
+FIA2      61.44123     26.07366     .162 ss      1993322         -1 FINES ARRAY ELEMENT FIA2, Finland
+FIA3      61.44472     26.07155     .153 ss      1993322         -1 FINES ARRAY ELEMENT FIA3, Finland
+FIB1      61.44414     26.08449     .165 ss      1993322         -1 FINES ARRAY ELEMENT FIB1, Finland
+FIB2      61.43909     26.08175     .159 ss      1993322         -1 FINES ARRAY ELEMENT FIB2, Finland
+FIB3      61.43940     26.07060     .176 ss      1993322         -1 FINES ARRAY ELEMENT FIB3, Finland
+FIB4      61.44358     26.06503     .158 ss      1993322         -1 FINES ARRAY ELEMENT FIB4, Finland
+FIB5      61.44669     26.07109     .143 ss      1993322         -1 FINES ARRAY ELEMENT FIB5, Finland
+FIB6      61.44694     26.08082     .147 ss      1993322         -1 FINES ARRAY ELEMENT FIB6, Finland
+FIC1      61.43841     26.05955     .158 ss      1993322         -1 FINES ARRAY ELEMENT FIC1, Finland
+FIC2      61.44879     26.06123     .154 ss      1993322         -1 FINES ARRAY ELEMENT FIC2, Finland
+FIC3      61.45272     26.07722     .133 ss      1993322         -1 FINES ARRAY ELEMENT FIC3, Finland
+FIC4      61.44892     26.08989     .145 ss      1993322         -1 FINES ARRAY ELEMENT FIC4, Finland
+FIC5      61.43968     26.09173     .161 ss      1993322         -1 FINES ARRAY ELEMENT FIC5, Finland
+FIC6      61.43459     26.07604     .159 ss      1993322         -1 FINES ARRAY ELEMENT FIC6, Finland
+FINES     61.44360     26.07710     .150 ar      1993322         -1 FINES ARRAY, Finland
+FITZ     -18.09826    125.64030     .129 ss      2002213         -1 FITZROY CROSSING
+FITZ     -18.10300    125.64300     .110 ss      1994244    1997290 Fitzroy Crossing, Australia
+FITZ     -18.10200    125.63900     .110 ss      1997291    2002212 Fitzroy Crossing, Australia
+FRB       63.74670    -68.54670     .018 ss      1992001         -1 Iqaluit, Canada
+GEA0      48.83680     13.70188    1.022 ss      1990100    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEA0      48.83680     13.70188    1.022 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEA1      48.83628     13.70392    1.004 ss      1990067    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEA1      48.83628     13.70392    1.004 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEA2      48.83862     13.70182    1.056 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEA2      48.83862     13.70182    1.056 ss      1990194    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEA3      48.83501     13.70003    1.012 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEA3      48.83501     13.70003    1.012 ss      1990067    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEB1      48.83889     13.70753    1.010 ss      1990095    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEB1      48.83889     13.70753    1.010 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEB2      48.83954     13.69861    1.089 ss      1990094    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEB2      48.83954     13.69861    1.089 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEB3      48.83695     13.69598    1.054 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEB3      48.83695     13.69598    1.054 ss      1990067    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEB4      48.83273     13.69886    1.001 ss      1990067    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEB4      48.83273     13.69886    1.001 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEB5      48.83457     13.70594     .972 ss      1990111    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEB5      48.83457     13.70594     .972 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC1      48.84123     13.70992    1.023 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC1      48.84123     13.70992    1.023 ss      1990125    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC2      48.84511     13.70156    1.132 ss      1990067    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC2A     48.84511     13.70156    1.132 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC2B     48.84509     13.70158    1.702 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC3      48.84237     13.69169    1.070 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC3      48.84237     13.69169    1.070 ss      1990067    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC4      48.83520     13.68750    1.098 ss      1990096    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC4      48.83520     13.68750    1.098 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC5      48.82960     13.69570    1.004 ss      1990067    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC5      48.82960     13.69570    1.004 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC6      48.82677     13.70904     .937 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC6      48.82677     13.70904     .937 ss      1990181    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC7      48.83544     13.71448     .981 ss      1990181    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEC7      48.83544     13.71448     .981 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED1      48.85181     13.71477    1.057 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED1      48.85181     13.71477    1.057 ss      1990067    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED2      48.85322     13.69643     .994 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED2      48.85322     13.69643     .994 ss      1990148    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED3      48.84650     13.68180     .945 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED3      48.84650     13.68180     .945 ss      1990181    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED4      48.83857     13.67964    1.035 ss      1990287    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED4      48.83857     13.67964    1.035 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED5      48.82461     13.68069    1.080 ss      1990181    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED5      48.82461     13.68069    1.080 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED6      48.81941     13.69664    1.079 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED6      48.81941     13.69664    1.079 ss      1990287    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED7      48.82092     13.71592     .955 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED7      48.82092     13.71592     .955 ss      1990287    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED8      48.83317     13.72609     .933 ss      1990181    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED8      48.83317     13.72609     .933 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED9      48.84343     13.72379     .982 ss      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GED9      48.84343     13.72379     .982 ss      1990181    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GERES     48.84511     13.70156    1.132 ar      1991001    2008224 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GERES     48.84511     13.70156    1.132 ar      2008225         -1 GERMAN EXPERIM. SEISMIC SYSTEM (GERESS), Germany
+GEYT      37.92955     58.11706     .610 ar      2010038         -1 ALIBECK ARRAY
+GNI       40.14950     44.74140    1.583 ss      1991193         -1 GARNI
+GUMO      13.58780    144.86620     .014 ss      2005080    2005218 GUAM, MARIANAS ISLANDS, UNITED STATES OF AMERICA
+GUMO      13.58920    144.86840     .164 ss      2005219         -1 GUAM, MARIANAS ISLANDS, UNITED STATES OF AMERICA
+GYA0      37.92955     58.11706     .610 ss      2010038         -1 ALIBECK ARRAY ELEMENT GYA0
+GYA0B     37.92955     58.11706     .610 ss      2010038         -1 ALIBECK ARRAY ELEMENT GYA0B
+GYA1      37.92322     58.11730     .625 ss      2010038         -1 ALIBECK ARRAY ELEMENT GYA1
+GYA2      37.93548     58.12132     .582 ss      2010038         -1 ALIBECK ARRAY ELEMENT GYA2
+GYA3      37.93309     58.11311     .634 ss      2010038         -1 ALIBECK ARRAY ELEMENT GYA3
+GYB1      37.92052     58.12588     .649 ss      2010038         -1 ALIBECK ARRAY ELEMENT GYB1
+GYB2      37.93761     58.12689     .575 ss      2010038         -1 ALIBECK ARRAY ELEMENT GYB2
+GYB3      37.94301     58.11582     .566 ss      2010038         -1 ALIBECK ARRAY ELEMENT GYB3
+GYB4      37.93322     58.09801     .600 ss      2010038         -1 ALIBECK ARRAY ELEMENT GYB4
+GYB5      37.92061     58.10852     .718 ss      2010038         -1 ALIBECK ARRAY ELEMENT GYB5
+H01C1    -34.34800    115.16600     .030 ss      2001240         -1 Cape Leeuwin, Australia
+H01W1    -34.89299    114.15398   -1.535 ss      2001240         -1 Cape Leeuwin, Australia
+H01W1    -34.89299    114.15398     .000 ss      2001240    2007194 Cape Leeuwin, Australia
+H01W2    -34.89708    114.13403     .000 ss      2001240    2004153 Cape Leeuwin, Australia
+H01W2    -34.89848    114.13385     .000 ss      2004154    2007194 Cape Leeuwin, Australia
+H01W2    -34.89848    114.13385   -1.616 ss      2004154         -1 Cape Leeuwin, Australia
+H01W3    -34.88093    114.13998     .000 ss      2001240    2004153 Cape Leeuwin, Australia
+H01W3    -34.88316    114.13608   -1.522 ss      2004154         -1 Cape Leeuwin, Australia
+H01W3    -34.88316    114.13608     .000 ss      2004154    2007194 Cape Leeuwin, Australia
+H02N      53.25190   -132.54190     .989 ss      2006324         -1 VAN INLET
+H02N1     53.25190   -132.54190     .989 ss      2006324         -1 VAN INLET
+H02S      53.20250   -132.47660     .066 ss      2006324         -1 DAWSON INLET
+H02S1     53.20250   -132.47660     .066 ss      2006324         -1 DAWSON INLET
+H03C1    -33.63600    -78.82900     .003 ss      2003013         -1 Juan Fernandez Island
+H03C2    -33.63600    -78.82900     .003 ss      2003013         -1 Juan Fernandez Island
+H03N     -33.44121    -78.91195     .000 ar      2003013         -1 Juan Fernandez Island
+H03N     -33.44121    -78.91195     .000 ar      2003013    2007194 Juan Fernandez Island
+H03N1    -33.44121    -78.91195     .000 ss      2003013    2007194 Juan Fernandez Island
+H03N1    -33.44121    -78.91195   -1.900 ss      2003013         -1 Juan Fernandez Island
+H03N2    -33.43987    -78.93244     .000 ss      2004154    2007194 Juan Fernandez Island
+H03N2    -33.43987    -78.93244   -2.020 ss      2004154         -1 Juan Fernandez Island
+H03N2    -33.43953    -78.93265     .000 ss      2003013    2004153 Juan Fernandez Island
+H03N3    -33.45563    -78.92405     .000 ss      2004154    2007194 Juan Fernandez Island
+H03N3    -33.45563    -78.92405   -1.555 ss      2004154         -1 Juan Fernandez Island
+H03N3    -33.45560    -78.92430     .000 ss      2003013    2004153 Juan Fernandez Island
+H03S     -33.84370    -78.90575     .000 ar      2003013         -1 Juan Fernandez Island
+H03S     -33.84370    -78.90575     .000 ar      2003013    2007194 Juan Fernandez Island
+H03S1    -33.84370    -78.90575   -1.948 ss      2003013         -1 Juan Fernandez Island
+H03S1    -33.84370    -78.90575     .000 ss      2003013    2007194 Juan Fernandez Island
+H03S2    -33.83696    -78.92619     .000 ss      2003013    2007194 Juan Fernandez Island
+H03S2    -33.83696    -78.92619   -1.972 ss      2003013         -1 Juan Fernandez Island
+H03S3    -33.82584    -78.90948     .000 ss      2003013    2007194 Juan Fernandez Island
+H03S3    -33.82584    -78.90948   -1.865 ss      2003013         -1 Juan Fernandez Island
+H04N1    -46.16080     51.77920     .000 ss      2003110    2007194 CROZET ISLANDS, France
+H04N1    -46.16080     51.77920   -1.520 ss      2003110         -1 CROZET ISLANDS, France
+H04N2    -46.16440     51.80250     .000 ss      2003110    2007194 CROZET ISLANDS, France
+H04N2    -46.16440     51.80250   -1.520 ss      2003110         -1 CROZET ISLANDS, France
+H04N3    -46.17720     51.78320     .000 ss      2003110    2007194 CROZET ISLANDS, France
+H04N3    -46.17720     51.78320   -1.400 ss      2003110         -1 CROZET ISLANDS, France
+H04S1    -46.84090     51.91300   -1.125 ss      2003099         -1 CROZET ISLANDS, France
+H04S1    -46.84090     51.91300     .000 ss      2003099    2007194 CROZET ISLANDS, France
+H04S2    -46.85360     51.89350   -1.225 ss      2003099         -1 CROZET ISLANDS, France
+H04S2    -46.85360     51.89350     .000 ss      2003099    2007194 CROZET ISLANDS, France
+H04S3    -46.83540     51.88700   -1.175 ss      2003099         -1 CROZET ISLANDS, France
+H04S3    -46.83540     51.88700     .000 ss      2003099    2007194 CROZET ISLANDS, France
+H05N      16.31640    -61.05670     .268 ar      2000262         -1 Guadeloupe/Martinique T-Phase array, FRANCE
+H05N1     16.31640    -61.05670     .268 ss      2000262         -1 Guadeloupe/Martinique T-Phase array, FRANCE
+H05S      14.42500    -60.83670     .006 ar      2001262         -1 Guadeloupe/Martinique T-Phase array, FRANCE
+H05S1     14.42500    -60.83670     .006 ss      2000262         -1 Guadeloupe/Martinique T-Phase array, FRANCE
+H06E      18.78050   -110.92530     .316 ss      2005333         -1 SOCORRO, MEXICO
+H06E1     18.78050   -110.92530     .316 ss      2005333         -1 SOCORRO, MEXICO
+H06N      18.86160   -110.98610     .016 ss      2005333         -1 SOCORRO, MEXICO
+H06N1     18.86160   -110.98610     .016 ss      2005333         -1 SOCORRO, MEXICO
+H06S      18.73470   -110.95750     .035 ss      2005333         -1 SOCORRO, MEXICO
+H06S1     18.73470   -110.95750     .035 ss      2005333         -1 SOCORRO, MEXICO
+H07N      39.69115    -31.16959     .479 ar      2004335    2005123 FLORES, Portugal
+H07N      39.69115    -31.11958     .479 ar      2005124         -1 FLORES, Portugal
+H07N1     39.69115    -31.11958     .479 ss      2005124         -1 FLORES, Portugal
+H07N1     39.69115    -31.16959     .479 ss      2004335    2005123 FLORES, Portugal
+H07S      39.37857    -31.20607     .478 ar      2004335         -1 FLORES, Portugal
+H07S1     39.37857    -31.20607     .478 ss      2004335         -1 FLORES, Portugal
+H08C1     -7.26663     72.35325     .003 ss      2004194         -1 Diego Garcia
+H08C2     -7.26663     72.35325     .003 ss      2004194         -1 Diego Garcia
+H08N      -6.34210     71.01430     .000 ar      2001264         -1 Diego Garcia
+H08N      -6.34210     71.01430     .000 ar      2001264    2007194 Diego Garcia
+H08N1     -6.34210     71.01430   -2.308 ss      2001264         -1 Diego Garcia
+H08N1     -6.34210     71.01430     .000 ss      2001264    2007194 Diego Garcia
+H08N2     -6.32506     71.00005     .000 ss      2004154    2007194 Diego Garcia
+H08N2     -6.32430     70.99950     .000 ss      2001264    2004153 Diego Garcia
+H08N2     -6.32506     71.00005   -2.373 ss      2004154         -1 Diego Garcia
+H08N3     -6.34544     70.99188   -2.342 ss      2004154         -1 Diego Garcia
+H08N3     -6.34660     70.99070     .000 ss      2001264    2004153 Diego Garcia
+H08N3     -6.34544     70.99188     .000 ss      2004154    2007194 Diego Garcia
+H08S      -7.64530     72.47440     .000 ar      2001264         -1 Diego Garcia
+H08S      -7.64530     72.47440     .000 ar      2001264    2007194 Diego Garcia
+H08S1     -7.64530     72.47440     .000 ss      2001264    2007194 Diego Garcia
+H08S1     -7.64530     72.47440   -1.889 ss      2001264         -1 Diego Garcia
+H08S2     -7.64534     72.49325     .000 ss      2004154    2007194 Diego Garcia
+H08S2     -7.64490     72.49550     .000 ss      2001264    2004153 Diego Garcia
+H08S2     -7.64534     72.49325   -1.918 ss      2004154         -1 Diego Garcia
+H08S3     -7.62750     72.48383     .000 ss      2004154    2007194 Diego Garcia
+H08S3     -7.62750     72.48383   -1.776 ss      2004154         -1 Diego Garcia
+H08S3     -7.62740     72.48370     .000 ss      2001264    2004153 Diego Garcia
+H09N     -37.06811    -12.31523     .000 ar      2004077         -1 TRISTAN DA CUNHA, United Kingdom
+H09N1    -37.06811    -12.31523     .000 ss      2004077         -1 TRISTAN DA CUNHA, United Kingdom
+H09W     -37.09716    -12.33504     .000 ar      2004077         -1 TRISTAN DA CUNHA, United Kingdom
+H09W1    -37.09716    -12.33504     .000 ss      2004077         -1 TRISTAN DA CUNHA, United Kingdom
+H10C1     -7.96000    -14.41000     .010 ss      2004249         -1 ASCENSION, United States of America
+H10C2     -7.96000    -14.41000     .010 ss      2004249         -1 ASCENSION, United States of America
+H10N      -7.84567    -14.48023     .000 ar      2004249    2007194 ASCENSION, United States of America
+H10N      -7.84567    -14.48023     .000 ar      2004249         -1 ASCENSION, United States of America
+H10N1     -7.84567    -14.48023     .000 ss      2004249    2007194 ASCENSION, United States of America
+H10N1     -7.84567    -14.48023   -1.925 ss      2004249         -1 ASCENSION, United States of America
+H10N2     -7.82779    -14.48748     .000 ss      2006065    2007194 ASCENSION, United States of America
+H10N2     -7.82779    -14.48748   -2.049 ss      2006065         -1 ASCENSION, United States of America
+H10N2     -7.82771    -14.48723     .000 ss      2004249    2006064 ASCENSION, United States of America
+H10N3     -7.84093    -14.50168     .000 ss      2006065    2007194 ASCENSION, United States of America
+H10N3     -7.84145    -14.50150     .000 ss      2004249    2006064 ASCENSION, United States of America
+H10N3     -7.84093    -14.50168   -2.041 ss      2006065         -1 ASCENSION, United States of America
+H10S      -8.94118    -14.64843     .000 ar      2004249    2007194 ASCENSION, United States of America
+H10S      -8.94118    -14.64843     .000 ar      2004249         -1 ASCENSION, United States of America
+H10S1     -8.94118    -14.64843   -1.740 ss      2004249         -1 ASCENSION, United States of America
+H10S1     -8.94118    -14.64843     .000 ss      2004249    2007194 ASCENSION, United States of America
+H10S2     -8.95971    -14.64470     .000 ss      2004249    2006064 ASCENSION, United States of America
+H10S2     -8.95910    -14.64531     .000 ss      2006065    2007194 ASCENSION, United States of America
+H10S2     -8.95910    -14.64531   -1.757 ss      2006065         -1 ASCENSION, United States of America
+H10S3     -8.95274    -14.66290     .000 ss      2006065    2007194 ASCENSION, United States of America
+H10S3     -8.95302    -14.66274     .000 ss      2004249    2006064 ASCENSION, United States of America
+H10S3     -8.95274    -14.66290   -1.703 ss      2006065         -1 ASCENSION, United States of America
+H11C1     19.29000    166.61000     .004 ss      2007117         -1 C1 WAKE ISLAND USA
+H11C2     19.29000    166.61000     .004 ss      2007127         -1 C1 WAKE ISLAND USA
+H11N      19.71356    166.89109     .000 ar      2007117    2007194 H11N WAKE ISLAND USA
+H11N      19.71356    166.89109     .000 ar      2007117         -1 H11N WAKE ISLAND USA
+H11N1     19.71356    166.89109     .000 ss      2007117    2007194 N1 WAKE ISLAND USA
+H11N1     19.71356    166.89109   -1.418 ss      2007117         -1 N1 WAKE ISLAND USA
+H11N2     19.73080    166.89768   -1.427 ss      2007117    2009251 N2 WAKE ISLAND USA
+H11N2     19.73115    166.89677   -1.427 ss      2009252         -1 N2 WAKE ISLAND USA
+H11N2     19.73080    166.89768     .000 ss      2007117    2007194 N2 WAKE ISLAND USA
+H11N3     19.71718    166.90999     .000 ss      2007117    2007194 N3 WAKE ISLAND USA
+H11N3     19.71786    166.90986   -1.433 ss      2009252         -1 N3 WAKE ISLAND USA
+H11N3     19.71718    166.90999   -1.433 ss      2007117    2009251 N3 WAKE ISLAND USA
+H11S      18.50827    166.70027     .000 ar      2007127         -1 H11S WAKE ISLAND USA
+H11S1     18.50827    166.70027     .000 ss      2007127    2007194 S1 WAKE ISLAND USA
+H11S1     18.50827    166.70027   -1.179 ss      2007195         -1 S1 WAKE ISLAND USA
+H11S2     18.49082    166.70500     .000 ss      2007127    2007194 S2 WAKE ISLAND USA
+H11S2     18.49046    166.70535   -1.197 ss      2009252         -1 S2 WAKE ISLAND USA
+H11S2     18.49082    166.70500   -1.197 ss      2007195    2009251 S2 WAKE ISLAND USA
+H11S3     18.49568    166.68646   -1.146 ss      2007195    2009251 S3 WAKE ISLAND USA
+H11S3     18.49487    166.68725   -1.146 ss      2009252         -1 S3 WAKE ISLAND USA
+H11S3     18.49568    166.68646     .000 ss      2007127    2007194 S3 WAKE ISLAND USA
+HFA0      60.14197     13.68499     .275 ss      2001236         -1 HAGFORS ARRAY, Sweden
+HFA1      60.14445     13.68458     .294 ss      2001236         -1 HAGFORS ARRAY, Sweden
+HFA2      60.14057     13.68061     .302 ss      2001236         -1 HAGFORS ARRAY, Sweden
+HFA3      60.14047     13.68958     .266 ss      2001236         -1 HAGFORS ARRAY, Sweden
+HFB1      60.14819     13.68235     .324 ss      2001236         -1 HAGFORS ARRAY, Sweden
+HFB2      60.14213     13.67294     .342 ss      2001236         -1 HAGFORS ARRAY, Sweden
+HFB3      60.13704     13.68204     .272 ss      2001236         -1 HAGFORS ARRAY, Sweden
+HFB4      60.13846     13.69430     .266 ss      2001236         -1 HAGFORS ARRAY, Sweden
+HFB5      60.14669     13.69639     .269 ss      2001236         -1 HAGFORS ARRAY, Sweden
+HFC2      60.13347     13.69449     .297 ss      2001236         -1 HAGFORS ARRAY, Sweden
+HFS       60.13440     13.69680     .265 ar      1969121    2001236 Hagfors Array, Sweden
+HFS       60.13347     13.69449     .297 ar      2001236         -1 HAGFORS ARRAY, Sweden
+HFSA1     60.13830     13.69550     .240 ss      1969121    2001236 Hagfors Array, Sweden
+HFSB1     60.13820     13.70110     .225 ss      1969121    2001236 Hagfors Array, Sweden
+HFSB2     60.14310     13.69880     .230 ss      1969121    2001236 Hagfors Array, Sweden
+HFSB3     60.14330     13.68840     .240 ss      1969121    2001236 Hagfors Array, Sweden
+HFSB4     60.13840     13.68600     .239 ss      1969121    2001236 Hagfors Array, Sweden
+HFSB5     60.13510     13.69350     .240 ss      1969121    2001236 Hagfors Array, Sweden
+HFSC1     60.13440     13.69680     .265 ss      1969121    2001236 Hagfors Array, Sweden
+HFSC2     60.13350     13.69730     .260 ss      1969121    2001236 Hagfors Array, Sweden
+HIA       49.26670    119.74170     .610 ss      1986201    2003365 Hailar, China
+HIA0      49.54361    119.74520     .722 ss      2008290         -1 HAILAR ARRAY ELEMENT HIA0, China
+HIA1      49.54642    119.74797     .720 ss      2008290         -1 HAILAR ARRAY ELEMENT HIA1, China
+HIA2      49.53921    119.74287     .701 ss      2008290         -1 HAILAR ARRAY ELEMENT HIA2, China
+HIA3      49.54499    119.73921     .766 ss      2008290         -1 HAILAR ARRAY ELEMENT HIA3, China
+HIB1      49.55620    119.75080     .725 ss      2008290         -1 HAILAR ARRAY ELEMENT HIB1, China
+HIB1B     49.55620    119.75080     .725 ss      2008290         -1 HAILAR ARRAY ELEMENT HIB1B, China
+HIB2      49.54147    119.77017     .688 ss      2008290         -1 HAILAR ARRAY ELEMENT HIB2, China
+HIB3      49.52455    119.74577     .644 ss      2008290         -1 HAILAR ARRAY ELEMENT HIB3, China
+HIB4      49.53143    119.72547     .717 ss      2008290         -1 HAILAR ARRAY ELEMENT HIB4, China
+HIB5      49.55448    119.72684     .657 ss      2008290         -1 HAILAR ARRAY ELEMENT HIB5, China
+HILR      49.55620    119.75080     .725 ar      2008290         -1 HAILAR ARRAY China
+HNR       -9.43220    159.94710     .072 ss      2005080         -1 HONIARA, GUADALCANAL, SOLOMON ISLANDS
+I02AR    -54.58057    -67.30923     .094 ar      2006124         -1 I02AR USHUAIA
+I02H1    -54.58057    -67.30923     .094 ss      2006124         -1 I02AR USHUAIA
+I02H2    -54.57490    -67.31503     .069 ss      2006124         -1 I02AR USHUAIA
+I02H3    -54.57783    -67.29508     .079 ss      2006124         -1 I02AR USHUAIA
+I02H4    -54.58728    -67.30883     .121 ss      2006124         -1 I02AR USHUAIA
+I02H5    -54.58274    -67.31434     .096 ss      2006124         -1 I02AR USHUAIA
+I04AU    -34.59761    116.35669     .167 ar      2006032         -1 I04AU SHANNON
+I04H1    -34.59761    116.35669     .167 ss      2006032         -1 I04AU SHANNON
+I04H2    -34.59617    116.36714     .156 ss      2006032    2006082 I04AU SHANNON
+I04H2    -34.59617    116.36714     .156 ss      2006083         -1 I04AU SHANNON
+I04H3    -34.60757    116.35155     .123 ss      2006032    2006082 I04AU SHANNON
+I04H3    -34.60757    116.35155     .123 ss      2006083         -1 I04AU SHANNON
+I04H4    -34.59400    116.34458     .155 ss      2006083         -1 I04AU SHANNON
+I04H4    -34.59400    116.34458     .155 ss      2006032    2006082 I04AU SHANNON
+I04H5    -34.59471    116.34109     .148 ss      2006032    2006082 I04AU SHANNON
+I04H5    -34.59471    116.34109     .148 ss      2006083         -1 I04AU SHANNON
+I04H6    -34.59312    116.34104     .147 ss      2006083         -1 I04AU SHANNON
+I04H6    -34.59312    116.34104     .147 ss      2006032    2006082 I04AU SHANNON
+I04H7    -34.59112    116.34316     .143 ss      2006032    2006082 I04AU SHANNON
+I04H7    -34.59112    116.34316     .143 ss      2006083         -1 I04AU SHANNON
+I04H8    -34.59292    116.34639     .149 ss      2006083         -1 I04AU SHANNON
+I04H8    -34.59292    116.34639     .149 ss      2006032    2006082 I04AU SHANNON
+I05AU    -42.49080    147.68063     .350 ar      2003088         -1 HOBART INFRASONIC ARRAY, AUSTRALIA
+I05H1    -42.49080    147.68063     .350 ss      2003088         -1 HOBART INFRASONIC ARRAY, AUSTRALIA
+I05H2    -42.48719    147.67430     .310 ss      2003088         -1 HOBART INFRASONIC ARRAY, AUSTRALIA
+I05H3    -42.48229    147.67762     .314 ss      2003088         -1 HOBART INFRASONIC ARRAY, AUSTRALIA
+I05H4    -42.48075    147.68978     .316 ss      2003088         -1 HOBART INFRASONIC ARRAY, AUSTRALIA
+I05H5    -42.48847    147.69105     .316 ss      2003088         -1 HOBART INFRASONIC ARRAY, AUSTRALIA
+I05H6    -42.49657    147.68299     .308 ss      2003088         -1 HOBART INFRASONIC ARRAY, AUSTRALIA
+I05H7    -42.50046    147.68433     .306 ss      2003088         -1 HOBART INFRASONIC ARRAY, AUSTRALIA
+I05H8    -42.49977    147.68092     .304 ss      2003088         -1 HOBART INFRASONIC ARRAY, AUSTRALIA
+I07AU    -19.93482    134.32953     .386 ar      2000133         -1 WARRAMUNGA INFRASONIC ARRAY, AUSTRALIA
+I07H1    -19.93485    134.32954     .386 ss      2000133         -1 WARRAMUNGA INFRASONIC ARRAY, AUSTRALIA
+I07H2    -19.93341    134.33094     .388 ss      2000133         -1 WARRAMUNGA INFRASONIC ARRAY, AUSTRALIA
+I07H3    -19.93659    134.33073     .392 ss      2000133         -1 WARRAMUNGA INFRASONIC ARRAY, AUSTRALIA
+I07H4    -19.93502    134.32770     .383 ss      2000133         -1 WARRAMUNGA INFRASONIC ARRAY, AUSTRALIA
+I07L1    -19.93482    134.32953     .386 ss      2000133         -1 WARRAMUNGA INFRASONIC ARRAY, AUSTRALIA
+I07L2    -19.92455    134.32579     .387 ss      2000133         -1 WARRAMUNGA INFRASONIC ARRAY, AUSTRALIA
+I07L3    -19.94022    134.33963     .388 ss      2000133         -1 WARRAMUNGA INFRASONIC ARRAY, AUSTRALIA
+I07L4    -19.94329    134.32290     .383 ss      2000133         -1 WARRAMUNGA INFRASONIC ARRAY, AUSTRALIA
+I08BO    -16.21500    -68.45330    4.132 ar      2000003    2002226 LA PAZ (PENAS) INFRASONIC ARRAY, BOLIVIA
+I08BO    -16.21523    -68.45345    4.096 ar      2002226         -1 Penas-Bolivia Infrasonic Array, Bolivia
+I08H1    -16.21523    -68.45345    4.096 ss      2002226         -1 Penas-Bolivia Infrasonic Array, Bolivia
+I08H1    -16.21504    -68.45326    4.132 ss      2000003    2002226 LA PAZ (PENAS) INFRASONIC ARRAY, BOLIVIA
+I08H2    -16.20238    -68.45612    4.085 ss      2002226         -1 Penas-Bolivia Infrasonic Array, Bolivia
+I08H2    -16.20219    -68.45594    4.121 ss      2000003    2002226 LA PAZ (PENAS) INFRASONIC ARRAY, BOLIVIA
+I08H3    -16.21750    -68.44290    4.124 ss      2002226         -1 Penas-Bolivia Infrasonic Array, Bolivia
+I08H3    -16.21731    -68.44272    4.160 ss      2000003    2002226 LA PAZ (PENAS) INFRASONIC ARRAY, BOLIVIA
+I08H4    -16.22150    -68.46360    4.106 ss      2000003    2002226 LA PAZ (PENAS) INFRASONIC ARRAY, BOLIVIA
+I08H4    -16.22168    -68.46378    4.071 ss      2002226         -1 Penas-Bolivia Infrasonic Array, Bolivia
+I09BR    -15.63797    -48.01642    1.185 ar      2001171         -1 BRASILIA INFRASONIC ARRAY, Brazil
+I09H1    -15.63797    -48.01642    1.185 ss      2001171         -1 BRASILIA INFRASONIC ARRAY, Brazil
+I09H2    -15.62803    -48.01986    1.244 ss      2001171         -1 BRASILIA INFRASONIC ARRAY, Brazil
+I09H3    -15.64508    -48.00828    1.184 ss      2001171         -1 BRASILIA INFRASONIC ARRAY, Brazil
+I09H4    -15.63985    -48.02548    1.265 ss      2001171         -1 BRASILIA INFRASONIC ARRAY, Brazil
+I10CA     50.20147    -96.02685     .247 ar      1999124         -1 LAC DU BONNET INFRASONIC ARRAY, Canada
+I10H1     50.20147    -96.02685     .247 ss      1999124         -1 LAC DU BONNET INFRASONIC ARRAY, Canada
+I10H2     50.20665    -96.03957     .237 ss      1999124         -1 LAC DU BONNET INFRASONIC ARRAY, Canada
+I10H3     50.20649    -96.01169     .240 ss      1999124         -1 LAC DU BONNET INFRASONIC ARRAY, Canada
+I10H4     50.18736    -96.01893     .243 ss      1999124         -1 LAC DU BONNET INFRASONIC ARRAY, Canada
+I11CV     15.25729    -23.18388     .044 ar      2007150         -1 I11CV CAPE VERDE-MAIO
+I11L1     15.25729    -23.18388     .044 ss      2007150         -1 I11CV CAPE VERDE-MAIO
+I11L2     15.25822    -23.18637     .041 ss      2007150         -1 I11CV CAPE VERDE
+I11L3     15.25551    -23.18585     .044 ss      2007150         -1 I11CV CAPE VERDE
+I11L4     15.26738    -23.18385     .041 ss      2007150         -1 I11CV CAPE VERDE
+I11L5     15.25802    -23.17700     .045 ss      2007150         -1 I11CV CAPE VERDE
+I11L6     15.25016    -23.18303     .055 ss      2007150         -1 I11CV CAPE VERDE
+I11L7     15.25566    -23.19426     .040 ss      2007150         -1 I11CV CAPE VERDE
+I11L8     15.26459    -23.19374     .037 ss      2007150         -1 I11CV CAPE VERDE
+I13CL    -27.12726   -109.36265     .163 ar      2005076         -1 I13CL EASTER ISLAND CHILE INFRASONIC ARRAY
+I13H1    -27.12726   -109.36265     .163 ss      2005076         -1 I13CL EASTER ISLAND CHILE INFRASONIC ARRAY
+I13H2    -27.12763   -109.35046     .152 ss      2005076         -1 I13CL EASTER ISLAND CHILE INFRASONIC ARRAY
+I13H3    -27.14183   -109.36846     .162 ss      2005076         -1 I13CL EASTER ISLAND CHILE INFRASONIC ARRAY
+I13H4    -27.11656   -109.36581     .218 ss      2005076         -1 I13CL EASTER ISLAND CHILE INFRASONIC ARRAY
+I13H5    -27.12293   -109.36698     .186 ss      2005076         -1 I13CL EASTER ISLAND CHILE INFRASONIC ARRAY
+I13H6    -27.12275   -109.36546     .170 ss      2005076         -1 I13CL EASTER ISLAND CHILE INFRASONIC ARRAY
+I13H7    -27.12416   -109.36708     .162 ss      2005076         -1 I13CL EASTER ISLAND CHILE INFRASONIC ARRAY
+I13H8    -27.12238   -109.36758     .182 ss      2005076         -1 I13CL EASTER ISLAND CHILE INFRASONIC ARRAY
+I14CL    -33.65379    -78.79598     .388 ar      2004115         -1 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H1    -33.65379    -78.79598     .388 ss      2004115         -1 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H2    -33.64173    -78.79628     .270 ss      2004315         -1 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H2    -33.64173    -78.79628     .270 ss      2004115    2004314 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H3    -33.65896    -78.78761     .363 ss      2004115    2004314 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H3    -33.65896    -78.78761     .363 ss      2004315         -1 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H4    -33.65103    -78.80917     .495 ss      2004315         -1 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H4    -33.65103    -78.80917     .495 ss      2004115    2004314 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H5    -33.64253    -78.80696     .354 ss      2004115    2004314 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H5    -33.64253    -78.80696     .354 ss      2004315         -1 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H6    -33.65826    -78.78648     .350 ss      2004315         -1 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H6    -33.65826    -78.78648     .350 ss      2004115    2004314 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H7    -33.65961    -78.78714     .387 ss      2004315         -1 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H7    -33.65961    -78.78714     .387 ss      2004115    2004314 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H8    -33.65863    -78.78870     .354 ss      2004315         -1 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I14H8    -33.65863    -78.78870     .354 ss      2004115    2004314 ROBINSON CRUSOE ISLAND INFRASONIC ARRAY , Chile
+I17CI      6.67036     -4.85691     .156 ar      2002088         -1 DIMBOKRO INFRASONIC ARRAY, IVORY COAST
+I17H1      6.67036     -4.85691     .156 ss      2002088         -1 DIMBOKRO INFRASONIC ARRAY, IVORY COAST
+I17H2      6.68367     -4.84581     .126 ss      2002088         -1 DIMBOKRO INFRASONIC ARRAY, IVORY COAST
+I17H3      6.65800     -4.84933     .120 ss      2002088         -1 DIMBOKRO INFRASONIC ARRAY, IVORY COAST
+I17H4      6.67119     -4.86926     .147 ss      2002088         -1 DIMBOKRO INFRASONIC ARRAY, IVORY COAST
+I18DK     77.47556    -69.28776     .088 ar      2002248         -1 QAANAAQ INFRASONIC ARRAY , DANEMARK, GREENLAND
+I18H1     77.47625    -69.29103     .053 ss      2002248         -1 QAANAAQ INFRASONIC ARRAY , DANEMARK, GREENLAND
+I18H2     77.47599    -69.28442     .071 ss      2002248         -1 QAANAAQ INFRASONIC ARRAY , DANEMARK, GREENLAND
+I18H3     77.47471    -69.28512     .046 ss      2002248         -1 QAANAAQ INFRASONIC ARRAY , DANEMARK, GREENLAND
+I18H4     77.47487    -69.29108     .050 ss      2002248         -1 QAANAAQ INFRASONIC ARRAY , DANEMARK, GREENLAND
+I18L1     77.47556    -69.28776     .088 ss      2002248         -1 QAANAAQ INFRASONIC ARRAY , DANEMARK, GREENLAND
+I18L2     77.48068    -69.27989     .140 ss      2002248         -1 QAANAAQ INFRASONIC ARRAY , DANEMARK, GREENLAND
+I18L3     77.47174    -69.27112     .030 ss      2002248         -1 QAANAAQ INFRASONIC ARRAY , DANEMARK, GREENLAND
+I18L4     77.47521    -69.31669     .047 ss      2002248         -1 QAANAAQ INFRASONIC ARRAY , DANEMARK, GREENLAND
+I21FR     -8.86783   -140.15907     .806 ar      2005088         -1 I21FR MARQUESAS ISLAND INFRASONIC ARRAY
+I21H1     -8.86783   -140.15907     .806 ss      2005088         -1 I21FR MARQUESAS ISLAND INFRASONIC ARRAY
+I21H2     -8.86054   -140.16111     .822 ss      2005088         -1 I21FR MARQUESAS ISLAND INFRASONIC ARRAY
+I21H3     -8.87078   -140.15047     .796 ss      2005088         -1 I21FR MARQUESAS ISLAND INFRASONIC ARRAY
+I21H4     -8.87498   -140.16659     .821 ss      2005088         -1 I21FR MARQUESAS ISLAND INFRASONIC ARRAY
+I22FR    -22.18445    166.84592     .272 ar      2002088         -1 PORTLAGUERRE INFRASONIC ARRAY
+I22H1    -22.18445    166.84592     .272 ss      2002088         -1 PORTLAGUERRE INFRASONIC ARRAY
+I22H2    -22.17255    166.84466     .240 ss      2002088         -1 PORTLAGUERRE INFRASONIC ARRAY
+I22H3    -22.18816    166.85694     .283 ss      2002088         -1 PORTLAGUERRE INFRASONIC ARRAY
+I22H4    -22.18919    166.83958     .246 ss      2002088         -1 PORTLAGUERRE INFRASONIC ARRAY
+I2301    -49.34578     70.24159     .084 ss      2007344         -1 I23FR KERGUELEN
+I2302    -49.34654     70.24183     .084 ss      2007344         -1 I23FR KERGUELEN
+I2303    -49.34630     70.24070     .085 ss      2007344         -1 I23FR KERGUELEN
+I2304    -49.34286     70.24868     .082 ss      2007344         -1 I23FR KERGUELEN
+I2305    -49.34362     70.24892     .081 ss      2007344         -1 I23FR KERGUELEN
+I2306    -49.34338     70.24779     .080 ss      2007344         -1 I23FR KERGUELEN
+I2307    -49.34816     70.25637     .080 ss      2007344         -1 I23FR KERGUELEN
+I2308    -49.34892     70.25662     .077 ss      2007344         -1 I23FR KERGUELEN
+I2309    -49.34868     70.25548     .076 ss      2007344         -1 I23FR KERGUELEN
+I2310    -49.35158     70.24454     .077 ss      2007344         -1 I23FR KERGUELEN
+I2311    -49.35234     70.24478     .078 ss      2007344         -1 I23FR KERGUELEN
+I2312    -49.35210     70.24365     .077 ss      2007344         -1 I23FR KERGUELEN
+I2313    -49.34536     70.23599     .081 ss      2007344         -1 I23FR KERGUELEN
+I2314    -49.34612     70.23623     .081 ss      2007344         -1 I23FR KERGUELEN
+I2315    -49.34588     70.23510     .081 ss      2007344         -1 I23FR KERGUELEN
+I23FR    -49.34578     70.24159     .084 ar      2007344         -1 I23FR KERGUELEN
+I24FR    -17.74929   -149.29582     .117 ar      2000071         -1 TAHITI-TARAVAO INFRASONIC ARRAY, FRENCH POLYNESIA
+I24H1    -17.74929   -149.29582     .117 ss      2000071         -1 TAHITI-TARAVAO INFRASONIC ARRAY, FRENCH POLYNESIA
+I24H2    -17.73669   -149.29602     .075 ss      2000071         -1 TAHITI-TARAVAO INFRASONIC ARRAY, FRENCH POLYNESIA
+I24H3    -17.74271   -149.27479     .229 ss      2000071         -1 TAHITI-TARAVAO INFRASONIC ARRAY, FRENCH POLYNESIA
+I24H4    -17.75660   -149.28185     .234 ss      2000071         -1 TAHITI-TARAVAO INFRASONIC ARRAY, FRENCH POLYNESIA
+I24H5    -17.75685   -149.30837     .096 ss      2000071         -1 TAHITI-TARAVAO INFRASONIC ARRAY, FRENCH POLYNESIA
+I25H1      5.16612    -52.87941     .045 ss      2000190         -1 KOUROU INFRASONIC ARRAY, FRENCH GUIANA
+I25H2      5.17636    -52.87231     .045 ss      2000190         -1 KOUROU INFRASONIC ARRAY, FRENCH GUIANA
+I25H3      5.15522    -52.87130     .045 ss      2000190         -1 KOUROU INFRASONIC ARRAY, FRENCH GUIANA
+I25H4      5.16159    -52.89588     .040 ss      2000190         -1 KOUROU INFRASONIC ARRAY, FRENCH GUIANA
+I26DE     48.85162     13.71313    1.111 ar      2000137         -1 FREYUNG INFRASONIC ARRAY, GERMANY
+I26H1     48.84614     13.71793    1.141 ss      2000137         -1 FREYUNG INFRASONIC ARRAY, GERMANY
+I26H2     48.85162     13.71313    1.111 ss      2000137         -1 FREYUNG INFRASONIC ARRAY, GERMANY
+I26H3     48.84236     13.73681    1.058 ss      2000137         -1 FREYUNG INFRASONIC ARRAY, GERMANY
+I26H4     48.83857     13.71578    1.085 ss      2000137         -1 FREYUNG INFRASONIC ARRAY, GERMANY
+I26H5     48.84430     13.70199    1.172 ss      2000137         -1 FREYUNG INFRASONIC ARRAY, GERMANY
+I27DE    -70.66198     -8.32127     .046 ar      2003060    2009158 NEUMAYER INFRASONIC ARRAY, GERMANY,ANTARCTICA
+I27DE    -70.70110     -8.30291    -.057 ar      2009159         -1 Georg von Neumayer,
+I27L1    -70.70110     -8.30291    -.057 ss      2009159         -1 Georg von Neumayer,
+I27L1    -70.66198     -8.32127     .046 ss      2003060    2009158 NEUMAYER INFRASONIC ARRAY, GERMANY,ANTARCTICA
+I27L2    -70.69988     -8.30455     .070 ss      2009159         -1 Georg von Neumayer,
+I27L2    -70.66074     -8.32289     .046 ss      2003060    2009158 NEUMAYER INFRASONIC ARRAY, GERMANY,ANTARCTICA
+I27L3    -70.66395     -8.32679     .046 ss      2003060    2009158 NEUMAYER INFRASONIC ARRAY, GERMANY,ANTARCTICA
+I27L3    -70.70304     -8.30848     .055 ss      2009159         -1 Georg von Neumayer,
+I27L4    -70.70245     -8.29145     .056 ss      2009159         -1 Georg von Neumayer,
+I27L4    -70.66331     -8.30978     .046 ss      2003060    2009158 NEUMAYER INFRASONIC ARRAY, GERMANY,ANTARCTICA
+I27L5    -70.69573     -8.30402     .052 ss      2009159         -1 Georg von Neumayer,
+I27L5    -70.65661     -8.32245     .046 ss      2003060    2009158 NEUMAYER INFRASONIC ARRAY, GERMANY,ANTARCTICA
+I27L6    -70.70418     -8.32098     .053 ss      2009159         -1 Georg von Neumayer,
+I27L6    -70.66510     -8.33923     .046 ss      2003060    2009158 NEUMAYER INFRASONIC ARRAY, GERMANY,ANTARCTICA
+I27L7    -70.66703     -8.30228     .046 ss      2003060    2009158 NEUMAYER INFRASONIC ARRAY, GERMANY,ANTARCTICA
+I27L7    -70.70616     -8.28400     .055 ss      2009159         -1 Georg von Neumayer,
+I27L8    -70.69203     -8.29529     .055 ss      2009159         -1 Georg von Neumayer,
+I27L8    -70.65290     -8.31381     .046 ss      2003060    2009158 NEUMAYER INFRASONIC ARRAY, GERMANY,ANTARCTICA
+I27L9    -70.66353     -8.35339     .046 ss      2003060    2009158 NEUMAYER INFRASONIC ARRAY, GERMANY,ANTARCTICA
+I27L9    -70.70259     -8.33512     .054 ss      2009159         -1 Georg von Neumayer,
+I30H1     35.30776    140.31376     .052 ss      2005059         -1 I30JP ISUMI JAPAN INFRASONIC ARRAY
+I30H2     35.31287    140.31802     .040 ss      2005059         -1 I30JP ISUMI JAPAN INFRASONIC ARRAY
+I30H3     35.31146    140.33000     .040 ss      2005059         -1 I30JP ISUMI JAPAN INFRASONIC ARRAY
+I30H4     35.30456    140.32621     .047 ss      2005059         -1 I30JP ISUMI JAPAN INFRASONIC ARRAY
+I30H5     35.29918    140.31364     .039 ss      2005059         -1 I30JP ISUMI JAPAN INFRASONIC ARRAY
+I30H6     35.30791    140.30701     .040 ss      2005059         -1 I30JP ISUMI JAPAN INFRASONIC ARRAY
+I30JP     35.30776    140.31376     .052 ar      2005059         -1 I30JP ISUMI JAPAN INFRASONIC ARRAY
+I31H1     50.40864     58.03428     .391 ss      2002335    2006110 AKTYUBINSK INFRASONIC ARRAY , KAZAKHSTAN
+I31H1     50.40858     58.03435     .367 ss      2006111         -1 AKTYUBINSK INFRASONIC ARRAY, KAZAKHSTAN
+I31H2     50.40758     58.03843     .368 ss      2006111         -1 AKTYUBINSK INFRASONIC ARRAY, KAZAKHSTAN
+I31H2     50.40761     58.03861     .392 ss      2002335    2006110 AKTYUBINSK INFRASONIC ARRAY , KAZAKHSTAN
+I31H3     50.40500     58.03678     .392 ss      2002335    2006110 AKTYUBINSK INFRASONIC ARRAY , KAZAKHSTAN
+I31H3     50.40497     58.03692     .367 ss      2006111         -1 AKTYUBINSK INFRASONIC ARRAY, KAZAKHSTAN
+I31H4     50.40604     58.03345     .368 ss      2006111         -1 AKTYUBINSK INFRASONIC ARRAY, KAZAKHSTAN
+I31H4     50.40603     58.03339     .390 ss      2002335    2006110 AKTYUBINSK INFRASONIC ARRAY , KAZAKHSTAN
+I31KZ     50.40697     58.03482     .369 ar      2006111         -1 AKTYUBINSK INFRASONIC ARRAY, KAZAKHSTAN
+I31KZ     50.40697     58.03478     .391 ar      2002335    2006110 AKTYUBINSK INFRASONIC ARRAY , KAZAKHSTAN
+I31L1     50.40697     58.03478     .391 ss      2002335    2006110 AKTYUBINSK INFRASONIC ARRAY , KAZAKHSTAN
+I31L1     50.40697     58.03482     .369 ss      2006111         -1 AKTYUBINSK INFRASONIC ARRAY, KAZAKHSTAN
+I31L2     50.41330     58.04817     .369 ss      2006111         -1 AKTYUBINSK INFRASONIC ARRAY, KAZAKHSTAN
+I31L2     50.41328     58.04817     .392 ss      2002335    2006110 AKTYUBINSK INFRASONIC ARRAY , KAZAKHSTAN
+I31L3     50.39691     58.03778     .364 ss      2006111         -1 AKTYUBINSK INFRASONIC ARRAY, KAZAKHSTAN
+I31L3     50.39689     58.03778     .383 ss      2002335    2006110 AKTYUBINSK INFRASONIC ARRAY , KAZAKHSTAN
+I31L4     50.41025     58.01761     .398 ss      2002335    2006110 AKTYUBINSK INFRASONIC ARRAY , KAZAKHSTAN
+I31L4     50.41029     58.01765     .367 ss      2006111         -1 AKTYUBINSK INFRASONIC ARRAY, KAZAKHSTAN
+I32H1     -1.24216     36.82721    1.662 ss      2003168         -1 NAIROBI INFRASONIC ARRAY, KENYA
+I32H2     -1.23959     36.83273    1.658 ss      2003168         -1 NAIROBI INFRASONIC ARRAY, KENYA
+I32H3     -1.24576     36.82533    1.669 ss      2003168         -1 NAIROBI INFRASONIC ARRAY, KENYA
+I32H4     -1.23564     36.82488    1.670 ss      2003168         -1 NAIROBI INFRASONIC ARRAY, KENYA
+I32H5     -1.24005     36.82654    1.669 ss      2003168         -1 NAIROBI INFRASONIC ARRAY, KENYA
+I32H6     -1.23997     36.82877    1.670 ss      2003168         -1 NAIROBI INFRASONIC ARRAY, KENYA
+I32H7     -1.24192     36.82958    1.661 ss      2003168         -1 NAIROBI INFRASONIC ARRAY, KENYA
+I32KE     -1.24216     36.82721    1.662 ar      2003168         -1 NAIROBI INFRASONIC ARRAY, KENYA
+I33H1    -19.01086     47.30502    1.385 ss      2001288         -1 Antananarivo Infrasonic Array, Madagascar
+I33H2    -19.00214     47.31362    1.351 ss      2001288         -1 Antananarivo Infrasonic Array, Madagascar
+I33H3    -19.02341     47.30861    1.385 ss      2001288         -1 Antananarivo Infrasonic Array, Madagascar
+I33H4    -19.00613     47.29373    1.383 ss      2001288         -1 Antananarivo Infrasonic Array, Madagascar
+I33MG    -19.01086     47.30502    1.385 ar      2001288         -1 Antananarivo Infrasonic Array, Madagascar
+I34H1     47.80172    106.41012    1.245 ss      2008014         -1 I34MN SONGINO
+I34H1     47.80150    106.40992    1.288 ss      1999321    2008004 SONGINO INFRASONIC ARRAY, MONGOLIA
+I34H2     47.80307    106.41185    1.251 ss      2008014         -1 I34MN SONGINO
+I34H2     47.81594    106.40552    1.356 ss      1999321    2008004 SONGINO INFRASONIC ARRAY, MONGOLIA
+I34H3     47.79822    106.43052    1.307 ss      1999321    2008004 SONGINO INFRASONIC ARRAY, MONGOLIA
+I34H3     47.79989    106.41085    1.240 ss      2008014         -1 I34MN SONGINO
+I34H4     47.80209    106.40725    1.242 ss      2008014         -1 I34MN SONGINO
+I34H4     47.79161    106.39728    1.258 ss      1999321    2008004 SONGINO INFRASONIC ARRAY, MONGOLIA
+I34H5     47.79838    106.43074    1.264 ss      2008014         -1 I34MN SONGINO
+I34H6     47.79420    106.42847    1.256 ss      2008014         -1 I34MN MONGOLIA
+I34H7     47.79178    106.39750    1.216 ss      2008014         -1 I34MN MONGOLIA
+I34H8     47.81611    106.40574    1.314 ss      2008014         -1 I34MN MONGOLIA
+I34MN     47.80150    106.40990    1.288 ar      2001290    2008004 SONGINO INFRASONIC ARRAY, MONGOLIA
+I34MN     47.80172    106.41012    1.245 ar      2008014         -1 I34MN SONGINO
+I35H1    -19.19135     17.57678    1.253 ss      2003078         -1 TSUMEB, NAMIBIA
+I35H2    -19.18218     17.57984    1.253 ss      2003078         -1 TSUMEB, NAMIBIA
+I35H3    -19.19886     17.58394    1.251 ss      2003078         -1 TSUMEB, NAMIBIA
+I35H4    -19.19382     17.56517    1.254 ss      2003078         -1 TSUMEB, NAMIBIA
+I35H5    -19.19146     17.57491    1.250 ss      2003078         -1 TSUMEB, NAMIBIA
+I35H6    -19.18953     17.57517    1.254 ss      2003078         -1 TSUMEB, NAMIBIA
+I35H7    -19.18968     17.57695    1.255 ss      2003078         -1 TSUMEB, NAMIBIA
+I35NA    -19.19135     17.57678    1.253 ar      2003078         -1 TSUMEB, NAMIBIA
+I36H1    -43.91662   -176.48337     .014 ss      2004314         -1 I36NZ CHATHAM NEW ZEALAND INFRASONIC ARRAY
+I36H2    -43.91505   -176.48466     .020 ss      2004314         -1 I36NZ CHATHAM NEW ZEALAND INFRASONIC ARRAY
+I36H3    -43.91721   -176.48078     .007 ss      2004314         -1 I36NZ CHATHAM NEW ZEALAND INFRASONIC ARRAY
+I36H4    -43.91647   -176.48618     .012 ss      2004314         -1 I36NZ CHATHAM NEW ZEALAND INFRASONIC ARRAY
+I36L1    -43.91097   -176.48353     .006 ss      2004314         -1 I36NZ CHATHAM NEW ZEALAND INFRASONIC ARRAY
+I36L2    -43.93110   -176.49601     .027 ss      2004314         -1 I36NZ CHATHAM NEW ZEALAND INFRASONIC ARRAY
+I36L3    -43.92082   -176.51611     .012 ss      2004314         -1 I36NZ CHATHAM NEW ZEALAND INFRASONIC ARRAY
+I36L4    -43.90818   -176.50812     .016 ss      2004314         -1 I36NZ CHATHAM NEW ZEALAND INFRASONIC ARRAY
+I36NZ    -43.91662   -176.48337     .014 ar      2004314         -1 I36NZ CHATHAM NEW ZEALAND INFRASONIC ARRAY
+I39H1      7.53547    134.54704     .100 ss      2005222         -1 I39PW PALAU PALAU
+I39H2      7.54176    134.54825     .141 ss      2005222         -1 I39PW PALAU PALAU
+I39H3      7.52651    134.55712     .089 ss      2005222         -1 I39PW PALAU PALAU
+I39H4      7.53121    134.53548     .137 ss      2005222         -1 I39PW PALAU PALAU
+I39H5      7.53695    134.54652     .095 ss      2005222         -1 I39PW PALAU PALAU
+I39H6      7.53537    134.54784     .105 ss      2005222         -1 I39PW PALAU PALAU
+I39H7      7.53485    134.54602     .082 ss      2005222         -1 I39PW PALAU PALAU
+I39PW      7.53547    134.54704     .100 ar      2005222         -1 I39PW PALAU PALAU
+I41H1    -26.34230    -57.31188     .164 ss      2003078         -1 VILLA FLORIDA, PARAGUAY
+I41H2    -26.33206    -57.30314     .154 ss      2003078         -1 VILLA FLORIDA, PARAGUAY
+I41H3    -26.34882    -57.30960     .229 ss      2003078         -1 VILLA FLORIDA, PARAGUAY
+I41H4    -26.33682    -57.32537     .188 ss      2003078         -1 VILLA FLORIDA, PARAGUAY
+I41PY    -26.34230    -57.31188     .164 ar      2003078         -1 VILLA FLORIDA, PARAGUAY
+I42H1     39.04740    -27.99810     .196 ss      2010313         -1 Azores, Graciosa Isl
+I42H1     39.04740    -27.99810     .196 ss      2010313         -1 Azores, Graciosa Isl
+I42H2     39.04597    -27.99914     .224 ss      2010313         -1 Azores, Graciosa Isl
+I42H2     39.04597    -27.99914     .224 ss      2010313         -1 Azores, Graciosa Isl
+I42H3     39.04728    -28.00035     .211 ss      2010313         -1 Azores, Graciosa Isl
+I42H3     39.04728    -28.00035     .211 ss      2010313         -1 Azores, Graciosa Isl
+I42H4     39.05061    -27.99879     .182 ss      2010313         -1 Azores, Graciosa Isl
+I42H4     39.05061    -27.99879     .182 ss      2010313         -1 Azores, Graciosa Isl
+I42H5     39.05035    -27.98595     .133 ss      2010313         -1 Azores, Graciosa Isl
+I42H5     39.05035    -27.98595     .133 ss      2010313         -1 Azores, Graciosa Isl
+I42H6     39.04405    -27.98824     .168 ss      2010313         -1 Azores, Graciosa Isl
+I42H6     39.04405    -27.98824     .168 ss      2010313         -1 Azores, Graciosa Isl
+I42H7     39.04043    -27.99695     .215 ss      2010313         -1 Azores, Graciosa Isl
+I42H7     39.04043    -27.99695     .215 ss      2010313         -1 Azores, Graciosa Isl
+I42H8     39.04233    -28.00554     .284 ss      2010313         -1 Azores, Graciosa Isl
+I42H8     39.04233    -28.00554     .284 ss      2010313         -1 Azores, Graciosa Isl
+I42PT     39.04233    -28.00554     .284 ar      2010313         -1 Azores, Graciosa Isl
+I42PT     39.04233    -28.00554     .284 ar      2010313         -1 Azores, Graciosa Isl
+I43H1     56.72136     37.21759     .120 ss      2009140         -1 Dubna
+I43H2     56.72660     37.22496     .120 ss      2009140         -1 Dubna
+I43H3     56.71461     37.21930     .120 ss      2009140         -1 Dubna
+I43H4     56.72374     37.20246     .120 ss      2009140         -1 Dubna
+I43H5     56.72369     37.20011     .120 ss      2009140         -1 Dubna
+I43H6     56.72279     37.20195     .120 ss      2009140         -1 Dubna
+I43RU     56.72136     37.21759     .120 ar      2009140         -1 Dubna
+I44H1     53.10580    157.71390     .380 ss      2006303         -1 I44RU PETROPAVLOVSK-KAMCHATSKY
+I44H2     53.11460    157.72080     .380 ss      2006303         -1 I44RU PETROPAVLOVSK-KAMCHATSKY
+I44H3     53.09980    157.72370     .400 ss      2006303         -1 I44RU PETROPAVLOVSK-KAMCHATSKY
+I44H4     53.10740    157.69820     .400 ss      2006303         -1 I44RU PETROPAVLOVSK-KAMCHATSKY
+I44RU     53.10580    157.71390     .380 ar      2006303         -1 I44RU PETROPAVLOVSK-KAMCHATSKY
+I45H1     44.19990    131.97730     .150 ss      2008315         -1 I45RU USSURIYSK
+I45H2     44.21080    131.97060     .160 ss      2008315         -1 I45RU USSURIYSK
+I45H3     44.19940    131.98920     .170 ss      2008315         -1 I45RU USSURIYSK
+I45H4     44.19130    131.97230     .140 ss      2008315         -1 I45RU USSURIYSK
+I45RU     44.19990    131.97730     .150 ar      2008315         -1 I45RU USSURIYSK
+I46H1     53.94872     84.81891     .232 ss      2006334         -1 I46RU ZALESOVO
+I46H2     53.96105     84.81640     .228 ss      2006334         -1 I46RU ZALESOVO
+I46H3     53.94285     84.84120     .246 ss      2006334         -1 I46RU ZALESOVO
+I46H4     53.93748     84.79958     .199 ss      2006334         -1 I46RU ZALESOVO
+I46RU     53.94872     84.81891     .232 ar      2006334         -1 I46RU ZALESOVO
+I47L1    -28.62112     25.23523    1.306 ss      2005312         -1 I47ZA BOSHOF SOUTH AFRICA INFRASONIC ARRAY
+I47L2    -28.62273     25.23492    1.308 ss      2005312         -1 I47ZA BOSHOF SOUTH AFRICA INFRASONIC ARRAY
+I47L3    -28.62170     25.23351    1.308 ss      2005312         -1 I47ZA BOSHOF SOUTH AFRICA INFRASONIC ARRAY
+I47L4    -28.61514     25.23869    1.313 ss      2005312         -1 I47ZA BOSHOF SOUTH AFRICA INFRASONIC ARRAY
+I47L5    -28.62170     25.24342    1.312 ss      2005312         -1 I47ZA BOSHOF SOUTH AFRICA INFRASONIC ARRAY
+I47L6    -28.62975     25.23735    1.299 ss      2005312         -1 I47ZA BOSHOF SOUTH AFRICA INFRASONIC ARRAY
+I47L7    -28.62553     25.22664    1.303 ss      2005312         -1 I47ZA BOSHOF SOUTH AFRICA INFRASONIC ARRAY
+I47L8    -28.61715     25.22785    1.309 ss      2005312         -1 I47ZA BOSHOF SOUTH AFRICA INFRASONIC ARRAY
+I47ZA    -28.62112     25.23523    1.306 ar      2005312         -1 I47ZA BOSHOF SOUTH AFRICA INFRASONIC ARRAY
+I48L1     35.80523      9.32302     .848 ss      2006153         -1 I48TN KESRA
+I48L2     35.80365      9.32356     .846 ss      2006153         -1 I48TN KESRA
+I48L3     35.80235      9.32154     .841 ss      2006153         -1 I48TN KESRA
+I48L4     35.80381      9.32106     .843 ss      2006153         -1 I48TN KESRA
+I48L5     35.81332      9.32457     .871 ss      2006153         -1 I48TN KESRA
+I48L6     35.79706      9.32904     .831 ss      2006153         -1 I48TN KESRA
+I48L7     35.80400      9.31155     .866 ss      2006153         -1 I48TN KESRA
+I48TN     35.80523      9.32302     .848 ar      2006153         -1 I48TN KESRA
+I49GB    -37.08995    -12.33192     .081 ar      2005083         -1 I49GB TRISTAN DA CUNHA IS.
+I49H1    -37.08995    -12.33192     .081 ss      2005083         -1 I49GB TRISTAN DA CUNHA IS.
+I49H2    -37.08427    -12.32839     .090 ss      2005083         -1 I49GB TRISTAN DA CUNHA IS.
+I49H3    -37.08743    -12.31984     .164 ss      2005083         -1 I49GB TRISTAN DA CUNHA IS.
+I49H4    -37.09708    -12.33363     .114 ss      2005083         -1 I49GB TRISTA DA CUNHA IS.
+I49H5    -37.09608    -12.34144     .054 ss      2005083         -1 I49GB TRISTAN DA CUNHA IS.
+I50GB     -7.93774    -14.37517     .189 ar      2005104         -1 I50GB ASCENSION ISLAND UK INFRASONIC ARRAY
+I50H1     -7.93678    -14.37530     .184 ss      2005104         -1 I50GB ASCENSION ISLAND UK INFRASONIC ARRAY
+I50H2     -7.93888    -14.37406     .198 ss      2005104         -1 I50GB ASCENSION ISLAND UK INFRASONIC ARRAY
+I50H3     -7.93956    -14.37662     .180 ss      2005104         -1 I50GB ASCENSION ISLAND UK INFRASONIC ARRAY
+I50H4     -7.93712    -14.37705     .175 ss      2005104         -1 I50GB ASCENSION ISLAND UK INFRASONIC ARRAY
+I50L1     -7.93774    -14.37517     .189 ss      2005104         -1 I50GB ASCENSION ISLAND UK INFRASONIC ARRAY
+I50L2     -7.93190    -14.38204     .147 ss      2005104         -1 I50GB ASCENSION ISLAND UK INFRASONIC ARRAY
+I50L3     -7.93250    -14.35721     .218 ss      2005104         -1 I50GB ASCENSION ISLAND UK INFRASONIC ARRAY
+I50L4     -7.95113    -14.37409     .192 ss      2005104         -1 I50GB ASCENSION ISLAND UK INFRASONIC ARRAY
+I51GB     32.36154    -64.69874    -.035 ar      2008315         -1 I51GB BERMUDA
+I51H1     32.36154    -64.69874    -.035 ss      2008315         -1 I51GB BERMUDA
+I51H2     32.35408    -64.68610    -.033 ss      2008315         -1 I51GB BERMUDA
+I51H3     32.34124    -64.70222    -.027 ss      2008315         -1 I51GB BERMUDA
+I51H4     32.34957    -64.71104    -.013 ss      2008315         -1 I51GB BERMUDA
+I52GB     -7.37781     72.48416    1.000 ar      2002352         -1 DIEGO GARCIA INFRASONIC ARRAY, UNITED KINGDOM
+I52H1     -7.37781     72.48416    1.000 ss      2002352         -1 DIEGO GARCIA INFRASONIC ARRAY, UNITED KINGDOM
+I52H2     -7.37058     72.48236    1.000 ss      2002352         -1 DIEGO GARCIA INFRASONIC ARRAY, UNITED KINGDOM
+I52H3     -7.37962     72.49078    1.000 ss      2002352         -1 DIEGO GARCIA INFRASONIC ARRAY, UNITED KINGDOM
+I52H4     -7.38710     72.47813    1.000 ss      2002352         -1 DIEGO GARCIA INFRASONIC ARRAY, UNITED KINGDOM
+I52H5     -7.37575     72.48398    1.000 ss      2002352         -1 DIEGO GARCIA INFRASONIC ARRAY, UNITED KINGDOM
+I52H6     -7.37593     72.48557    1.000 ss      2002352         -1 DIEGO GARCIA INFRASONIC ARRAY, UNITED KINGDOM
+I52H7     -7.37865     72.48563    1.000 ss      2002352         -1 DIEGO GARCIA INFRASONIC ARRAY, UNITED KINGDOM
+I53H1     64.87500   -147.86114     .200 ss      2002260         -1 FAIRBANKS INFRASONIC ARRAY , USA
+I53H2     64.87236   -147.83828     .174 ss      2002260         -1 FAIRBANKS INFRASONIC ARRAY , USA
+I53H3     64.86208   -147.84281     .186 ss      2002260         -1 FAIRBANKS INFRASONIC ARRAY , USA
+I53H4     64.85914   -147.86615     .178 ss      2002260         -1 FAIRBANKS INFRASONIC ARRAY , USA
+I53H5     64.86805   -147.87858     .166 ss      2002260         -1 FAIRBANKS INFRASONIC ARRAY , USA
+I53H6     64.86722   -147.86120     .164 ss      2002260         -1 FAIRBANKS INFRASONIC ARRAY , USA
+I53H7     64.86617   -147.85673     .166 ss      2002260         -1 FAIRBANKS INFRASONIC ARRAY , USA
+I53H8     64.86541   -147.85990     .166 ss      2002260         -1 FAIRBANKS INFRASONIC ARRAY , USA
+I53US     64.87500   -147.86114     .200 ar      2002260         -1 FAIRBANKS INFRASONIC ARRAY , USA
+I55H1    -77.73149    167.58742     .042 ss      2001336         -1 WINDLESS BIGHT INFRASONIC ARRAY, USA
+I55H2    -77.73754    167.62806     .041 ss      2001336         -1 WINDLESS BIGHT INFRASONIC ARRAY, USA
+I55H3    -77.74765    167.61236     .039 ss      2001336         -1 WINDLESS BIGHT INFRASONIC ARRAY, USA
+I55H4    -77.74784    167.56419     .040 ss      2001336         -1 WINDLESS BIGHT INFRASONIC ARRAY, USA
+I55H5    -77.73767    167.54731     .041 ss      2001336         -1 WINDLESS BIGHT INFRASONIC ARRAY, USA
+I55H6    -77.73952    167.58786     .041 ss      2001336         -1 WINDLESS BIGHT INFRASONIC ARRAY, USA
+I55H7    -77.74089    167.59176     .041 ss      2001336         -1 WINDLESS BIGHT INFRASONIC ARRAY, USA
+I55H8    -77.74092    167.58419     .041 ss      2001336         -1 WINDLESS BIGHT INFRASONIC ARRAY, USA
+I55H9    -77.74000    167.59000     .041 ss      2001336         -1 WINDLESS BIGHT INFRASONIC ARRAY, USA
+I55US    -77.73149    167.58742     .042 ar      2001336         -1 WINDLESS BIGHT INFRASONIC ARRAY, USA
+I56H1     48.26408   -117.12567     .763 ss      2002276    2005193 NEWPORT INFRASONIC ARRAY, UNITED STATES OF AMERICA
+I56H1     48.26408   -117.12567     .763 ss      2005194         -1 I56US NEWPORT USA
+I56H2     48.27274   -117.13430     .761 ss      2002276    2005193 NEWPORT INFRASONIC ARRAY, UNITED STATES OF AMERICA
+I56H2     48.27274   -117.13430     .761 ss      2005194         -1 I56US NEWPORT USA
+I56H3     48.26888   -117.10939     .851 ss      2005194         -1 I56US NEWPORT USA
+I56H3     48.26888   -117.10939     .851 ss      2002276    2005193 NEWPORT INFRASONIC ARRAY, UNITED STATES OF AMERICA
+I56H4     48.25487   -117.13106     .755 ss      2005194         -1 I56US NEWPORT USA
+I56H4     48.25487   -117.13106     .755 ss      2002276    2005193 NEWPORT INFRASONIC ARRAY, UNITED STATES OF AMERICA
+I56US     48.26408   -117.12567     .763 ar      2002276    2005193 NEWPORT INFRASONIC ARRAY, UNITED STATES OF AMERICA
+I56US     48.26408   -117.12567     .763 ar      2005194         -1 I56US NEWPORT USA
+I57H1     33.60644    116.45502    1.304 ss      2000241    2002209 PINON FLAT INFRASOUND ARRAY, USA
+I57H1     33.60644   -116.45502    1.243 ss      2002210         -1 PINON FLAT INFRASOUND ARRAY, USA
+I57H2     33.60680   -116.45342    1.250 ss      2002210         -1 PINON FLAT INFRASOUND ARRAY, USA
+I57H2     33.60680    116.45342    1.312 ss      2000241    2002209 PINON FLAT INFRASOUND ARRAY, USA
+I57H3     33.60553    116.45223    1.317 ss      2000241    2002209 PINON FLAT INFRASOUND ARRAY, USA
+I57H3     33.60553   -116.45223    1.256 ss      2002210         -1 PINON FLAT INFRASOUND ARRAY, USA
+I57H4     33.60548    116.45460    1.305 ss      2000241    2002209 PINON FLAT INFRASOUND ARRAY, USA
+I57H4     33.60548   -116.45460    1.244 ss      2002210         -1 PINON FLAT INFRASOUND ARRAY, USA
+I57L1     33.60585    116.45328    1.312 ss      2000241    2002209 PINON FLAT INFRASOUND ARRAY, USA
+I57L1     33.60585   -116.45328    1.251 ss      2002210         -1 PINON FLAT INFRASOUND ARRAY, USA
+I57L2     33.61124    116.45750    1.314 ss      2000241    2002209 PINON FLAT INFRASOUND ARRAY, USA
+I57L2     33.61124   -116.45750    1.253 ss      2002210         -1 PINON FLAT INFRASOUND ARRAY, USA
+I57L3     33.60499    116.44558    1.349 ss      2000241    2002209 PINON FLAT INFRASOUND ARRAY, USA
+I57L3     33.60499   -116.44558    1.288 ss      2002210         -1 PINON FLAT INFRASOUND ARRAY, USA
+I57L4     33.59884   -116.45939    1.216 ss      2002210         -1 PINON FLAT INFRASOUND ARRAY, USA
+I57L4     33.59884    116.45939    1.277 ss      2000241    2002209 PINON FLAT INFRASOUND ARRAY, USA
+I57US     33.60585   -116.45328    1.251 ar      2002210         -1 PINON FLAT INFRASOUND ARRAY, USA
+I57US     33.60585    116.45328    1.312 ar      2000241    2002209 PINON FLAT INFRASOUND ARRAY, USA
+I59H1     19.59153   -155.89360    1.076 ss      2001051         -1 HAWAII INFRASONIC ARRAY, USA
+I59H2     19.60096   -155.89527    1.083 ss      2001051         -1 HAWAII INFRASONIC ARRAY, USA
+I59H3     19.59106   -155.88175    1.170 ss      2001051         -1 HAWAII INFRASONIC ARRAY, USA
+I59H4     19.58554   -155.89880    1.004 ss      2001051         -1 HAWAII INFRASONIC ARRAY, USA
+I59US     19.59153   -155.89360    1.076 ar      2001051         -1 HAWAII INFRASONIC ARRAY, USA
+IDI       35.28800     24.89000     .750 ss      1994275         -1 ANOGIA Greece
+IL01      64.77163   -146.88599     .430 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL02      64.78465   -146.86427     .273 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL03      64.77149   -146.85117     .452 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL04      64.75706   -146.87595     .538 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL05      64.77310   -146.92274     .401 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL06      64.77921   -146.90380     .272 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL07      64.79932   -146.83924     .404 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL08      64.79044   -146.79680     .516 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL09      64.76819   -146.78311     .502 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL10      64.75293   -146.84299     .599 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL11      64.74154   -146.89727     .455 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL12      64.74473   -146.94348     .377 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL13      64.74791   -146.98640     .382 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL14      64.77498   -146.97929     .236 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL15      64.77773   -146.94268     .349 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL16      64.79330   -146.92137     .393 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL17      64.80717   -146.88965     .369 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL18      64.75748   -146.77660     .566 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL19      64.74619   -146.79734     .561 ss      1977091         -1 EIELSON, AK ARRAY, United States of America
+IL31      64.77145   -146.88665     .387 ss      1995100         -1 EIELSON, AK ARRAY, United States of America
+ILAR      64.77145   -146.88665     .387 ar      1995100         -1 EIELSON, AK ARRAY, United States of America
+INK       68.30670   -133.52000     .040 ss      1993001    2007297 Inuvik, Canada
+INK       68.30652   -133.52543     .044 ss      2007298         -1 INUVIK, NORTHWEST TERRITORY, CANADA
+IPH4      45.85120     26.64980     .672 ss      2003168         -1 IPLOR H4, ROMANIA
+IPH5      45.84550     26.66340     .720 ss      2003168         -1 IPLOR H5, ROMANIA
+IPH6      45.84190     26.64150     .650 ss      2003168         -1 IPLOR H6, ROMANIA
+IPH7      45.86110     26.64780     .700 ss      2003168         -1 IPLOR H7, ROMANIA
+IPL2      45.85020     26.64370     .701 ss      2003168         -1 IPLOR L2, ROMANIA
+IPL3      45.85400     26.64550     .722 ss      2003168         -1 IPLOR L3, ROMANIA
+IPL4      45.85120     26.64980     .672 ss      2003168         -1 IPLOR L4, ROMANIA
+IPLOR     45.85120     26.64980     .672 ar      2003168         -1 IPLOR, ROMANIA
+IS07     -19.93482    134.32953     .386 ar      2000133         -1 WARRAMUNGA INFRASONIC ARRAY, AUSTRALIA
+IS08     -16.21504    -68.45326    4.132 ar      2000003    2002226 LA PAZ (PENAS) INFRASONIC ARRAY, BOLIVIA
+IS10      50.20147    -96.02685     .247 ar      1999124         -1 LAC DU BONNET INFRASONIC ARRAY, Canada
+IS25       5.16612    -52.87941     .045 ar      2000190         -1 KOUROU INFRASONIC ARRAY, FRENCH GUIANA
+IS26      48.85162     13.71313    1.111 ar      2000137         -1 FREYUNG INFRASONIC ARRAY, GERMANY
+IS34      47.80150    106.40992    1.288 ar      1999321    2001290 SONGINO INFRASONIC ARRAY, MONGOLIA
+ISM       50.20100    -96.02700     .281 ar      1999125         -1 Lac du Bonnet, Canada
+ISM1      50.20700    -96.03900     .281 ss      1999125         -1 Lac du Bonnet, Canada
+ISM2      50.20700    -96.01300     .281 ss      1999125         -1 Lac du Bonnet, Canada
+ISM3      50.20100    -96.02700     .281 ss      1999125         -1 Lac du Bonnet, Canada
+ISM4      50.18700    -96.01800     .281 ss      1999125         -1 Lac du Bonnet, Canada
+JAY       -2.51427    140.70325     .280 ss      2009336         -1 Jayapura, Irian Jaya, Indonesia
+JCJ       27.10000    142.18000     .150 ss      1995103    2008332 Chichijima, Japan
+JCJ       27.09547    142.18463     .164 ss      2008333         -1 Chichijima, Ogasawara, Japan
+JHJ       33.12000    139.82000     .000 ss      1995103    2008054 Hachijojima, Japan
+JHJ       33.11520    139.81390     .120 ss      2008055         -1 Hachijojima, Izu Islands, Japan
+JKA       44.11600    142.60000     .220 ss      1995103    2008329 Kamikawa-asahi, Japan
+JKA       44.11895    142.59325     .276 ss      2008330         -1 Kamikawa-Asahi, Hokkaido, Japan
+JMIC      70.98660     -8.50515     .158 ss      2003283         -1 JAN MAYEN
+JNU       33.12167    130.87833     .573 ss      2008293         -1 Ohita, Kyushu, Japan
+JNU       33.12000    130.88000     .540 ss      1995103    2008292 Ohita, Japan
+JOW       26.83600    128.27310     .297 ss      2008025         -1 Kunigami, Okinawa, Japan
+JOW       26.83000    128.29000     .220 ss      1995103    2008024 Kunigami, Japan
+JTS       10.29080    -84.95250     .340 ss      1995113         -1 Las Juntas de Abangares, Costa Rica
+KAPI      -5.01420    119.75170     .030 ss      2007068         -1 Kappang, Sulawesi Selatan, Indonesia
+KBZ       43.72690     42.89960    1.051 ss      2008282         -1 KHABAZ
+KBZ       43.72860     42.89750    1.023 ss      1993351    2008281 Khabaz, Russia
+KDAK      57.78280   -152.58350     .152 ss      1997160    2005107 Kodiak Island, Alaska, USA
+KDAK      57.78280   -152.58350     .158 ss      2005108         -1 KODIAK ISLAND, ALASKA, USA
+KEST      35.73170      9.34600     .885 ss      2006129         -1 KEST, KESRA, TUNISIA
+KIV0      43.95567     42.69517    1.196 ss      2008330         -1 KISLOVODSK ARRAY ELEMENT KIV0
+KIV1      43.95696     42.69462    1.190 ss      2008330         -1 KISLOVODSK ARRAY ELEMENT KIV1
+KIV2      43.95536     42.69699    1.191 ss      2008330         -1 KISLOVODSK ARRAY ELEMENT KIV2
+KIV3      43.95468     42.69389    1.199 ss      2008330         -1 KISLOVODSK ARRAY ELEMENT KIV3
+KIVB      43.95529     42.68873    1.222 ss      2008330         -1 KISLOVODSK ARRAY BROADBAND ELEMENT KIVB
+KLR       49.23630    131.73770     .515 ss      2010321         -1 Kuldur
+KMBO      -1.12680     37.25230    1.940 ss      2002065         -1 KILIMAMBOGO, Kenya
+KRBA      29.98240     56.76030    2.581 ss      2000159         -1 Kerman,Iran
+KS01      37.47660    127.89400     .185 ss      2005327         -1 WONJU ARRAY ELEMENT KS01
+KS01      37.47660    127.89400     .185 ss      1972230    2005306 Wonju Array, South Korea
+KS02      37.49530    127.90320     .233 ss      1972230    2005306 Wonju Array, South Korea
+KS02      37.49530    127.90320     .233 ss      2005327         -1 WONJU ARRAY ELEMENT KS02
+KS03      37.47830    127.91770     .155 ss      1972230    2005306 Wonju Array, South Korea
+KS03      37.47830    127.91770     .155 ss      2005327         -1 WONJU ARRAY ELEMENT KS03
+KS04      37.45660    127.92070     .123 ss      1972230    2005306 Wonju Array, South Korea
+KS04      37.45660    127.92070     .123 ss      2005327         -1 WONJU ARRAY ELEMENT KS04
+KS05      37.45740    127.89240     .139 ss      2005327         -1 WONJU ARRAY ELEMENT KS05
+KS05      37.45740    127.89240     .139 ss      1972230    2005306 Wonju Array, South Korea
+KS06      37.47080    127.87190     .408 ss      1972230    2005306 Wonju Array, South Korea
+KS06      37.47080    127.87190     .408 ss      2005327         -1 WONJU ARRAY ELEMENT KS06
+KS07      37.48740    127.87270     .237 ss      1972230    2005306 Wonju Array, South Korea
+KS07      37.48740    127.87270     .237 ss      2005327         -1 WONJU ARRAY ELEMENT KS06
+KS08      37.51530    127.88820     .277 ss      1972230    2005306 Wonju Array, South Korea
+KS08      37.51530    127.88820     .277 ss      2005327         -1 WONJU ARRAY ELEMENT KS08
+KS09      37.51080    127.92240     .323 ss      2005327         -1 WONJU ARRAY ELEMENT KS09
+KS09      37.51080    127.92240     .323 ss      1972230    2005306 Wonju Array, South Korea
+KS10      37.49610    127.93020     .210 ss      1972230    2005306 Wonju Array, South Korea
+KS10      37.49610    127.93020     .210 ss      2005327         -1 WONJU ARRAY ELEMENT KS10
+KS11      37.48080    127.95350     .122 ss      1972230    2005306 Wonju Array, South Korea
+KS11      37.48080    127.95350     .122 ss      2005327         -1 WONJU ARRAY ELEMENT KS11
+KS12      37.46440    127.94270     .176 ss      1972230    2005306 Wonju Array, South Korea
+KS12      37.46410    127.95160     .180 ss      2005327         -1 WONJU ARRAY ELEMENT KS12
+KS13      37.44410    127.94220     .139 ss      2005327         -1 WONJU ARRAY ELEMENT KS13
+KS13      37.44580    127.93020     .126 ss      1972230    2005306 Wonju Array, South Korea
+KS14      37.43360    127.90940     .132 ss      2005327         -1 WONJU ARRAY ELEMENT KS14
+KS14      37.43360    127.90940     .132 ss      1972230    2005306 Wonju Array, South Korea
+KS15      37.44210    127.88440     .112 ss      1972230    2005306 Wonju Array, South Korea
+KS15      37.44210    127.88440     .112 ss      2005327         -1 WONJU ARRAY ELEMENT KS15
+KS16      37.45160    127.85570     .123 ss      2005327         -1 WONJU ARRAY ELEMENT KS16
+KS16      37.45160    127.85570     .123 ss      1972230    2005306 Wonju Array, South Korea
+KS17      37.46740    127.84070     .139 ss      2005327         -1 WONJU ARRAY ELEMENT KS17
+KS17      37.46740    127.84070     .139 ss      1972230    2005306 Wonju Array, South Korea
+KS18      37.48610    127.84440     .164 ss      2005327         -1 WONJU ARRAY ELEMENT KS18
+KS18      37.48610    127.84440     .164 ss      1972230    2005306 Wonju Array, South Korea
+KS19      37.50190    127.86690     .276 ss      1972230    2005306 Wonju Array, South Korea
+KS19      37.50190    127.86690     .276 ss      2005327         -1 WONJU ARRAY ELEMENT KS19
+KS31      37.44210    127.88440     .109 ss      1973113    2005306 Wonju Array, South Korea
+KS31      37.44210    127.88440     .109 ss      2005327         -1 WONJU ARRAY ELEMENT KS31
+KS32      37.57780    127.95190     .232 ss      1973113    2005306 Wonju Array, South Korea
+KS32      37.57780    127.95190     .232 ss      2005327         -1 WONJU ARRAY ELEMENT KS32
+KS33      37.75610    128.02600     .250 ss      1973113    2005306 Wonju Array, South Korea
+KS33      37.75610    128.02600     .250 ss      2005327         -1 WONJU ARRAY ELEMENT KS33
+KS34      37.60280    128.14800     .264 ss      1973113    2005306 Wonju Array, South Korea
+KS34      37.60280    128.14800     .264 ss      2005327         -1 WONJU ARRAY ELEMENT KS34
+KS35      37.46940    128.06850     .177 ss      1973113    2005306 Wonju Array, South Korea
+KS35      37.46940    128.06850     .177 ss      2005327         -1 WONJU ARRAY ELEMENT KS35
+KS36      37.56790    127.71900     .131 ss      2005327         -1 WONJU ARRAY ELEMENT KS36
+KS36      37.56790    127.71900     .131 ss      1973113    2005306 Wonju Array, South Korea
+KS37      37.71530    127.79750     .122 ss      1973113    2005306 Wonju Array, South Korea
+KS37      37.71530    127.79750     .122 ss      2005327         -1 WONJU ARRAY ELEMENT KS37
+KSAR      37.44210    127.88440     .109 ar      1972230    2005306 Wonju Array, South Korea
+KSRS      37.44210    127.88440     .109 ar      2005327         -1 WONJU ARRAY ELEMENT KS31
+KUR01     50.72161     78.56336     .163 ss      2006263         -1 Kurchatov Array Element KUR01
+KUR02     50.70172     78.55661     .167 ss      2006263         -1 Kurchatov Array Element KUR02
+KUR03     50.68197     78.55000     .173 ss      2006263         -1 Kurchatov Array Element KUR03
+KUR04     50.66219     78.54339     .176 ss      2006263         -1 Kurchatov Array Element KUR04
+KUR05     50.64236     78.53664     .181 ss      2006263         -1 Kurchatov Array Element KUR05
+KUR06     50.60283     78.52394     .194 ss      2006263         -1 Kurchatov Array Element KUR06
+KUR07     50.58306     78.51722     .200 ss      2006263         -1 Kurchatov Array Element KUR07
+KUR08     50.56317     78.51080     .199 ss      2006263         -1 Kurchatov Array Element KUR08
+KUR09     50.54333     78.50433     .199 ss      2006263         -1 Kurchatov Array Element KUR09
+KUR10     50.52362     78.49773     .203 ss      2006263         -1 Kurchatov Array Element KUR10
+KUR11     50.60189     78.68625     .200 ss      2006263         -1 Kurchatov Array Element KUR11
+KUR12     50.60611     78.65514     .202 ss      2006263         -1 Kurchatov Array Element KUR12
+KUR13     50.61022     78.62417     .224 ss      2006263         -1 Kurchatov Array Element KUR13
+KUR14     50.61436     78.59272     .217 ss      2006263         -1 Kurchatov Array Element KUR14
+KUR15     50.61850     78.56147     .198 ss      2006263         -1 Kurchatov Array Element KUR15
+KUR16     50.62686     78.49933     .193 ss      2006263         -1 Kurchatov Array Element KUR16
+KUR17     50.63175     78.46900     .184 ss      2006263         -1 Kurchatov Array Element KUR17
+KUR18     50.63531     78.43683     .191 ss      2006263         -1 Kurchatov Array Element KUR18
+KUR19     50.63944     78.40569     .180 ss      2006263         -1 Kurchatov Array Element KUR19
+KUR20     50.64364     78.37456     .182 ss      2006263         -1 Kurchatov Array Element KUR20
+KURBB     50.62264     78.53039     .200 ss      2006263         -1 Kurchatov Array Element KURBB
+KURK      50.62264     78.53039     .200 ar      2006263         -1 Kurchatov Array, Kazakhstan
+KVAR      43.95567     42.69517    1.196 ar      2008330         -1 KISLOVODSK ARRAY, RUSSIAN FEDERATION
+LBTB     -25.01510     25.59665    1.128 ss      1993107    2004355 Lobatse, Botswana
+LBTB     -25.01510     25.59660    1.148 ss      2004355         -1 LOBATSE, BOTSWANA
+LEM       -6.82645    107.61748    1.281 ss      2007172         -1 LEMBANG, JAWA BARAT, INDONESIA
+LPAZ     -16.28793    -68.13071    4.792 ss      2002289         -1 LA PAZ, Bolivia
+LPAZ     -16.28790    -68.13070    4.774 ss      1993232    2002289 La Paz, Bolivia
+LPIG      24.10103   -110.30931     .056 ss      2006081         -1 LA PAZ, BAJA CALIFORNIA SUR, MEXICO
+LS01      35.86770   -106.33420     .000 ss      1994330         -1 Los Alamos Infrasonic Array, New Mexico
+LS02      35.86670   -106.33300     .000 ss      1994330         -1 Los Alamos Infrasonic Array, New Mexico
+LS03      35.86580   -106.33420     .000 ss      1994330         -1 Los Alamos Infrasonic Array, New Mexico
+LS04      35.86670   -106.33540     .000 ss      1994330         -1 Los Alamos Infrasonic Array, New Mexico
+LSAR      35.86670   -106.33420     .000 ar      1994330         -1 Los Alamos Infrasonic Array, New Mexico
+LSZ      -15.27660     28.18820    1.184 ss      1994217         -1 Lusaka
+LVC      -22.61280    -68.91130    2.195 ss      1996337         -1 LIMON VERDE
+MA2       59.57530    150.76780     .339 ss      2010201         -1 MAGADAN, Russian Federation
+MATP     -20.42583     28.49944    1.215 ss      2004343         -1 MATOPO, ZIMBABWE
+MAW      -67.60390     62.87060     .012 ss      1956181    2003030 Mawson, Antarctica
+MAW      -67.60460     62.87130     .012 ss      1956181         -1 MAWSON, Australia
+MBAR       -.60190     30.73820    1.390 ss      2006066         -1 MBARARA, UGANDA
+MDT       32.81400     -4.60700    1.168 ss      2005181         -1 MIDELT, MOROCCO
+MJ00      36.54267    138.20701     .406 ss      1984092    2005060 Matsushiro Array, Japan
+MJ01      36.55986    138.24185     .598 ss      1984092    2005060 Matsushiro Array, Japan
+MJ02      36.53924    138.31927    1.231 ss      1984092    2005060 Matsushiro Array, Japan
+MJ03      36.48160    138.29757     .838 ss      1984092    2005060 Matsushiro Array, Japan
+MJ04      36.46808    138.25383     .761 ss      1984092    2005060 Matsushiro Array, Japan
+MJ05      36.48668    138.21391     .961 ss      1984092    2005060 Matsushiro Array, Japan
+MJ06      36.52162    138.25032     .617 ss      1984092    2005060 Matsushiro Array, Japan
+MJA0      36.52472    138.24718     .662 ss      2005060         -1 JIZO (JZO) ELEMENT MJA0, Japan
+MJA1      36.53376    138.25229     .672 ss      2003329         -1 TOYOSAKA (TYS) ELEMENT MJA1, Japan
+MJA2      36.52407    138.26562    1.159 ss      2005060         -1 NAKAONE (NAK) ELEMENT MJA2, Japan
+MJA3      36.49557    138.24672     .918 ss      2003329         -1 SOEHIYAMA (SEH) ELEMENT MJA3, Japan
+MJA4      36.51146    138.24224    1.043 ss      2005060         -1 JIZOTOUGE (JZT) ELEMENT MJA4, Japan
+MJAR      36.54267    138.20701     .406 ar      1984092    2005060 Matsushiro Array, Japan
+MJAR      36.52472    138.24718     .662 ar      2005060         -1 JIZO (JZO) ELEMENT MJA0, Japan
+MJB1      36.56295    138.23871     .642 ss      2005060         -1 TAKIMOTO (TKM) ELEMENT MJB1, Japan
+MJB2      36.54231    138.31610    1.296 ss      2005060         -1 SUGADAIRA (SGD) ELEMENT MJB2, Japan
+MJB3      36.48471    138.29444     .890 ss      2005060         -1 DAIRA (DIR) ELEMENT MJB3, Japan
+MJB4      36.46770    138.28160     .781 ss      2003329         -1 NAKAGUMI (NGM) ELEMENT MJB4, Japan
+MJB5      36.48242    138.25745     .849 ss      2003329         -1 YATSUBO (YTB) ELEMENT MJB5, Japan
+MJB6      36.47117    138.25068     .794 ss      2005060         -1 IRIKARUIZAWA (IRK) ELEMENT MJB6, Japan
+MJB7      36.48979    138.21078    1.034 ss      2005060         -1 WADAIRA (WDR) ELEMENT MJB7, Japan
+MJB8      36.52137    138.20986     .774 ss      2003329         -1 INABA (INB) ELEMENT MJB8, Japan
+MJB9      36.54577    138.20389     .454 ss      2005060         -1 MATSUSHIRO TUNNEL (MAT) ELEMENT MJB9, Japan
+MJB9B     36.54583    138.20388     .454 ss      2005060         -1 MATSUSHIRO TUNNEL BB ELEMENT MJB9B, Japan
+MK01      46.77000     82.30030     .609 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MK02      46.76940     82.30860     .639 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MK03      46.76560     82.30150     .631 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MK04      46.77150     82.29510     .590 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MK05      46.79370     82.29130     .615 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MK06      46.77510     82.31330     .638 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MK07      46.75380     82.31560     .628 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MK08      46.75610     82.28660     .608 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MK09      46.77440     82.27690     .580 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MK31      46.79370     82.29040     .615 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MK32      46.79370     82.29040     .615 ss      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MKAR      46.79370     82.29040     .615 ar      2000319         -1 MAKANCHI ARRAY, Kazakhstan
+MLR       45.49170     25.94370    1.360 ss      1980001         -1 Muntele Rosu
+MMA0      33.01518     35.40311     .810 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMA0, Israel
+MMA0B     33.01527     35.40305     .809 ss      2003024         -1 MOUNT MERON ARRAY ELEMENT MMA0B, Israel
+MMA1      33.01812     35.40620     .777 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMA1, Israel
+MMA2      33.01249     35.40572     .776 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMA2, Israel
+MMA3      33.01205     35.40056     .792 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMA3, Israel
+MMA4      33.01462     35.39752     .851 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMA4, Israel
+MMAI      33.01518     35.40311     .810 ar      2004024         -1 MOUNT MERON ARRAY, Israel
+MMB1      33.01513     35.41081     .733 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMB1, Israel
+MMB2      33.00971     35.39526     .878 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMB2, Israel
+MMB3      33.01954     35.39714     .812 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMB3, Israel
+MMB4      33.02084     35.40199     .806 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMB4, Israel
+MMC1      33.03052     35.40368     .827 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMC1, Israel
+MMC2      33.02681     35.41164     .701 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMC2, Israel
+MMC3      33.01826     35.41381     .713 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMC3, Israel
+MMC4      33.00722     35.41861     .750 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMC4, Israel
+MMC5      33.00869     35.41269     .766 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMC5, Israel
+MMC6      33.01203     35.39151     .893 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMC6, Israel
+MMC7      33.02205     35.39256     .816 ss      2004024         -1 MOUNT MERON ARRAY ELEMENT MMC7, Israel
+MRNI      33.01178     35.39197     .918 ss      1998305         -1 Meron, Israel
+MSEY      -4.67370     55.47920     .475 ss      1995135         -1 Mahe, Seychelles
+MSKU      -1.65570     13.61160     .287 ss      2007116         -1 Masuku
+NAO00     60.82370     10.83240     .379 ss      1995302         -1 NORSAR Array, Norway
+NAO01     60.84420     10.88650     .426 ss      1995302         -1 NORSAR Array, Norway
+NAO02     60.80570     10.89710     .362 ss      1995302         -1 NORSAR Array, Norway
+NAO03     60.78810     10.80840     .223 ss      1995302         -1 NORSAR Array, Norway
+NAO04     60.81050     10.76250     .297 ss      1995302         -1 NORSAR Array, Norway
+NAO05     60.85070     10.81930     .290 ss      1995302         -1 NORSAR Array, Norway
+NB200     61.03970     11.21480     .717 ss      1995302         -1 NORSAR Array, Norway
+NB201     61.04950     11.29390     .613 ss      1995302         -1 NORSAR Array, Norway
+NB202     61.00690     11.27780     .647 ss      1995302         -1 NORSAR Array, Norway
+NB203     61.01070     11.16770     .730 ss      1995302         -1 NORSAR Array, Norway
+NB204     61.04980     11.15810     .670 ss      1995302         -1 NORSAR Array, Norway
+NB205     61.07100     11.19770     .637 ss      1995302         -1 NORSAR Array, Norway
+NBO00     61.03070     10.77770     .529 ss      1995302         -1 NORSAR Array, Norway
+NBO01     61.06160     10.78340     .596 ss      1995302         -1 NORSAR Array, Norway
+NBO02     61.04920     10.85690     .521 ss      1995302         -1 NORSAR Array, Norway
+NBO03     61.01290     10.83710     .429 ss      1995302         -1 NORSAR Array, Norway
+NBO04     61.01190     10.75240     .398 ss      1995302         -1 NORSAR Array, Norway
+NBO05     61.05970     10.72190     .553 ss      1995302         -1 NORSAR Array, Norway
+NC200     61.28070     10.83540     .847 ss      1995302         -1 NORSAR Array, Norway
+NC201     61.29880     10.91380    1.033 ss      1995302         -1 NORSAR Array, Norway
+NC202     61.25450     10.91100    1.054 ss      1995302         -1 NORSAR Array, Norway
+NC203     61.24380     10.83180     .714 ss      1995302         -1 NORSAR Array, Norway
+NC204     61.27590     10.76290     .851 ss      1995302         -1 NORSAR Array, Norway
+NC205     61.32310     10.82270     .958 ss      1995302         -1 NORSAR Array, Norway
+NC300     61.26170     11.41410     .366 ss      1995302         -1 NORSAR Array, Norway
+NC301     61.27620     11.49050     .290 ss      1995302         -1 NORSAR Array, Norway
+NC302     61.23280     11.47260     .300 ss      1995302         -1 NORSAR Array, Norway
+NC303     61.22510     11.36900     .401 ss      1995302         -1 NORSAR Array, Norway
+NC304     61.27840     11.33200     .393 ss      1995302         -1 NORSAR Array, Norway
+NC305     61.29790     11.40350     .312 ss      1995302         -1 NORSAR Array, Norway
+NC400     61.07910     11.71890     .522 ss      1995302         -1 NORSAR Array, Norway
+NC401     61.08040     11.79940     .583 ss      1995302         -1 NORSAR Array, Norway
+NC402     61.04460     11.75730     .450 ss      1995302         -1 NORSAR Array, Norway
+NC403     61.05370     11.66830     .304 ss      1995302         -1 NORSAR Array, Norway
+NC404     61.09820     11.64560     .332 ss      1995302         -1 NORSAR Array, Norway
+NC405     61.11280     11.71530     .496 ss      1995302         -1 NORSAR Array, Norway
+NC600     60.74730     11.45840     .321 ss      1995302         -1 NORSAR Array, Norway
+NC601     60.77460     11.54160     .248 ss      1995302         -1 NORSAR Array, Norway
+NC602     60.73530     11.54140     .305 ss      1995302         -1 NORSAR Array, Norway
+NC603     60.70500     11.48070     .340 ss      1995302         -1 NORSAR Array, Norway
+NC604     60.72630     11.39560     .378 ss      1995302         -1 NORSAR Array, Norway
+NC605     60.77700     11.41030     .242 ss      1995302         -1 NORSAR Array, Norway
+NEW       48.26333   -117.12000     .760 ss      1966152         -1 Newport, WA
+NIL       33.65000     73.25120     .536 ss      1969152         -1 Nilore, Pakistan
+NNA      -11.98730    -76.84220     .575 ss      2006194         -1 NANA, PERU
+NNA      -11.98750    -76.84220     .575 ss      1988174    2006192 Nana, Peru
+NOA       61.03970     11.21480     .717 ar      1995302         -1 NORSAR Array, Norway
+NRIK      69.33958     87.55504     .215 ss      2010301         -1 Norilsk
+NRIS      69.00610     87.99640     .498 ss      1993351         -1 Norilsk, Russia
+NV01      38.42961   -118.30355    2.042 ss      1997260         -1 MINA ARRAY ELEMENT NV01
+NV02      38.43736   -118.30486    2.107 ss      1997260         -1 MINA ARRAY ELEMENT NV02
+NV03      38.42791   -118.29371    1.991 ss      1997260         -1 MINA ARRAY ELEMENT NV03
+NV04      38.42325   -118.30679    1.996 ss      1997260         -1 MINA ARRAY ELEMENT NV04
+NV05      38.44637   -118.29126    2.193 ss      1997260         -1 MINA ARRAY ELEMENT NV05
+NV06      38.42241   -118.27440    1.948 ss      1997260         -1 MINA ARRAY ELEMENT NV06
+NV07      38.41050   -118.29485    1.861 ss      1997260         -1 MINA ARRAY ELEMENT NV07
+NV08      38.40410   -118.31844    1.810 ss      1997260         -1 MINA ARRAY ELEMENT NV08
+NV09      38.43546   -118.33518    1.930 ss      1997260         -1 MINA ARRAY ELEMENT NV09
+NV10      38.44878   -118.31936    2.145 ss      1997260         -1 MINA ARRAY ELEMENT NV10
+NV11      38.43205   -118.15535    1.509 ss      1997260         -1 MINA ARRAY ELEMENT NV11
+NV31      38.43205   -118.15535    1.509 ss      1997260         -1 MINA ARRAY ELEMENT NV31
+NV32      38.33419   -118.30030    1.836 ss      1997260    2008009 MINA ARRAY ELEMENT NV32
+NV33      38.48576   -118.42377    1.946 ss      1997260    2008009 MINA ARRAY ELEMENT NV33
+NVAR      38.42961   -118.30355    2.042 ar      1997260         -1 MINA ARRAY ELEMENT NVAR
+NVIAR     38.42960   -118.30360    2.042 ar      1999319    2000001 Mina Array, Nevada Infra
+NWAO     -32.92770    117.23900     .354 ss      1975244         -1 NARROGIN
+OBN       55.11380     36.56870     .160 ss      1989060         -1 Obninsk
+OPO      -18.57060     47.18790    1.460 ss      1978321         -1 AMBOHIDRATOMPO
+PALK       7.27280     80.70220     .460 ss      2008010         -1 PALLEKELE, SRI LANKA
+PCRV      10.16340    -64.58963     .261 ss      2003245         -1 Puerto la Cruz
+PD01      42.77650   -109.58320    2.199 ss      1991001    2010299 Pinedale Array, Wyoming
+PD01      42.77650   -109.58314    2.192 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD02      42.77820   -109.56640    2.218 ss      1991001    2010299 Pinedale Array, Wyoming
+PD02      42.77818   -109.56630    2.207 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD03      42.77582   -109.54950    2.286 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD03      42.77590   -109.54960    2.293 ss      1991001    2010299 Pinedale Array, Wyoming
+PD04      42.76602   -109.57426    2.172 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD04      42.76600   -109.57440    2.185 ss      1991001    2010299 Pinedale Array, Wyoming
+PD05      42.77040   -109.56660    2.184 ss      1991001    2010299 Pinedale Array, Wyoming
+PD05      42.77048   -109.56646    2.185 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD06      42.76675   -109.55813    2.210 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD06      42.76670   -109.55830    2.224 ss      1991001    2010299 Pinedale Array, Wyoming
+PD07      42.77040   -109.54450    2.331 ss      1991001    2010299 Pinedale Array, Wyoming
+PD07      42.77004   -109.54513    2.341 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD08      42.75897   -109.58343    2.172 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD08      42.75890   -109.58360    2.190 ss      1991001    2010299 Pinedale Array, Wyoming
+PD09      42.76189   -109.56691    2.173 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD09      42.76180   -109.56720    2.208 ss      1991001    2010299 Pinedale Array, Wyoming
+PD10      42.75951   -109.55685    2.199 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD10      42.75950   -109.55700    2.216 ss      1991001    2010299 Pinedale Array, Wyoming
+PD11      42.75260   -109.57690    2.182 ss      1991001    2010299 Pinedale Array, Wyoming
+PD11      42.75265   -109.57681    2.172 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD12      42.75521   -109.56299    2.169 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD12      42.75510   -109.56310    2.186 ss      1991001    2010299 Pinedale Array, Wyoming
+PD13      42.75510   -109.54970    2.337 ss      1991001    2010299 Pinedale Array, Wyoming
+PD13      42.75537   -109.54914    2.245 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD31      42.76738   -109.55790    2.215 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD31      42.76670   -109.55790    2.214 ss      1991001    2010299 Pinedale Array, Wyoming
+PD32      42.76704   -109.55817    2.213 ss      2010300         -1 Pinedale Array, Wyoming, USA
+PD32      42.76700   -109.55820    2.219 ss      2000176    2010299 Pinedale, Wyoming, USA
+PDAR      42.76738   -109.55790    2.213 ar      2010300         -1 Pinedale Array, Wyoming, USA
+PDAR      42.76670   -109.55790    2.214 ar      1991001    2010299 Pinedale Array, Wyoming
+PDI01     42.76680   -109.59390    2.332 ss      1996100         -1 Pinedale Infrasonic Array, Wyoming
+PDI02     42.76630   -109.59280    2.332 ss      1996100         -1 Pinedale Infrasonic Array, Wyoming
+PDI03     42.76590   -109.59390    2.332 ss      1996100         -1 Pinedale Infrasonic Array, Wyoming
+PDI04     42.76630   -109.59500    2.332 ss      1996100         -1 Pinedale Infrasonic Array, Wyoming
+PDIAR     42.76630   -109.59390    2.332 ar      1996100         -1 Pinedale Infrasonic Array, Wyoming
+PDY       59.63330    112.70030     .300 ss      1993218         -1 Peleduy, Russia
+PDY01     59.65530    112.44080     .489 ss      1999080         -1 Peleduy Array, Russia
+PDY02     59.65830    112.44780     .491 ss      1999080         -1 Peleduy Array, Russia
+PDY03     59.65220    112.44360     .504 ss      1999080         -1 Peleduy Array, Russia
+PDY04     59.65830    112.43310     .491 ss      1999080         -1 Peleduy Array, Russia
+PDY05     59.67440    112.44080     .490 ss      1999080         -1 Peleduy Array, Russia
+PDY06     59.65780    112.47560     .468 ss      1999080         -1 Peleduy Array, Russia
+PDY07     59.64220    112.45920     .464 ss      1999080         -1 Peleduy Array, Russia
+PDY08     59.64080    112.42000     .481 ss      1999080         -1 Peleduy Array, Russia
+PDY09     59.66080    112.40640     .483 ss      1999080         -1 Peleduy Array, Russia
+PDY31     59.61750    112.63610     .280 ss      1999080         -1 Peleduy Array, Russia
+PDYAR     59.65530    112.44080     .489 ar      1999080         -1 Peleduy Array, Russia
+PEA0      53.10822    157.69885     .400 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEA0
+PEA0B     53.10822    157.69887     .380 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEA0B
+PEA1      53.11320    157.69840     .391 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEA1
+PEA2      53.10780    157.70510     .381 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEA2
+PEA3      53.10710    157.68971     .415 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEA3
+PEB1      53.12600    157.69040     .369 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEB1
+PEB2      53.11790    157.72190     .367 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEB2
+PEB3      53.10060    157.72390     .406 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEB3
+PEB4      53.09200    157.69710     .432 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEB4
+PEB5      53.11970    157.67500     .430 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEB5
+PES2      53.10960    157.72260     .416 ss      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PES2
+PETK      53.10822    157.69885     .400 ar      2006291         -1 PETROPAVLOVSK-KAMCHATSKIY ARRAY ELEMENT PEA0
+PFO       33.60920   -116.45530    1.280 ss      2006171         -1 PINON FLAT, CALIFORNIA
+PFO       33.60920   -116.45500    1.280 ss      1987001    2006170 Pinon Flat, California
+PLCA     -40.73060    -70.55000     .950 ss      1992300    2002141 Paso Flores, Argentina
+PLCA     -40.73273    -70.55084    1.073 ss      1994308         -1 PASO FLORES, Argentina
+PMG       -9.40920    147.15390     .067 ss      1993253         -1 PORT MORESBY
+PMSA     -64.77420    -64.04900     .010 ss      2006173         -1 PALMER STATION, ANTARTICA
+PPT      -17.58960   -149.57640     .705 ss      2008324         -1 TAHITI-Pamatai PS18, FRENCH POLYNESIA
+PPT      -17.56690   -149.57640     .258 ss      2001155    2008323 TAHITI-Pamatai PS18, FRENCH POLYNESIA
+PSI        2.69520     98.92400    1.069 ss      2005320         -1 PARAPAT, SUMATERA, INDONESIA
+PSUR      36.30160   -122.39330     .000 ar      1995230         -1 Point Sur Array, California
+PSUR0     36.30160   -122.39330     .000 ss      1995230         -1 Point Sur Array, California
+PTGA       -.73158    -59.96863     .258 ss      1995319         -1 Pitinga
+QSPA     -89.92790    145.00000    2.860 ss      2002363         -1 South Pole, Antarctic
+RAO      -29.25170   -177.91830     .110 ss      2005075         -1 RAOUL ISLAND, NEW ZEALAND
+RAR      -21.21250   -159.77330     .028 ss      1997302         -1 RAROTONGA, Cook Islands
+RCBR      -5.82739    -35.90131     .067 ss      2007324         -1 RIACHUELO
+RES       74.68700    -94.90000     .015 ss      1992155    2007304 RESOLUTE, NUNAVUT, CANADA
+RES       74.68923    -94.89617     .019 ss      2007305         -1 RESOLUTE, NUNAVUT, CANADA
+ROSC       4.84486    -74.32120    2.987 ss      1994001         -1 EL ROSAL, COLOMBIA
+RPN      -27.12670   -109.33440     .110 ss      1987166    2004334 Rapanui, Easter Island
+RPN      -27.12670   -109.33440     .110 ss      2004335         -1 EASTER ISLAND, CHILE
+RPZ      -43.71460    171.05400     .418 ss      2001158         -1 RATA PEAKS
+S2A0        .00000       .00000     .000 ss      2000001         -1 CD synthetic data
+S2A1        .00000       .00000     .000 ss      2000001         -1 CD synthetic data
+S2A2        .00000       .00000     .000 ss      2000001         -1 CD synthetic data
+S2A3        .00000       .00000     .000 ss      2000001         -1 CD synthetic data
+SADO      44.76940    -79.14170     .243 ss      1993337         -1 Sadowa, Canada
+SCHQ      54.83240    -66.83318     .498 ss      1994354         -1 SCHEFFERVILLE, QUEBEC, Canada
+SCHQ      54.83190    -66.83360     .501 ss      1994356    2002343 Schefferville, Canada
+SDV        8.88387    -70.63405    1.619 ss      1994231         -1 SANTO DOMINGO, Venezuela
+SEY       62.93280    152.38220     .218 ss      2006332         -1 SEYMCHAN, RUSSIAN FEDERATION
+SFJD      66.99600    -50.62150     .328 ss      2005292         -1 SONDRE STROMFJORD, GREENLAND, DENMARK
+SG01      37.01580   -113.61530     .000 ss      1994330         -1 St. George Infrasonic Array, Utah
+SG02      37.01530   -113.61430     .000 ss      1994330         -1 St. George Infrasonic Array, Utah
+SG03      37.01490   -113.61530     .000 ss      1994330         -1 St. George Infrasonic Array, Utah
+SG04      37.01530   -113.61630     .000 ss      1994330         -1 St. George Infrasonic Array, Utah
+SGAR      37.01530   -113.61530     .000 ar      1994330         -1 St. George Infrasonic Array, Utah
+SIJI       -.86912    131.26605     .193 ss      2010088         -1 Sorong, Irian Jaya, Indonesia
+SIV      -15.99100    -61.07200     .450 ss      2000139         -1 SAN IGNACIO, BOLIVIA
+SJG       18.11170    -66.15000     .457 ss      1997255         -1 San Juan, PR
+SNAA     -71.67070     -2.83790     .846 ss      1997060         -1 SANAE STATION, ANTARCTICA
+SO31      39.67550     -3.96170     .753 ar      2005059         -1 SONSECA MEDIUM PERIOD ARRAY ELEMENT SO31
+SO32      39.84270     -4.62020     .612 ss      2005059         -1 SONSECA MEDIUM PERIOD ARRAY ELEMENT SO32
+SO33      39.79620     -3.81180     .687 ss      2005059         -1 SONSECA MEDIUM PERIOD ARRAY ELEMENT SO33
+SO34      39.61110     -3.78280     .807 ss      2005059         -1 SONSECA MEDIUM PERIOD ARRAY ELEMENT SO34
+SO35      39.50840     -3.97200     .801 ss      2005059         -1 SONSECA MEDIUM PERIOD ARRAY ELEMENT SO35
+SO36      39.59720     -4.16876     .911 ss      2005059         -1 SONSECA MEDIUM PERIOD ARRAY ELEMENT SO36
+SO37      39.74580     -4.19360     .830 ss      2005059         -1 SONSECA MEDIUM PERIOD ARRAY ELEMENT SO37
+SONA0     47.83469    106.39499    1.416 ss      2000245         -1 SONGINO, Mongolia
+SONA1     47.84677    106.40325    1.512 ss      2000245         -1 SONGINO, Mongolia
+SONA2     47.85068    106.39865    1.508 ss      2000245         -1 SONGINO, Mongolia
+SONA3     47.84840    106.40976    1.564 ss      2000245         -1 SONGINO, Mongolia
+SONA4     47.84004    106.40429    1.462 ss      2000245         -1 SONGINO, Mongolia
+SONB1     47.86303    106.40392    1.604 ss      2000245         -1 SONGINO, Mongolia
+SONB2     47.84865    106.42314    1.583 ss      2000245         -1 SONGINO, Mongolia
+SONB3     47.83413    106.41470    1.537 ss      2000245         -1 SONGINO, Mongolia
+SONB4     47.83395    106.36041    1.402 ss      2000245         -1 SONGINO, Mongolia
+SONB5     47.85388    106.36941    1.418 ss      2000245         -1 SONGINO, Mongolia
+SONM      47.83469    106.39499    1.416 ar      2000245         -1 SONGINO, Mongolia
+SPA0      78.17770     16.37000     .323 ss      2007081         -1 Spitsbergen Array, Spitsbergen Norway
+SPA0      78.17770     16.37000     .323 ss      1992311    2007080 Spitsbergen Array, Norway
+SPA1      78.17970     16.37550     .320 ss      2007081    2008099 Spitsbergen Array, Spitsbergen Norway
+SPA1      78.17970     16.37550     .320 ss      1992311    2007080 Spitsbergen Array, Norway
+SPA1      78.17970     16.37550     .320 ss      2008100         -1 Spitsbergen Array, Spitsbergen Norway
+SPA2      78.17590     16.37660     .250 ss      1992311    2007080 Spitsbergen Array, Norway
+SPA2      78.17590     16.37660     .250 ss      2007081    2008099 Spitsbergen Array, Spitsbergen Norway
+SPA2      78.17590     16.37660     .250 ss      2008100         -1 Spitsbergen Array, Spitsbergen Norway
+SPA3      78.17730     16.35880     .339 ar      2007081    2008099 Spitsbergen Array, Spitsbergen Norway
+SPA3      78.17730     16.35880     .339 ss      1992311    2007080 Spitsbergen Array, Norway
+SPA3      78.17730     16.35880     .339 ss      2008100         -1 Spitsbergen Array, Spitsbergen Norway
+SPB1      78.17960     16.39060     .301 ss      2008100         -1 Spitsbergen Array, Spitsbergen Norway
+SPB1      78.17960     16.39060     .301 ss      2007081    2008099 Spitsbergen Array, Spitsbergen Norway
+SPB1      78.17960     16.39060     .301 ss      1992311    2007080 Spitsbergen Array, Norway
+SPB2      78.17420     16.38460     .200 ss      1992311    2007080 Spitsbergen Array, Norway
+SPB2      78.17420     16.38460     .200 ss      2008100         -1 Spitsbergen Array, Spitsbergen Norway
+SPB2      78.17420     16.38460     .200 ss      2007081    2008099 Spitsbergen Array, Spitsbergen Norway
+SPB3      78.17370     16.35840     .234 ss      2007081    2008099 Spitsbergen Array, Spitsbergen Norway
+SPB3      78.17370     16.35840     .234 ss      2008100         -1 Spitsbergen Array, Spitsbergen Norway
+SPB3      78.17370     16.35840     .234 ss      1992311    2007080 Spitsbergen Array, Norway
+SPB4      78.17890     16.34820     .340 ss      1992311    2007080 Spitsbergen Array, Norway
+SPB4      78.17890     16.34820     .340 ss      2008100         -1 Spitsbergen Array, Spitsbergen Norway
+SPB4      78.17890     16.34820     .340 ss      2007081    2008099 Spitsbergen Array, Spitsbergen Norway
+SPB5      78.18230     16.36830     .295 ss      2007081    2008099 Spitsbergen Array, Spitsbergen Norway
+SPB5      78.18230     16.36830     .295 ss      2008100         -1 Spitsbergen Array, Spitsbergen Norway
+SPB5      78.18230     16.36830     .295 ss      1992311    2007080 Spitsbergen Array, Norway
+SPITS     78.17770     16.37000     .323 ar      1992311         -1 Spitsbergen Array, Norway
+STKA     -31.87430    141.59640     .255 ss      2002237         -1 STEPHENS CREEK, Australia
+STKA     -31.87690    141.59520     .230 ss      1991263    2002237 Stephens Creek, Australia
+SUR      -32.37970     20.81170    1.770 ss      1990303         -1 Sutherland, South Africa
+TEIG      20.22640    -88.27760     .069 ss      1996306         -1 TEPICH, YUCATAN
+TGY       14.10080    120.93837     .150 ss      2002224    2005262 TAGAYTAY
+TGY       14.10080    120.93837     .666 ss      2005262         -1 TAGAYTAY
+THR       35.90790     51.12620    2.139 ss      2000117         -1 TEHRAN, IRAN (ISLAMIC REPUBLIC OF)
+TIXI      71.63410    128.86670     .040 ss      2010153         -1 Tiksi
+TKL       35.65800    -83.77400     .351 ss      1978211         -1 TUCKALEECHEE CAVERNS, TN
+TLY       51.68080    103.64380     .580 ss           -1         -1 Talaya
+TOA0      13.14771      1.69471     .214 ss      2005270         -1 TORODI ARRAY ELEMENT TOA0
+TOA0      13.14770      1.69470     .258 ss      2005111    2005269 TORODI ARRAY ELEMENT TOA0
+TOA1      13.15290      1.69180     .260 ss      2005111    2005269 TORODI ARRAY ELEMENT TOA1
+TOA1      13.15292      1.69186     .220 ss      2005270         -1 TORODI ARRAY ELEMENT TOA1
+TOA2      13.14765      1.70040     .216 ss      2005270         -1 TORODI ARRAY ELEMENT TOA2
+TOA2      13.14770      1.70040     .260 ss      2005111    2005269 TORODI ARRAY ELEMENT TOA2
+TOA3      13.14220      1.69330     .257 ss      2005118    2005269 TORODI ARRAY ELEMENT TOA3
+TOA3      13.14216      1.69332     .217 ss      2005270         -1 TORODI ARRAY ELEMENT TOA3
+TOB1      13.16130      1.69340     .280 ss      2005117    2005269 TORODI ARRAY ELEMENT TOB1
+TOB1      13.16127      1.69338     .231 ss      2005270         -1 TORODI ARRAY ELEMENT TOB1
+TOB2      13.15316      1.70706     .216 ss      2005270         -1 TORODI ARRAY ELEMENT TOB2
+TOB2      13.15320      1.70710     .265 ss      2005117    2005269 TORODI ARRAY ELEMENT TOB2
+TOB3      13.13763      1.70425     .216 ss      2005270         -1 TORODI ARRAY ELEMENT TOB3
+TOB3      13.13760      1.70430     .268 ss      2005118    2005269 TORODI ARRAY ELEMENT TOB3
+TOB4      13.13862      1.68380     .226 ss      2005270         -1 TORODI ARRAY ELEMENT TOB4
+TOB4      13.13860      1.68380     .279 ss      2005117    2005269 TORODI ARRAY ELEMENT TOB4
+TOB5      13.15356      1.68060     .219 ss      2005270         -1 TORODI ARRAY ELEMENT TOB5
+TOB5      13.15350      1.68060     .260 ss      2005117    2005269 TORODI ARRAY ELEMENT TOB5
+TOC1      13.17209      1.70173     .233 ss      2005270         -1 TORODI ARRAY ELEMENT TOC1
+TOC1      13.17210      1.70170     .271 ss      2005116    2005269 TORODI ARRAY ELEMENT TOC1
+TOC2      13.15680      1.72040     .260 ss      2005118    2005269 TORODI ARRAY ELEMENT TOC2
+TOC2      13.15683      1.72039     .222 ss      2005270         -1 TORODI ARRAY ELEMENT TOC2
+TOC3      13.13697      1.72055     .214 ss      2005270         -1 TORODI ARRAY ELEMENT TOC3
+TOC3      13.13700      1.72060     .251 ss      2005116    2005269 TORODI ARRAY ELEMENT TOC3
+TOC4      13.12160      1.69941     .232 ss      2005270         -1 TORODI ARRAY ELEMENT TOC4
+TOC4      13.12170      1.69940     .277 ss      2005112    2005269 TORODI ARRAY ELEMENT TOC4
+TOC5      13.12817      1.67509     .232 ss      2005270         -1 TORODI ARRAY ELEMENT TOC5
+TOC5      13.12820      1.67510     .277 ss      2005116    2005269 TORODI ARRAY ELEMENT TOC5
+TOC6      13.14830      1.66554     .226 ss      2005270         -1 TORODI ARRAY ELEMENT TOC6
+TOC6      13.14830      1.66560     .271 ss      2005118    2005269 TORODI ARRAY ELEMENT TOC6
+TOC7      13.16380      1.67870     .266 ss      2005118    2005269 TORODI ARRAY ELEMENT TOC7
+TOC7      13.16375      1.67870     .225 ss      2005270         -1 TORODI ARRAY ELEMENT TOC7
+TORD      13.14771      1.69471     .214 ar      2005270         -1 TORODI ARRAY ELEMENT TOA0
+TORD      13.14770      1.69470     .258 ar      2005111    2005269 TORODI ARRAY ELEMENT TOA0
+TSUM     -19.20220     17.58380    1.240 ss      1994231         -1 Tsumeb
+TX00      29.33380   -103.66700    1.013 ss      1993244    1998303 TXAR Array, Texas
+TX01      29.33397   -103.66769    1.018 ss      2002330    2006213 TEXAS ARRAY, United States
+TX01      29.33397   -103.66769    1.018 ss      2006214         -1 Lajitas Array element TX01
+TX01      29.33380   -103.66700    1.013 ss      1995074    2002330 TXAR Array, Texas
+TX02      29.32970   -103.65750     .952 ss      1993244    2002330 TXAR Array, Texas
+TX02      29.32991   -103.65797     .988 ss      2006214         -1 Lajitas Array element TX02
+TX02      29.32991   -103.65797     .988 ss      2002330    2006213 TEXAS ARRAY, United States
+TX03      29.33100   -103.67400     .990 ss      1993244    2002330 TXAR Array, Texas
+TX03      29.33135   -103.67433    1.017 ss      2002330    2006213 TEXAS ARRAY, United States
+TX03      29.33135   -103.67433    1.017 ss      2006214         -1 Lajitas Array element TX03
+TX04      29.33992   -103.66722    1.087 ss      2006214         -1 Lajitas Array element TX04
+TX04      29.33970   -103.66720    1.013 ss      1993244    2002330 TXAR Array, Texas
+TX04      29.33992   -103.66722    1.087 ss      2002330    2006213 TEXAS ARRAY, United States
+TX05      29.32020   -103.65230     .957 ss      1993244    1995013 TXAR Array, Texas
+TX06      29.31889   -103.68204     .985 ss      2006214         -1 Lajitas Array element TX06
+TX06      29.31870   -103.68150    1.007 ss      1993244    2002330 TXAR Array, Texas
+TX06      29.31889   -103.68204     .985 ss      2002330    2006213 TEXAS ARRAY, United States
+TX07      29.34029   -103.68897    1.087 ss      2006214         -1 Lajitas Array element TX07
+TX07      29.33970   -103.68900    1.038 ss      1993244    2002330 TXAR Array, Texas
+TX07      29.34029   -103.68897    1.087 ss      2002330    2006213 TEXAS ARRAY, United States
+TX08      29.35100   -103.67650    1.015 ss      1993244    2002330 TXAR Array, Texas
+TX08      29.35089   -103.67688    1.068 ss      2002330    2006213 TEXAS ARRAY, United States
+TX08      29.35089   -103.67688    1.068 ss      2006214         -1 Lajitas Array element TX08
+TX09      29.34369   -103.66024    1.010 ss      2002330    2006213 TEXAS ARRAY, United States
+TX09      29.34330   -103.65980    1.001 ss      1993244    2002330 TXAR Array, Texas
+TX09      29.34369   -103.66024    1.010 ss      2006214         -1 Lajitas Array element TX09
+TX10      29.33045   -103.70346    1.055 ss      2002330    2006213 TEXAS ARRAY, United States
+TX10      29.33070   -103.70250    1.033 ss      1995013    2002330 TXAR Array, Texas
+TX10      29.33045   -103.70346    1.055 ss      2006214         -1 Lajitas Array element TX10
+TX11      29.33434   -103.66759    1.023 ss      2002330    2006213 TEXAS ARRAY, United States
+TX11      29.33420   -103.66780    1.025 ss      2000342    2002330 TXAR Array, Texas
+TX11      29.33434   -103.66759    1.023 ss      2006214         -1 Lajitas Array element TX11
+TX31      29.33429   -103.66770    1.021 ss      2002330    2006213 TEXAS ARRAY, United States
+TX31      29.33420   -103.66780    1.025 ss      1998321    2002330 TXAR Array, Texas
+TX31      29.33429   -103.66770    1.021 ss      2006214         -1 Lajitas Array element TX31
+TX32      29.33395   -103.66771    1.019 ss      2006214         -1 Lajitas Array element TX32
+TX32      29.33380   -103.66700    1.013 ss      2000342    2002330 TXAR Array, Texas
+TX32      29.33395   -103.66771    1.019 ss      2002330    2006213 TEXAS ARRAY, United States
+TXAR      29.33380   -103.66700    1.013 ar      1993244    2002330 TXAR Array, Texas
+TXAR      29.33397   -103.66769    1.018 ar      2006214         -1 Lajitas Array element TX01
+TXAR      29.33397   -103.66769    1.018 ar      2002330    2006213 TEXAS ARRAY, United States
+TXI01     29.33380   -103.66700    1.013 ss      1996071    2002330 Lajitas Infrasonic Array, Texas
+TXI01A    29.30000   -103.60000    1.000 ss      1998321    1999074 Lajitas Infrasonic Array, Texas
+TXI02     29.32970   -103.65750     .952 ss      1996071    2002330 Lajitas Infrasonic Array, Texas
+TXI03     29.33100   -103.67400     .990 ss      1996157    2002330 Lajitas Infrasonic Array, Texas
+TXI09     29.34330   -103.65980    1.001 ss      1996071    2002330 Lajitas Infrasonic Array, Texas
+TXIAR     29.33380   -103.66700    1.013 ar      1996210    2002330 TXAR Infrasound Array, Texas
+UKR       62.49320   -114.60530     .197 ar      2000001         -1 MalinStation UKR
+UKR01     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR02     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR03     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR04     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR05     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR06     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR07     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR08     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR09     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR10     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR11     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR12     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR13     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR14     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR16     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR17     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR18     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR19     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR20     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR21     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR22     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR23     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR25     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+UKR26     62.49320   -114.60530     .197 ss      2000001         -1 Testing MalinStation
+ULM       50.24860    -95.87550     .281 ss      1994344    2002343 Lac du Bonnet, Canada
+ULM       50.25026    -95.87496     .251 ss      1984248         -1 LAC DU BONNET, MANITOBA, Canada
+URZ      -38.25920    177.11090     .087 ss      1990282         -1 UREWERA
+USA0      44.19980    131.98880     .170 ss      2008287         -1 USSURIYSK ARRAY ELEMENT USA0
+USA0B     44.19990    131.98870     .170 ss      2008287         -1 USSURIYSK ARRAY ELEMENT USA0B
+USA1      44.20380    131.98850     .160 ss      2008287         -1 USSURIYSK ARRAY ELEMENT USA1
+USA2      44.19700    131.99530     .150 ss      2008287         -1 USSURIYSK ARRAY ELEMENT USA2
+USA3      44.19640    131.98670     .170 ss      2008287         -1 USSURIYSK ARRAY ELEMENT USA3
+USB1      44.21630    131.99150     .180 ss      2008287         -1 USSURIYSK ARRAY ELEMENT USB1
+USB2      44.19750    132.01470     .140 ss      2008287         -1 USSURIYSK ARRAY ELEMENT USB2
+USB3      44.18270    131.99960     .140 ss      2008287         -1 USSURIYSK ARRAY ELEMENT USB3
+USB4      44.19160    131.97200     .140 ss      2008287         -1 USSURIYSK ARRAY ELEMENT USB4
+USB5      44.21050    131.97100     .160 ss      2008287         -1 USSURIYSK ARRAY ELEMENT USB5
+USHA     -54.83486    -68.44344     .106 ss      2003240         -1 USHUAIA
+USRK      44.19980    131.98880     .170 ar      2008287         -1 USSURIYSK ARRAY, Russian Federation.
+VAE       37.46900     14.35330     .735 ss      2000001         -1 VALGUARNERA
+VIB       53.25220   -132.54060    1.008 ss      1985249         -1 Van Inlet, Canada
+VNDA     -77.51390    161.84560     .098 ss      1993362    2002339 Vanda, Antarctica
+VNDA     -77.51730    161.85280     .126 ss      2002352         -1 VANDA, ANTARCTICA, United States of America
+VRAC      49.30828     16.59351     .475 ss      1993152         -1 Vranov, Czech Republic
+WB0      -19.76714    134.39283     .362 ss      1999182         -1 Warramunga Array, Australia
+WB0      -19.76710    134.39270     .392 ss      1965274    1999182 Warramunga Array, Australia
+WB1      -19.95944    134.34642     .394 ss      1999182         -1 Warramunga Array, Australia
+WB1      -19.95950    134.34630     .422 ss      1965274    1999182 Warramunga Array, Australia
+WB2      -19.94275    134.35112     .388 ss      1999182         -1 Warramunga Array, Australia
+WB2      -19.94280    134.35100     .425 ss      1965274    1999182 Warramunga Array, Australia
+WB3      -19.92302    134.35546     .384 ss      1999182         -1 Warramunga Array, Australia
+WB3      -19.92300    134.35540     .416 ss      1965274    1999182 Warramunga Array, Australia
+WB4      -19.90350    134.35910     .409 ss      1965274    1999182 Warramunga Array, Australia
+WB4      -19.90365    134.35893     .381 ss      1999182         -1 Warramunga Array, Australia
+WB5      -19.87822    134.36620     .371 ss      1999182         -1 Warramunga Array, Australia
+WB5      -19.87820    134.36610     .396 ss      1965274    1999182 Warramunga Array, Australia
+WB6      -19.85496    134.36717     .365 ss      1999182         -1 Warramunga Array, Australia
+WB6      -19.85500    134.36700     .396 ss      1965274    1999182 Warramunga Array, Australia
+WB7      -19.84081    134.37946     .353 ss      1999182         -1 Warramunga Array, Australia
+WB7      -19.84080    134.37920     .416 ss      1965274    1999182 Warramunga Array, Australia
+WB8      -19.81390    134.38070     .389 ss      1965274    1999182 Warramunga Array, Australia
+WB8      -19.81394    134.38079     .356 ss      1999182         -1 Warramunga Array, Australia
+WB9      -19.79139    134.38397     .360 ss      1999182         -1 Warramunga Array, Australia
+WB9      -19.79140    134.38380     .391 ss      1965274    1999182 Warramunga Array, Australia
+WC1      -19.92434    134.33905     .392 ss      1999182         -1 Warramunga Array, Australia
+WC2      -19.92538    134.36545     .375 ss      1999182         -1 Warramunga Array, Australia
+WC3      -19.95874    134.37194     .382 ss      1999182         -1 Warramunga Array, Australia
+WC4      -19.96193    134.33973     .388 ss      1999182         -1 Warramunga Array, Australia
+WK30      19.41043    165.85567     .000 ss      1995341         -1 Wake Island
+WK31      17.92746    167.49932     .000 ss      1998035         -1 Wake Island
+WR0      -19.95966    134.54053     .353 ss      1999182         -1 Warramunga Array, Australia
+WR0      -19.95970    134.54040     .375 ss      1965274    1999182 Warramunga Array, Australia
+WR1      -19.94260    134.33940     .419 ss      1965274    1999182 Warramunga Array, Australia
+WR1      -19.94259    134.33951     .389 ss      1999182         -1 Warramunga Array, Australia
+WR2      -19.94680    134.36220     .415 ss      1965274    1999182 Warramunga Array, Australia
+WR2      -19.94686    134.36238     .385 ss      1999182         -1 Warramunga Array, Australia
+WR3      -19.94850    134.38680     .401 ss      1965274    1999182 Warramunga Array, Australia
+WR3      -19.94850    134.38691     .377 ss      1999182         -1 Warramunga Array, Australia
+WR4      -19.95032    134.40661     .374 ss      1999182         -1 Warramunga Array, Australia
+WR4      -19.95030    134.40650     .400 ss      1965274    1999182 Warramunga Array, Australia
+WR5      -19.95217    134.43037     .364 ss      1999182         -1 Warramunga Array, Australia
+WR5      -19.95210    134.43010     .395 ss      1965274    1999182 Warramunga Array, Australia
+WR6      -19.95423    134.45305     .357 ss      1999182         -1 Warramunga Array, Australia
+WR6      -19.95430    134.45380     .382 ss      1965274    1999182 Warramunga Array, Australia
+WR7      -19.95520    134.47590     .382 ss      1965274    1999182 Warramunga Array, Australia
+WR7      -19.95519    134.47602     .355 ss      1999182         -1 Warramunga Array, Australia
+WR8      -19.95570    134.50020     .400 ss      1965274    1999182 Warramunga Array, Australia
+WR8      -19.95579    134.50051     .367 ss      1999182         -1 Warramunga Array, Australia
+WR9      -19.95765    134.51492     .360 ss      1999182         -1 Warramunga Array, Australia
+WR9      -19.95770    134.51480     .383 ss      1965274    1999182 Warramunga Array, Australia
+WRA      -19.94259    134.33951     .389 ar      1999182         -1 Warramunga Array, Australia
+WRA      -19.94260    134.33940     .419 ar      1965274    1999182 Warramunga Array, Australia
+WRAI     -19.94020    134.22600     .401 ar      1975235         -1 Warramunga Infrasonic Array, Australia
+WRAI1    -19.93549    134.24266     .401 ss      1975235         -1 Warramunga Infrasonic Array, Australia
+WRAI2    -19.95815    134.23056     .401 ss      1975235         -1 Warramunga Infrasonic Array, Australia
+WRAI3    -19.94536    134.20972     .401 ss      1975235         -1 Warramunga Infrasonic Array, Australia
+WRAI4    -19.92315    134.22186     .401 ss      1975235         -1 Warramunga Infrasonic Array, Australia
+WRAI5    -19.94020    134.22600     .401 ss      1975235         -1 Warramunga Infrasonic Array, Australia
+WRAI6    -19.93183    134.24573     .401 ss      1975235         -1 Warramunga Infrasonic Array, Australia
+WRAI7    -19.92993    134.24182     .401 ss      1975235         -1 Warramunga Infrasonic Array, Australia
+WSAR      23.23900     58.63070     .326 ss      2006012         -1 WADI SARIN, OMAN
+XAN       34.03944    108.92139     .630 ss      1999181         -1 X'AN
+YAK       62.03110    129.68050     .100 ss           -1         -1 Yakutsk
+YBH       41.73193   -122.71038    1.060 ss      1994205         -1 YREKA, United States of America
+YKA       62.49310   -114.60620     .167 ar      2001227         -1 Yellowknife, Canada
+YKA       62.49320   -114.60530     .197 ar      1963273    2001226 Yellowknife Array, Canada
+YKB0      62.60590   -114.60500     .222 ss      1963273    2001226 Yellowknife Array, Canada
+YKB0      62.60590   -114.60600     .194 ss      2001227         -1 Yellowknife, Canada
+YKB1      62.40240   -114.60540     .173 ss      1963273    2001226 Yellowknife Array, Canada
+YKB1      62.40230   -114.60630     .145 ss      2001227         -1 Yellowknife, Canada
+YKB2      62.42470   -114.60540     .181 ss      1963273    2001226 Yellowknife Array, Canada
+YKB2      62.42470   -114.60630     .150 ss      2001227         -1 Yellowknife, Canada
+YKB3      62.44850   -114.60610     .158 ss      2001227         -1 Yellowknife, Canada
+YKB3      62.44860   -114.60520     .188 ss      1963273    2001226 Yellowknife Array, Canada
+YKB4      62.47090   -114.60580     .164 ss      2001227         -1 Yellowknife, Canada
+YKB4      62.47110   -114.60490     .193 ss      1963273    2001226 Yellowknife Array, Canada
+YKB6      62.51640   -114.60570     .174 ss      2001227         -1 Yellowknife, Canada
+YKB6      62.51650   -114.60500     .203 ss      1963273    2001226 Yellowknife Array, Canada
+YKB7      62.53890   -114.60610     .177 ss      2001227         -1 Yellowknife, Canada
+YKB7      62.53900   -114.60530     .204 ss      1963273    2001226 Yellowknife Array, Canada
+YKB8      62.56150   -114.60550     .171 ss      2001227         -1 Yellowknife, Canada
+YKB8      62.56160   -114.60470     .198 ss      1963273    2001226 Yellowknife Array, Canada
+YKB9      62.58300   -114.60390     .213 ss      1963273    2001226 Yellowknife Array, Canada
+YKB9      62.58290   -114.60470     .187 ss      2001227         -1 Yellowknife, Canada
+YKR1      62.49270   -114.94560     .170 ss      1963273    2001226 Yellowknife Array, Canada
+YKR1      62.49280   -114.94450     .141 ss      2001227         -1 Yellowknife, Canada
+YKR2      62.49280   -114.89640     .175 ss      1963273    2001226 Yellowknife Array, Canada
+YKR2      62.49280   -114.89590     .145 ss      2001227         -1 Yellowknife, Canada
+YKR3      62.49290   -114.84760     .146 ss      2001227         -1 Yellowknife, Canada
+YKR3      62.49300   -114.84770     .177 ss      1963273    2001226 Yellowknife Array, Canada
+YKR4      62.49270   -114.79980     .149 ss      2001227         -1 Yellowknife, Canada
+YKR4      62.49270   -114.79950     .173 ss      1963273    2001226 Yellowknife Array, Canada
+YKR5      62.49320   -114.75040     .154 ss      2001227         -1 Yellowknife, Canada
+YKR5      62.49330   -114.74990     .183 ss      1963273    2001226 Yellowknife Array, Canada
+YKR6      62.49320   -114.70200     .161 ss      2001227         -1 Yellowknife, Canada
+YKR6      62.49330   -114.70140     .192 ss      1963273    2001226 Yellowknife Array, Canada
+YKR7      62.49320   -114.65440     .168 ss      2001227         -1 Yellowknife, Canada
+YKR7      62.49340   -114.65370     .199 ss      1963273    2001226 Yellowknife Array, Canada
+YKR8      62.49320   -114.60530     .197 ss      1963273    2001226 Yellowknife Array, Canada
+YKR8      62.49310   -114.60620     .167 ss      2001227         -1 Yellowknife, Canada
+YKR9      62.49300   -114.55650     .172 ss      2001227         -1 Yellowknife, Canada
+YKR9      62.49310   -114.55570     .201 ss      1963273    2001226 Yellowknife Array, Canada
+YKW1      62.49310   -114.50860     .205 ss      1989273    2001226 Yellowknife, Canada
+YKW1      62.48220   -114.48430     .171 ss      2001227         -1 Yellowknife, Canada
+YKW2      62.43370   -114.60380     .144 ss      2001227         -1 Yellowknife, Canada
+YKW2      62.42480   -114.60540     .200 ss      1989273    2001226 Yellowknife, Canada
+YKW3      62.56080   -114.61640     .180 ss      1989273    2001226 Yellowknife, Canada
+YKW3      62.56160   -114.60990     .170 ss      2001227         -1 Yellowknife, Canada
+YKW4      62.49220   -114.74190     .200 ss      1989273    2001226 Yellowknife, Canada
+YKW4      62.49250   -114.74320     .161 ss      2001227         -1 Yellowknife, Canada
+ZAA0      53.94806     84.81881     .229 ss      2006286         -1 ZALESOVO ARRAY ELEMENT ZAA0
+ZAA0B     53.94805     84.81878     .229 ss      2006286         -1 ZALESOVO ARRAY ELEMENT ZAA0B
+ZAA1      53.95242     84.81902     .246 ss      2006286         -1 ZALESOVO ARRAY ELEMENT ZAA1
+ZAA2      53.94394     84.82365     .207 ss      2006286         -1 ZALESOVO ARRAY ELEMENT ZAA2
+ZAA3      53.94768     84.80906     .243 ss      2006286         -1 ZALESOVO ARRAY ELEMENT ZAA3
+ZAB1      53.96368     84.83075     .245 ss      2006286         -1 ZALESOVO ARRAY ELEMENT ZAB1
+ZAB2      53.94883     84.84621     .254 ss      2006286         -1 ZALESOVO ARRAY ELEMENT ZAB2
+ZAB3      53.93677     84.83420     .234 ss      2006286         -1 ZALESOVO ARRAY ELEMENT ZAB3
+ZAB4      53.93769     84.79847     .200 ss      2006286         -1 ZALESOVO ARRAY ELEMENT ZAB4
+ZAB5      53.95662     84.79723     .196 ss      2006286         -1 ZALESOVO ARRAY ELEMENT ZAB5
+ZAL       53.93670     84.79810     .213 ss      1991346         -1 Zalesovo, Russia
+ZALV      53.94806     84.81881     .229 ar      2006286         -1 ZALESOVO ARRAY ELEMENT ZAA0
+es112       .00000       .00000     .000 ss      2000001         -1 CD synthetic data
+tb159       .00000       .00000     .000 ss      2000001         -1 CD synthetic data
+uc201       .00000       .00000     .000 ss      2000001         -1 CD synthetic data
+uc48        .00000       .00000     .000 ss      2000001         -1 CD synthetic data
+
+1722 rows selected.
+

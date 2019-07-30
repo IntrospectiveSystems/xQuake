@@ -1,0 +1,17 @@
+{
+	"Sources": {
+		"xSim": "{xSim}",
+		"xGraph": "{xGraph}",
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Sniff": {
+			"Module":"xQuake.Kafka.Sniff",
+			"Source":"xQuake",
+			"Par": {
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

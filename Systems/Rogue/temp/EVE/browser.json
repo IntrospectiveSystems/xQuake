@@ -1,0 +1,86 @@
+{
+  "Sources": {
+    "xGraph": "{xGraph}",
+    "xVR": "{xVR}"
+  },
+  "Modules": {
+    "Deferred": [
+      {
+        "Module": "xGraph.Popup",
+        "Source": "xGraph"
+      },
+      {
+        "Module": "xVR.Web.Mouse",
+        "Source": "xVR"
+      },
+      {
+        "Source": "xGraph",
+        "Module": "xGraph.Mouse"
+      },
+      {
+        "Source": "xGraph",
+        "Module": "xGraph.Popup"
+      },
+      {
+        "Module": "xGraph.Popup",
+        "Source": "xGraph"
+      }
+    ],
+    "Mouse": {
+      "Module": "xGraph.Mouse",
+      "Source": "xGraph",
+      "Par": {
+        "Handler": "$EVE3D"
+      }
+    },
+    "Model3D": {
+      "Module": "xVR.Web.Model3D",
+      "Source": "xVR",
+      "Par": {}
+    },
+    "ServerProxy": {
+      "Module": "xGraph.WebProxy",
+      "Source": "xGraph",
+      "Par": {
+        "Link": "$EVE3D",
+        "Role": "Server",
+        "Chan": "EVE3D"
+      }
+    },
+    "ControllerProxy": {
+      "Module": "xGraph.WebProxy",
+      "Source": "xGraph",
+      "Par": {
+        "Chan": "Controller",
+        "Role": "Client"
+      }
+    },
+    "EVE3D": {
+      "Module": "xVR.Web.EVE3D",
+      "Source": "xVR",
+      "Par": {
+        "Root": true,
+        "Navigation": "$Mouse",
+        "Controller": "$ControllerProxy",
+        "Server": "$ServerProxy",
+        "Model3D": "$Model3D",
+        "Clear": "/#00FF00"
+      }
+    },
+    "NavControls": {
+      "Module": "xVR.Remote.NavTerrain",
+      "Source": "xVR",
+      "Par": {
+        "View": "$EVE3D"
+      }
+    },
+    "SceneEditor": {
+      "Module": "xVR.EVE.Remote",
+      "Source": "xVR",
+      "Par": {
+        "View": "$EVE3D",
+        "Controller": "$ControllerProxy"
+      }
+    }
+  }
+}

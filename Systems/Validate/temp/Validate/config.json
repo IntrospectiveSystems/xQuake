@@ -1,0 +1,49 @@
+{
+  "Sources": {
+    "xVR": "{xVR}",
+    "xQuake": "{xQuake}"
+  },
+  "Modules": {
+    "Deferred": [],
+    "Agent": {
+      "Module": "xVR.Orca.Agent",
+      "Source": "xVR",
+      "Par": {
+        "Name": "{Name}",
+        "Daemon": [
+          "{Host}",
+          "{Port}"
+        ],
+        "Services": [
+          "$Mesh"
+        ]
+      }
+    },
+    "Mesh": {
+      "Module": "xVR.Orca.Mesh",
+      "Source": "xVR",
+      "Par": {}
+    },
+    "General": {
+      "Module": "xQuake.Services.General",
+      "Source": "xQuake",
+      "Par": {
+        "mPicks": 2000,
+        "Services": [
+          "$General"
+        ]
+      }
+    },
+    "Rogue": {
+      "Module": "xQuake.Core.Validate",
+      "Source": "xQuake",
+      "Par": {
+        "Agent": "$Agent",
+        "Services": [
+          "$Agent",
+          "$General"
+        ]
+      }
+    }
+  }
+}

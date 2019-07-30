@@ -1,0 +1,55 @@
+{
+	"Sources": {
+		"xSim": "{xSim}",
+		"xGraph": "{xGraph}",
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Hub": {
+			"Module":"xGraph.Proxy",
+			"Source":"xGraph",
+			"Par": {
+				"Chan":"Hub",
+				"Role":"Client",
+				"Link":"$Unit",
+				"Encrypt":false
+			}
+		},
+		"Unit":{
+			"Module":"xSim.Core.Unit",
+			"Source":"xSim",
+			"Par":{
+				"Hub":"$Hub"
+			}
+		},
+		"Controller": {
+			"Module":"xQuake.Associator,Grid",
+			"Source":"xQuake",
+			"Par":{
+				"Hub":"$Hub",
+				"Unit":"$Unit"
+			}
+		},
+		"Evoke": {
+			"Module":"xQuake.Core.Evoke",
+			"Source":"xQuake",
+			"Par":{
+				"Hub":"$Hub",
+				"Unit":"$Unit"
+			}
+		},
+		"X3D": {
+			"Module":"xSim.Core.X3D",
+			"Source":"xSim",
+			"Par":{
+				"Model":"Squid.Chess.Rook",
+				"Position":[0, 10, 0],
+				"Scale": 5.0,
+				"Hub":"$Hub",
+				"Unit":"$Unit"
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"Apex": {
+		"Entity": "PickList.js",
+		"$Setup": "Setup",
+		"$Start": "Start"
+	}
+} 

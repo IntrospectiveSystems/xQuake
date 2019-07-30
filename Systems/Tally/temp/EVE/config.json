@@ -1,0 +1,87 @@
+{
+  "Sources": {
+    "xVR": "{xVR}",
+    "xQuake": "{xQuake}",
+    "xGraph": "{xGraph}"
+  },
+  "Modules": {
+    "Deferred": [],
+    "Agent": {
+      "Module": "xVR.Orca.Agent",
+      "Source": "xVR",
+      "Par": {
+        "Name": "{Name}",
+        "Daemon": [
+          "{Host}",
+          "{Port}"
+        ],
+        "Services": [
+          "$Mesh"
+        ]
+      }
+    },
+    "Mesh": {
+      "Module": "xVR.Orca.Mesh",
+      "Source": "xVR",
+      "Par": {}
+    },
+    "Services": {
+      "Module": "xQuake.Services.Services",
+      "Source": "xQuake",
+      "Par": {}
+    },
+    "Controller": {
+      "Module": "xVR.EVE.Server",
+      "Source": "xVR",
+      "Par": {
+        "Agent": "$Agent",
+        "Services": [
+          "$Agent"
+        ],
+        "Server": "$View3DProxy",
+        "ModelServer": "$ModelServer",
+        "SceneGraph": "scene.json",
+        "CWD": "{cwd}"
+      }
+    },
+    "ControllerLink": {
+      "Module": "xGraph.ServerProxy",
+      "Source": "xGraph",
+      "Par": {
+        "Link": "$Controller",
+        "Chan": "Controller",
+        "Role": "Server",
+        "Server": "$Server"
+      }
+    },
+    "View3DProxy": {
+      "Module": "xGraph.ServerProxy",
+      "Source": "xGraph",
+      "Par": {
+        "Chan": "View3D",
+        "Role": "Client",
+        "Server": "$Server"
+      }
+    },
+    "ModelServer": {
+      "Module": "xVR.Model.Server",
+      "Source": "xVR",
+      "Par": {
+        "Archive": "{Models}"
+      }
+    },
+    "Server": {
+      "Module": "xGraph.WebViewer",
+      "Source": "xGraph",
+      "Version": "1.5.1",
+      "Par": {
+        "ApexList": {
+          "Controller": "$Controller"
+        },
+        "Port": "{WebPort}",
+        "Url": "Paint",
+        "Paint": "@system: browser.json"
+      }
+    }
+  }
+}

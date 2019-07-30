@@ -1,0 +1,8 @@
+{
+  "name": "PopHTML",
+  "version": "1.0.0",
+  "description": "HTML5 based Popup controller",
+  "main": "PopHTML.js",
+  "author": "Introspective Systems, LLC.",
+  "license": "ISC"
+}

@@ -1,0 +1,66 @@
+[
+	{
+		"Name": "Board",
+		"Type": "Terrain",
+		"Model": "IS.Terrain.Layout",
+		"Children":[
+			{
+				"Name": "Gridxxx",
+				"Type": "Fixed",
+				"Position": [0, 0, 0.1],
+				"Model": "IS.Terrain.Grid_200_10"
+			},
+			{
+				"Name": "Validate",
+				"Type": "Artifact",
+				"Title": "Validate",
+				"Deploy": {
+					"Agent": "xQuake.Validate",
+					"Test": "20151007",
+					"Range": [2200, 2240],
+					"Range1": [7188, 7388]
+				},
+				"Model": "Squid.PlasmaGenerator",
+				"Position": [0, 0, 0],
+				"Scale": 5.0,
+				"Links": [
+					"Darwin"
+				]
+			},
+			{
+				"Name": "Darwin",
+				"Type": "Artifact",
+				"Title": "Darwin",
+				"Deploy": {
+					"Agent": "xQuake.Darwin",
+					"Traps": [
+						{
+							"Use": true,
+							"Delta": 0.5,
+							"DeltaMax": 5.0,
+							"Detect": 18,
+							"Z": [5],
+							"Iter": 1000,
+							"N": 6,
+							"Thresh": 2.0
+						},				
+						{
+							"Use": false,
+							"Delta": 10.0,
+							"DeltaMax": 60.0,
+							"Detect": 24,
+							"Z": [5],
+							"Iter": 1000,
+							"N": 7,
+							"Thresh": 2.0,
+							"Nets": [ "IU", "US", "II", "CU", "G", "GE", "IM", "IC", "GT", "C", "AU", "MX", "AT", "JP", "NZ" ]
+						}					
+					]
+				},
+				"Model": "Squid.Chess.Pawn",
+				"Position": [10, 0, 0],
+				"Scale": 5.0
+			}
+		]
+	}
+]

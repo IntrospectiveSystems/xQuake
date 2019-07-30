@@ -1,0 +1,8 @@
+alv425-cjohnson ~> which sqlplus
+/cots/oracle/oic-12.1.0.2/bin/sqlplus
+alv425-cjohnson ~> env | grep -i oracle
+LD_LIBRARY_PATH=/dvl/software/shi/netvisa/lib:/lib64:/lib:/usr/lib64:/usr/lib:/cots/oracle/oic-12.1.0.2/lib:/dvl/software/shi/rel/lib/Linux-2.6.32-431.20.3.el6.x86_64-x86_64:/dvl/software/shared/nms/usr/lib64
+TNS_ADMIN=/cots/oracle/conf
+PATH=/bin:/usr/bin:/cots/oracle/oic-12.1.0.2/bin:/cots/oracle/oracle-11.2.0.3/sqldeveloper/sqldeveloper/bin:/cots/oracle/sqlcl/bin:/dvl/software/shi/scripts/bin:/dvl/software/shi/rel/bin:/dvl/software/rn/rel/bin:/dvl/software/shared/nms/usr/bin:/cots/Matlab/2010a/bin:/home/cjohnson/bin
+ORACLE_HOME=/cots/oracle/oic-12.1.0.2
+alv425-cjohnson ~>

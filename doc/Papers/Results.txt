@@ -1,0 +1,21 @@
+
+1000 iterations at full Sigdis (1 degree)
+Hypo:20190118151730.389  35.2892  -97.9547   6.12
+   FNO.HHZ.OK.01    0.45   0.11
+  X34A.HHZ.OK.--    0.69   0.24
+  CSTR.HHZ.OK.--    0.70   4.49
+  CHOK.HHZ.OK.--    0.78  -0.37
+  HTCH.HHZ.OK.--    0.79   0.00
+  WMOK.BHZ.US.10    0.87  -0.70
+  W35A.HHZ.OK.--    0.89  -0.66
+
+1000 interations with 0.5 degree spacing
+  Hypo:20190118151730.190  35.2882  -97.9560   5.39
+   FNO.HHZ.OK.01    0.46   0.30
+  X34A.HHZ.OK.--    0.69   0.46
+  CSTR.HHZ.OK.--    0.70   4.70
+  CHOK.HHZ.OK.--    0.78  -0.19
+  HTCH.HHZ.OK.--    0.79   0.19
+  WMOK.BHZ.US.10    0.87  -0.46
+  W35A.HHZ.OK.--    0.90  -0.47
+  CROK.HHZ.OK.--    1.21  -5.50

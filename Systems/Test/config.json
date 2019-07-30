@@ -1,0 +1,16 @@
+{
+	"Sources":{
+		"xGraph": "{xGraph}",
+		"xQuake": "{xQuake}"
+	},
+	"Cache": "cache",
+	"Name": "Test",
+	"Modules": {
+		"Trav": {
+			"Module": "xQuake.Test",
+			"Source": "xQuake",
+			"Par": {
+			}
+		}
+	}
+}

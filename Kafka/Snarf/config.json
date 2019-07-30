@@ -1,0 +1,63 @@
+{
+	"Sources": {
+		"xSim": "{xSim}",
+		"xGraph": "{xGraph}",
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Hub": {
+			"Module":"xGraph.Proxy",
+			"Source":"xGraph",
+			"Par": {
+				"Chan":"Hub",
+				"Role":"Client",
+				"Link":"$Unit"
+			}
+		},
+		"Unit":{
+			"Module":"xSim.Core.Unit",
+			"Source":"xSim",
+			"Par":{
+				"Hub":"$Hub"
+			}
+		},
+		"Clock": {
+			"Module": "xSim.Core.Clock",
+			"Source":"xSim",
+			"Par":{
+				"Hub":"$Hub",
+				"Unit":"$Unit"
+			}
+		},
+		"Controller": {
+			"Module":"xQuake.Kafka.Snarf",
+			"Source":"xQuake",
+			"Par":{
+				"Topic":"Dev-RayPicker-1",
+				"Hub":"$Hub",
+				"Unit":"$Unit",
+				"Clock":"$Clock"
+			}
+		},
+		"Evoke": {
+			"Module":"xQuake.Core.Evoke",
+			"Source":"xQuake",
+			"Par":{
+				"Hub":"$Hub",
+				"Unit":"$Unit"
+			}
+		},
+		"X3D": {
+			"Module":"xSim.Core.X3D",
+			"Source":"xSim",
+			"Par":{
+				"Model":"Geo.101Plants.cactus5",
+				"Position":[0, 0, 0],
+				"Hub":"$Hub",
+				"Unit":"$Unit"
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

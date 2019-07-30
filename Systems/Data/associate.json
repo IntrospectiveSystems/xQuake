@@ -1,0 +1,18 @@
+{
+	"Triggers": {
+		"Oklahoma": {
+			"Type": "Grid",
+			"Thresh": 3.0,
+			"Nucleate": 6,
+			"N": 12,
+			"Rows": 1,
+			"Cols": 1,
+			"Resolution": 10,
+			"Range": 200,
+			"Lat": 35.3165,
+			"Lon": -97.9811,
+			"Dep": 5.00,
+			"Nada": "Nada"
+		}
+	}
+}

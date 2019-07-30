@@ -1,0 +1,118 @@
+{
+  "Sources": {
+    "xVR": "{xVR}",
+    "xQuake": "{xQuake}"
+  },
+  "Modules": {
+    "Deferred": [],
+    "Agent": {
+      "Module": "xVR.Orca.Agent",
+      "Source": "xVR",
+      "Par": {
+        "Name": "{Name}",
+        "Daemon": [
+          "{Host}",
+          "{Port}"
+        ],
+        "Services": [
+          "$Mesh"
+        ]
+      }
+    },
+    "Mesh": {
+      "Module": "xVR.Orca.Mesh",
+      "Source": "xVR",
+      "Par": {}
+    },
+    "Services": {
+      "Module": "xQuake.Services.Services",
+      "Source": "xQuake",
+      "Par": {}
+    },
+    "HypoList": {
+      "Module": "xQuake.Services.HypoList",
+      "Source": "xQuake",
+      "Par": {
+        "mHypos": 100,
+        "Services": [
+          "$Services"
+        ]
+      }
+    },
+    "PickList": {
+      "Module": "xQuake.Services.PickList",
+      "Source": "xQuake",
+      "Par": {
+        "mPicks": 2000,
+        "Services": [
+          "$Services"
+        ]
+      }
+    },
+    "Associate": {
+      "Module": "xQuake.Services.Associate",
+      "Source": "xQuake",
+      "Par": {
+        "Services": [
+          "$HypoList",
+          "$PickList",
+          "$Trav",
+          "$Services"
+        ]
+      }
+    },
+    "Locate": {
+      "Module": "xQuake.Services.Locate",
+      "Source": "xQuake",
+      "Par": {
+        "Services": [
+          "$HypoList",
+          "$PickList",
+          "$Trav",
+          "$Services"
+        ]
+      }
+    },
+    "Nucleate": {
+      "Module": "xQuake.Services.Nucleate",
+      "Source": "xQuake",
+      "Par": {
+        "Services": [
+          "$HypoList",
+          "$PickList",
+          "$Trav",
+          "$Services",
+          "$Locate"
+        ]
+      }
+    },
+    "Trav": {
+      "Module": "xQuake.Services.Trav",
+      "Source": "xQuake",
+      "Par": {
+        "Data": "{Data}",
+        "Branch": [
+          "P"
+        ]
+      }
+    },
+    "Darwin": {
+      "Module": "xQuake.Darwin",
+      "Source": "xQuake",
+      "Par": {
+        "Agent": "$Agent",
+        "Data": "{Data}",
+        "Services": [
+          "$Agent",
+          "$HypoList",
+          "$PickList",
+          "$Associate",
+          "$Nucleate",
+          "$Locate",
+          "$Trav",
+          "$Services"
+        ]
+      }
+    }
+  }
+}

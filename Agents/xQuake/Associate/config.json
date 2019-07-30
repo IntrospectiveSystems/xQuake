@@ -1,0 +1,32 @@
+{
+	"Sources": {
+		"xQuake": "{xQuake}"
+	},
+	"Modules": {
+		"Trav": {
+			"Module": "xQuake.Services.Trav",
+			"Source": "xQuake",
+			"Par": {
+				"Data":"{Data}",
+				"Branch":[
+					"P"
+				]
+			}
+		},
+		"Associate": {
+			"Module": "xQuake.Associator.Associate",
+			"Source":"xQuake",
+			"Par":{
+				"Agent": "$Agent",
+				"Data":"{Data}",
+				"Services": [
+					"$Agent",
+					"$Trav",
+					"$Services"
+				]
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

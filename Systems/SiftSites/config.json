@@ -1,0 +1,31 @@
+{
+	"Sources":{
+		"xGraph": "{xGraph}",
+		"xQuake": "{xQuake}"
+	},
+	"Cache": "cache",
+	"Name": "Kafka",
+	"Modules": {
+		"Sift": {
+			"Module": "xQuake:Archive/Sift",
+			"Source": "xQuake",
+			"Par": {
+				"Archive":"{Picks}",
+				"Sites":"$Sites"
+			}
+		},
+		"Sites": {
+			"Module":"xQuake.Core.Sites",
+			"Source":"xQuake",
+			"Par":{
+				"Data":"{Data}",
+				"StationData":[
+					{
+						"Format":"NEIC",
+						"Path":"latest_stationlist.txt"
+					}
+				]
+			}
+		}
+	}
+}
